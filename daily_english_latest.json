@@ -1,0 +1,996 @@
+{
+  "schemaVersion": 1,
+  "packId": "daily-english-2026-08-01",
+  "date": "2026-08-01",
+  "title": "오늘의 영어 집중 학습팩",
+  "description": "중등·고등·수능·9급 필수 어휘 20개, 문장 10개, 확인 문제 30개",
+  "words": [
+    {
+      "id": "eng-2026-08-01-word-001",
+      "word": "allocate",
+      "meaning": "할당하다, 배분하다",
+      "example": "The city allocated more funds to public transportation.",
+      "exampleTranslation": "시는 대중교통에 더 많은 예산을 배분했다.",
+      "memoryTip": "all + locate → 필요한 곳에 나누어 배치한다고 기억",
+      "level": "중등"
+    },
+    {
+      "id": "eng-2026-08-01-word-002",
+      "word": "comply",
+      "meaning": "준수하다, 따르다",
+      "example": "All applicants must comply with the new safety rules.",
+      "exampleTranslation": "모든 지원자는 새로운 안전 규정을 준수해야 한다.",
+      "memoryTip": "completely + apply처럼 '완전히 따르다'로 연상",
+      "level": "중등"
+    },
+    {
+      "id": "eng-2026-08-01-word-003",
+      "word": "retain",
+      "meaning": "유지하다, 보유하다",
+      "example": "The agency will retain the records for five years.",
+      "exampleTranslation": "그 기관은 기록을 5년간 보관할 것이다.",
+      "memoryTip": "re(계속) + tain(잡다) → 계속 붙잡아 두다",
+      "level": "중등"
+    },
+    {
+      "id": "eng-2026-08-01-word-004",
+      "word": "eligible",
+      "meaning": "자격이 있는",
+      "example": "Only eligible residents may apply for the benefit.",
+      "exampleTranslation": "자격이 있는 주민만 그 혜택을 신청할 수 있다.",
+      "memoryTip": "election에 나갈 자격이 있는 사람을 떠올리기",
+      "level": "중등"
+    },
+    {
+      "id": "eng-2026-08-01-word-005",
+      "word": "facilitate",
+      "meaning": "촉진하다, 용이하게 하다",
+      "example": "The online form facilitates faster processing.",
+      "exampleTranslation": "온라인 양식은 더 빠른 처리를 가능하게 한다.",
+      "memoryTip": "facility가 일을 쉽게 해 주는 시설이라는 점과 연결",
+      "level": "중등"
+    },
+    {
+      "id": "eng-2026-08-01-word-006",
+      "word": "verify",
+      "meaning": "확인하다, 검증하다",
+      "example": "Please verify your address before submitting the form.",
+      "exampleTranslation": "양식을 제출하기 전에 주소를 확인해 주세요.",
+      "memoryTip": "very + sure → 아주 확실하게 확인",
+      "level": "고등"
+    },
+    {
+      "id": "eng-2026-08-01-word-007",
+      "word": "sufficient",
+      "meaning": "충분한",
+      "example": "There is sufficient evidence to support the decision.",
+      "exampleTranslation": "그 결정을 뒷받침할 충분한 증거가 있다.",
+      "memoryTip": "suffice(충분하다)에서 파생",
+      "level": "고등"
+    },
+    {
+      "id": "eng-2026-08-01-word-008",
+      "word": "implement",
+      "meaning": "시행하다, 실행하다",
+      "example": "The department will implement the policy next month.",
+      "exampleTranslation": "그 부서는 다음 달에 정책을 시행할 것이다.",
+      "memoryTip": "계획을 실제 행동에 '입혀' 실행한다고 기억",
+      "level": "고등"
+    },
+    {
+      "id": "eng-2026-08-01-word-009",
+      "word": "inevitable",
+      "meaning": "불가피한",
+      "example": "Some delay was inevitable because of the storm.",
+      "exampleTranslation": "폭풍 때문에 약간의 지연은 불가피했다.",
+      "memoryTip": "in(아닌) + evitable(피할 수 있는) → 피할 수 없는",
+      "level": "고등"
+    },
+    {
+      "id": "eng-2026-08-01-word-010",
+      "word": "transparent",
+      "meaning": "투명한, 명확한",
+      "example": "A transparent process can increase public trust.",
+      "exampleTranslation": "투명한 절차는 국민의 신뢰를 높일 수 있다.",
+      "memoryTip": "transparent glass처럼 속이 보이는",
+      "level": "고등"
+    },
+    {
+      "id": "eng-2026-08-01-word-011",
+      "word": "derive",
+      "meaning": "끌어내다, 유래하다",
+      "example": "The conclusion was derived from several reports.",
+      "exampleTranslation": "그 결론은 여러 보고서에서 도출되었다.",
+      "memoryTip": "강에서 물을 끌어오는 모습으로 연상",
+      "level": "수능"
+    },
+    {
+      "id": "eng-2026-08-01-word-012",
+      "word": "consecutive",
+      "meaning": "연속적인",
+      "example": "She worked for ten consecutive days.",
+      "exampleTranslation": "그녀는 열흘 연속으로 일했다.",
+      "memoryTip": "consecutive wins = 연승",
+      "level": "수능"
+    },
+    {
+      "id": "eng-2026-08-01-word-013",
+      "word": "assess",
+      "meaning": "평가하다",
+      "example": "The committee will assess the effectiveness of the program.",
+      "exampleTranslation": "위원회는 그 프로그램의 효과성을 평가할 것이다.",
+      "memoryTip": "시험 assessment와 연결",
+      "level": "수능"
+    },
+    {
+      "id": "eng-2026-08-01-word-014",
+      "word": "reluctant",
+      "meaning": "꺼리는, 마지못한",
+      "example": "He was reluctant to change the existing procedure.",
+      "exampleTranslation": "그는 기존 절차를 바꾸기를 꺼렸다.",
+      "memoryTip": "운이 다시 필요해 망설이는 모습으로 연상",
+      "level": "수능"
+    },
+    {
+      "id": "eng-2026-08-01-word-015",
+      "word": "substantial",
+      "meaning": "상당한, 실질적인",
+      "example": "The reform produced substantial savings.",
+      "exampleTranslation": "그 개혁은 상당한 비용 절감을 가져왔다.",
+      "memoryTip": "substance(실질) 있는 변화",
+      "level": "수능"
+    },
+    {
+      "id": "eng-2026-08-01-word-016",
+      "word": "correspond",
+      "meaning": "일치하다, 서신을 주고받다",
+      "example": "The figures do not correspond with the original data.",
+      "exampleTranslation": "그 수치는 원래 자료와 일치하지 않는다.",
+      "memoryTip": "서로 응답하여 맞아떨어짐",
+      "level": "9급"
+    },
+    {
+      "id": "eng-2026-08-01-word-017",
+      "word": "prohibit",
+      "meaning": "금지하다",
+      "example": "The rule prohibits parking near the entrance.",
+      "exampleTranslation": "그 규정은 입구 근처 주차를 금지한다.",
+      "memoryTip": "inhibit보다 강하게 막는다고 기억",
+      "level": "9급"
+    },
+    {
+      "id": "eng-2026-08-01-word-018",
+      "word": "adjacent",
+      "meaning": "인접한",
+      "example": "The office is adjacent to the main library.",
+      "exampleTranslation": "그 사무실은 중앙 도서관에 인접해 있다.",
+      "memoryTip": "붙어 있는 adjacent seat",
+      "level": "9급"
+    },
+    {
+      "id": "eng-2026-08-01-word-019",
+      "word": "prioritize",
+      "meaning": "우선순위를 두다",
+      "example": "The team prioritized urgent complaints.",
+      "exampleTranslation": "그 팀은 긴급 민원을 우선 처리했다.",
+      "memoryTip": "priority에 -ize를 붙인 동사",
+      "level": "9급"
+    },
+    {
+      "id": "eng-2026-08-01-word-020",
+      "word": "consistent",
+      "meaning": "일관된, 지속적인",
+      "example": "Consistent practice improves speaking confidence.",
+      "exampleTranslation": "꾸준한 연습은 말하기 자신감을 높인다.",
+      "memoryTip": "consistently = 한결같이",
+      "level": "9급"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "eng-2026-08-01-sentence-001",
+      "sentence": "Applicants are required to submit all supporting documents by Friday.",
+      "translation": "지원자는 금요일까지 모든 증빙 서류를 제출해야 한다.",
+      "chunks": [
+        "Applicants",
+        "are required to submit",
+        "all supporting documents",
+        "by Friday"
+      ],
+      "structure": "주어 Applicants + 수동 의무 표현 are required to submit + 목적어 + 기한",
+      "speechText": "Applicants are required to submit all supporting documents by Friday."
+    },
+    {
+      "id": "eng-2026-08-01-sentence-002",
+      "sentence": "The policy was revised to reflect changes in public demand.",
+      "translation": "그 정책은 국민 수요의 변화를 반영하기 위해 개정되었다.",
+      "chunks": [
+        "The policy",
+        "was revised",
+        "to reflect changes",
+        "in public demand"
+      ],
+      "structure": "주어 + 수동태 was revised + 목적의 to부정사",
+      "speechText": "The policy was revised to reflect changes in public demand."
+    },
+    {
+      "id": "eng-2026-08-01-sentence-003",
+      "sentence": "Even if the process seems complicated, each step serves a specific purpose.",
+      "translation": "절차가 복잡해 보이더라도 각 단계에는 구체적인 목적이 있다.",
+      "chunks": [
+        "Even if the process seems complicated",
+        "each step",
+        "serves",
+        "a specific purpose"
+      ],
+      "structure": "양보절 Even if + 주절 each step serves",
+      "speechText": "Even if the process seems complicated, each step serves a specific purpose."
+    },
+    {
+      "id": "eng-2026-08-01-sentence-004",
+      "sentence": "Citizens are more likely to trust decisions when the reasons are clearly explained.",
+      "translation": "시민은 결정의 이유가 명확히 설명될 때 그 결정을 더 신뢰하는 경향이 있다.",
+      "chunks": [
+        "Citizens",
+        "are more likely to trust decisions",
+        "when the reasons",
+        "are clearly explained"
+      ],
+      "structure": "주어 + be likely to + 동사 + when 수동태 절",
+      "speechText": "Citizens are more likely to trust decisions when the reasons are clearly explained."
+    },
+    {
+      "id": "eng-2026-08-01-sentence-005",
+      "sentence": "The committee postponed the vote because additional evidence had not been reviewed.",
+      "translation": "추가 증거가 검토되지 않았기 때문에 위원회는 표결을 연기했다.",
+      "chunks": [
+        "The committee postponed the vote",
+        "because additional evidence",
+        "had not been reviewed"
+      ],
+      "structure": "주절 + because + 과거완료 수동태",
+      "speechText": "The committee postponed the vote because additional evidence had not been reviewed."
+    },
+    {
+      "id": "eng-2026-08-01-sentence-006",
+      "sentence": "What matters most is whether the service actually meets users' needs.",
+      "translation": "가장 중요한 것은 그 서비스가 실제로 이용자의 요구를 충족하는지 여부이다.",
+      "chunks": [
+        "What matters most",
+        "is",
+        "whether the service actually meets",
+        "users' needs"
+      ],
+      "structure": "What 명사절이 주어 + be동사 + whether 명사절이 보어",
+      "speechText": "What matters most is whether the service actually meets users' needs."
+    },
+    {
+      "id": "eng-2026-08-01-sentence-007",
+      "sentence": "The new system not only reduces errors but also shortens processing time.",
+      "translation": "새 시스템은 오류를 줄일 뿐만 아니라 처리 시간도 단축한다.",
+      "chunks": [
+        "The new system",
+        "not only reduces errors",
+        "but also shortens",
+        "processing time"
+      ],
+      "structure": "not only A but also B 병렬 구조",
+      "speechText": "The new system not only reduces errors but also shortens processing time."
+    },
+    {
+      "id": "eng-2026-08-01-sentence-008",
+      "sentence": "Unless the information is updated regularly, it may quickly become unreliable.",
+      "translation": "정보가 정기적으로 갱신되지 않으면 곧 신뢰할 수 없게 될 수 있다.",
+      "chunks": [
+        "Unless the information is updated regularly",
+        "it may quickly become",
+        "unreliable"
+      ],
+      "structure": "Unless 조건절 + 주절 may become",
+      "speechText": "Unless the information is updated regularly, it may quickly become unreliable."
+    },
+    {
+      "id": "eng-2026-08-01-sentence-009",
+      "sentence": "No decision should be made until all relevant factors have been considered.",
+      "translation": "모든 관련 요소가 검토될 때까지 어떤 결정도 내려져서는 안 된다.",
+      "chunks": [
+        "No decision",
+        "should be made",
+        "until all relevant factors",
+        "have been considered"
+      ],
+      "structure": "부정 주어 No decision + 수동태 + until 현재완료 수동태",
+      "speechText": "No decision should be made until all relevant factors have been considered."
+    },
+    {
+      "id": "eng-2026-08-01-sentence-010",
+      "sentence": "By comparing several alternatives, the agency found a more efficient solution.",
+      "translation": "여러 대안을 비교함으로써 그 기관은 더 효율적인 해결책을 찾았다.",
+      "chunks": [
+        "By comparing several alternatives",
+        "the agency found",
+        "a more efficient solution"
+      ],
+      "structure": "By + 동명사 방법 표현 + 주어 + 동사 + 목적어",
+      "speechText": "By comparing several alternatives, the agency found a more efficient solution."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "id": "eng-2026-08-01-quiz-001",
+      "type": "vocabulary",
+      "sourceId": "eng-2026-08-01-word-001",
+      "question": "다음 단어의 뜻으로 가장 적절한 것은? allocate",
+      "choices": [
+        "할당하다, 배분하다",
+        "촉진하다, 용이하게 하다",
+        "시행하다, 실행하다",
+        "끌어내다, 유래하다",
+        "준수하다, 따르다",
+        "유지하다, 보유하다",
+        "자격이 있는",
+        "확인하다, 검증하다",
+        "충분한",
+        "불가피한",
+        "투명한, 명확한",
+        "연속적인",
+        "평가하다",
+        "꺼리는, 마지못한",
+        "상당한, 실질적인",
+        "일치하다, 서신을 주고받다",
+        "금지하다",
+        "인접한",
+        "우선순위를 두다",
+        "일관된, 지속적인"
+      ],
+      "answer": 0,
+      "explanation": "allocate는 '할당하다, 배분하다'라는 뜻이다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-002",
+      "type": "vocabulary",
+      "sourceId": "eng-2026-08-01-word-002",
+      "question": "다음 단어의 뜻으로 가장 적절한 것은? comply",
+      "choices": [
+        "시행하다, 실행하다",
+        "준수하다, 따르다",
+        "평가하다",
+        "인접한",
+        "할당하다, 배분하다",
+        "유지하다, 보유하다",
+        "자격이 있는",
+        "촉진하다, 용이하게 하다",
+        "확인하다, 검증하다",
+        "충분한",
+        "불가피한",
+        "투명한, 명확한",
+        "끌어내다, 유래하다",
+        "연속적인",
+        "꺼리는, 마지못한",
+        "상당한, 실질적인",
+        "일치하다, 서신을 주고받다",
+        "금지하다",
+        "우선순위를 두다",
+        "일관된, 지속적인"
+      ],
+      "answer": 1,
+      "explanation": "comply는 '준수하다, 따르다'라는 뜻이다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-003",
+      "type": "vocabulary",
+      "sourceId": "eng-2026-08-01-word-003",
+      "question": "다음 단어의 뜻으로 가장 적절한 것은? retain",
+      "choices": [
+        "끌어내다, 유래하다",
+        "인접한",
+        "유지하다, 보유하다",
+        "확인하다, 검증하다",
+        "할당하다, 배분하다",
+        "준수하다, 따르다",
+        "자격이 있는",
+        "촉진하다, 용이하게 하다",
+        "충분한",
+        "시행하다, 실행하다",
+        "불가피한",
+        "투명한, 명확한",
+        "연속적인",
+        "평가하다",
+        "꺼리는, 마지못한",
+        "상당한, 실질적인",
+        "일치하다, 서신을 주고받다",
+        "금지하다",
+        "우선순위를 두다",
+        "일관된, 지속적인"
+      ],
+      "answer": 2,
+      "explanation": "retain는 '유지하다, 보유하다'라는 뜻이다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-004",
+      "type": "vocabulary",
+      "sourceId": "eng-2026-08-01-word-004",
+      "question": "다음 단어의 뜻으로 가장 적절한 것은? eligible",
+      "choices": [
+        "꺼리는, 마지못한",
+        "유지하다, 보유하다",
+        "평가하다",
+        "자격이 있는",
+        "할당하다, 배분하다",
+        "준수하다, 따르다",
+        "촉진하다, 용이하게 하다",
+        "확인하다, 검증하다",
+        "충분한",
+        "시행하다, 실행하다",
+        "불가피한",
+        "투명한, 명확한",
+        "끌어내다, 유래하다",
+        "연속적인",
+        "상당한, 실질적인",
+        "일치하다, 서신을 주고받다",
+        "금지하다",
+        "인접한",
+        "우선순위를 두다",
+        "일관된, 지속적인"
+      ],
+      "answer": 3,
+      "explanation": "eligible는 '자격이 있는'라는 뜻이다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-005",
+      "type": "vocabulary",
+      "sourceId": "eng-2026-08-01-word-005",
+      "question": "다음 단어의 뜻으로 가장 적절한 것은? facilitate",
+      "choices": [
+        "촉진하다, 용이하게 하다",
+        "금지하다",
+        "불가피한",
+        "일관된, 지속적인",
+        "할당하다, 배분하다",
+        "준수하다, 따르다",
+        "유지하다, 보유하다",
+        "자격이 있는",
+        "확인하다, 검증하다",
+        "충분한",
+        "시행하다, 실행하다",
+        "투명한, 명확한",
+        "끌어내다, 유래하다",
+        "연속적인",
+        "평가하다",
+        "꺼리는, 마지못한",
+        "상당한, 실질적인",
+        "일치하다, 서신을 주고받다",
+        "인접한",
+        "우선순위를 두다"
+      ],
+      "answer": 0,
+      "explanation": "facilitate는 '촉진하다, 용이하게 하다'라는 뜻이다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-006",
+      "type": "vocabulary",
+      "sourceId": "eng-2026-08-01-word-006",
+      "question": "다음 단어의 뜻으로 가장 적절한 것은? verify",
+      "choices": [
+        "일관된, 지속적인",
+        "확인하다, 검증하다",
+        "꺼리는, 마지못한",
+        "시행하다, 실행하다",
+        "할당하다, 배분하다",
+        "준수하다, 따르다",
+        "유지하다, 보유하다",
+        "자격이 있는",
+        "촉진하다, 용이하게 하다",
+        "충분한",
+        "불가피한",
+        "투명한, 명확한",
+        "끌어내다, 유래하다",
+        "연속적인",
+        "평가하다",
+        "상당한, 실질적인",
+        "일치하다, 서신을 주고받다",
+        "금지하다",
+        "인접한",
+        "우선순위를 두다"
+      ],
+      "answer": 1,
+      "explanation": "verify는 '확인하다, 검증하다'라는 뜻이다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-007",
+      "type": "vocabulary",
+      "sourceId": "eng-2026-08-01-word-007",
+      "question": "다음 단어의 뜻으로 가장 적절한 것은? sufficient",
+      "choices": [
+        "유지하다, 보유하다",
+        "우선순위를 두다",
+        "충분한",
+        "상당한, 실질적인",
+        "할당하다, 배분하다",
+        "준수하다, 따르다",
+        "자격이 있는",
+        "촉진하다, 용이하게 하다",
+        "확인하다, 검증하다",
+        "시행하다, 실행하다",
+        "불가피한",
+        "투명한, 명확한",
+        "끌어내다, 유래하다",
+        "연속적인",
+        "평가하다",
+        "꺼리는, 마지못한",
+        "일치하다, 서신을 주고받다",
+        "금지하다",
+        "인접한",
+        "일관된, 지속적인"
+      ],
+      "answer": 2,
+      "explanation": "sufficient는 '충분한'라는 뜻이다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-008",
+      "type": "vocabulary",
+      "sourceId": "eng-2026-08-01-word-008",
+      "question": "다음 단어의 뜻으로 가장 적절한 것은? implement",
+      "choices": [
+        "확인하다, 검증하다",
+        "자격이 있는",
+        "준수하다, 따르다",
+        "시행하다, 실행하다",
+        "할당하다, 배분하다",
+        "유지하다, 보유하다",
+        "촉진하다, 용이하게 하다",
+        "충분한",
+        "불가피한",
+        "투명한, 명확한",
+        "끌어내다, 유래하다",
+        "연속적인",
+        "평가하다",
+        "꺼리는, 마지못한",
+        "상당한, 실질적인",
+        "일치하다, 서신을 주고받다",
+        "금지하다",
+        "인접한",
+        "우선순위를 두다",
+        "일관된, 지속적인"
+      ],
+      "answer": 3,
+      "explanation": "implement는 '시행하다, 실행하다'라는 뜻이다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-009",
+      "type": "vocabulary",
+      "sourceId": "eng-2026-08-01-word-009",
+      "question": "다음 단어의 뜻으로 가장 적절한 것은? inevitable",
+      "choices": [
+        "불가피한",
+        "투명한, 명확한",
+        "할당하다, 배분하다",
+        "준수하다, 따르다"
+      ],
+      "answer": 0,
+      "explanation": "inevitable는 '불가피한'라는 뜻이다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-010",
+      "type": "vocabulary",
+      "sourceId": "eng-2026-08-01-word-010",
+      "question": "다음 단어의 뜻으로 가장 적절한 것은? transparent",
+      "choices": [
+        "평가하다",
+        "투명한, 명확한",
+        "상당한, 실질적인",
+        "금지하다",
+        "할당하다, 배분하다",
+        "준수하다, 따르다",
+        "유지하다, 보유하다",
+        "자격이 있는",
+        "촉진하다, 용이하게 하다",
+        "확인하다, 검증하다",
+        "충분한",
+        "시행하다, 실행하다",
+        "불가피한",
+        "끌어내다, 유래하다",
+        "연속적인",
+        "꺼리는, 마지못한",
+        "일치하다, 서신을 주고받다",
+        "인접한",
+        "우선순위를 두다",
+        "일관된, 지속적인"
+      ],
+      "answer": 1,
+      "explanation": "transparent는 '투명한, 명확한'라는 뜻이다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-011",
+      "type": "vocabulary",
+      "sourceId": "eng-2026-08-01-word-011",
+      "question": "다음 단어의 뜻으로 가장 적절한 것은? derive",
+      "choices": [
+        "일치하다, 서신을 주고받다",
+        "일관된, 지속적인",
+        "끌어내다, 유래하다",
+        "자격이 있는",
+        "할당하다, 배분하다",
+        "준수하다, 따르다",
+        "유지하다, 보유하다",
+        "촉진하다, 용이하게 하다",
+        "확인하다, 검증하다",
+        "충분한",
+        "시행하다, 실행하다",
+        "불가피한",
+        "투명한, 명확한",
+        "연속적인",
+        "평가하다",
+        "꺼리는, 마지못한",
+        "상당한, 실질적인",
+        "금지하다",
+        "인접한",
+        "우선순위를 두다"
+      ],
+      "answer": 2,
+      "explanation": "derive는 '끌어내다, 유래하다'라는 뜻이다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-012",
+      "type": "vocabulary",
+      "sourceId": "eng-2026-08-01-word-012",
+      "question": "다음 단어의 뜻으로 가장 적절한 것은? consecutive",
+      "choices": [
+        "우선순위를 두다",
+        "촉진하다, 용이하게 하다",
+        "끌어내다, 유래하다",
+        "연속적인",
+        "할당하다, 배분하다",
+        "준수하다, 따르다",
+        "유지하다, 보유하다",
+        "자격이 있는",
+        "확인하다, 검증하다",
+        "충분한",
+        "시행하다, 실행하다",
+        "불가피한",
+        "투명한, 명확한",
+        "평가하다",
+        "꺼리는, 마지못한",
+        "상당한, 실질적인",
+        "일치하다, 서신을 주고받다",
+        "금지하다",
+        "인접한",
+        "일관된, 지속적인"
+      ],
+      "answer": 3,
+      "explanation": "consecutive는 '연속적인'라는 뜻이다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-013",
+      "type": "vocabulary",
+      "sourceId": "eng-2026-08-01-word-013",
+      "question": "다음 단어의 뜻으로 가장 적절한 것은? assess",
+      "choices": [
+        "평가하다",
+        "준수하다, 따르다",
+        "투명한, 명확한",
+        "우선순위를 두다",
+        "할당하다, 배분하다",
+        "유지하다, 보유하다",
+        "자격이 있는",
+        "촉진하다, 용이하게 하다",
+        "확인하다, 검증하다",
+        "충분한",
+        "시행하다, 실행하다",
+        "불가피한",
+        "끌어내다, 유래하다",
+        "연속적인",
+        "꺼리는, 마지못한",
+        "상당한, 실질적인",
+        "일치하다, 서신을 주고받다",
+        "금지하다",
+        "인접한",
+        "일관된, 지속적인"
+      ],
+      "answer": 0,
+      "explanation": "assess는 '평가하다'라는 뜻이다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-014",
+      "type": "vocabulary",
+      "sourceId": "eng-2026-08-01-word-014",
+      "question": "다음 단어의 뜻으로 가장 적절한 것은? reluctant",
+      "choices": [
+        "촉진하다, 용이하게 하다",
+        "꺼리는, 마지못한",
+        "일치하다, 서신을 주고받다",
+        "확인하다, 검증하다",
+        "할당하다, 배분하다",
+        "준수하다, 따르다",
+        "유지하다, 보유하다",
+        "자격이 있는",
+        "충분한",
+        "시행하다, 실행하다",
+        "불가피한",
+        "투명한, 명확한",
+        "끌어내다, 유래하다",
+        "연속적인",
+        "평가하다",
+        "상당한, 실질적인",
+        "금지하다",
+        "인접한",
+        "우선순위를 두다",
+        "일관된, 지속적인"
+      ],
+      "answer": 1,
+      "explanation": "reluctant는 '꺼리는, 마지못한'라는 뜻이다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-015",
+      "type": "vocabulary",
+      "sourceId": "eng-2026-08-01-word-015",
+      "question": "다음 단어의 뜻으로 가장 적절한 것은? substantial",
+      "choices": [
+        "시행하다, 실행하다",
+        "할당하다, 배분하다",
+        "상당한, 실질적인",
+        "평가하다"
+      ],
+      "answer": 2,
+      "explanation": "substantial는 '상당한, 실질적인'라는 뜻이다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-016",
+      "type": "vocabulary",
+      "sourceId": "eng-2026-08-01-word-016",
+      "question": "다음 단어의 뜻으로 가장 적절한 것은? correspond",
+      "choices": [
+        "끌어내다, 유래하다",
+        "확인하다, 검증하다",
+        "할당하다, 배분하다",
+        "일치하다, 서신을 주고받다"
+      ],
+      "answer": 3,
+      "explanation": "correspond는 '일치하다, 서신을 주고받다'라는 뜻이다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-017",
+      "type": "vocabulary",
+      "sourceId": "eng-2026-08-01-word-017",
+      "question": "다음 단어의 뜻으로 가장 적절한 것은? prohibit",
+      "choices": [
+        "금지하다",
+        "꺼리는, 마지못한",
+        "끌어내다, 유래하다",
+        "시행하다, 실행하다",
+        "할당하다, 배분하다",
+        "준수하다, 따르다",
+        "유지하다, 보유하다",
+        "자격이 있는",
+        "촉진하다, 용이하게 하다",
+        "확인하다, 검증하다",
+        "충분한",
+        "불가피한",
+        "투명한, 명확한",
+        "연속적인",
+        "평가하다",
+        "상당한, 실질적인",
+        "일치하다, 서신을 주고받다",
+        "인접한",
+        "우선순위를 두다",
+        "일관된, 지속적인"
+      ],
+      "answer": 0,
+      "explanation": "prohibit는 '금지하다'라는 뜻이다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-018",
+      "type": "vocabulary",
+      "sourceId": "eng-2026-08-01-word-018",
+      "question": "다음 단어의 뜻으로 가장 적절한 것은? adjacent",
+      "choices": [
+        "금지하다",
+        "인접한",
+        "일치하다, 서신을 주고받다",
+        "상당한, 실질적인",
+        "할당하다, 배분하다",
+        "준수하다, 따르다",
+        "유지하다, 보유하다",
+        "자격이 있는",
+        "촉진하다, 용이하게 하다",
+        "확인하다, 검증하다",
+        "충분한",
+        "시행하다, 실행하다",
+        "불가피한",
+        "투명한, 명확한",
+        "끌어내다, 유래하다",
+        "연속적인",
+        "평가하다",
+        "꺼리는, 마지못한",
+        "우선순위를 두다",
+        "일관된, 지속적인"
+      ],
+      "answer": 1,
+      "explanation": "adjacent는 '인접한'라는 뜻이다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-019",
+      "type": "vocabulary",
+      "sourceId": "eng-2026-08-01-word-019",
+      "question": "다음 단어의 뜻으로 가장 적절한 것은? prioritize",
+      "choices": [
+        "할당하다, 배분하다",
+        "준수하다, 따르다",
+        "우선순위를 두다",
+        "유지하다, 보유하다"
+      ],
+      "answer": 2,
+      "explanation": "prioritize는 '우선순위를 두다'라는 뜻이다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-020",
+      "type": "vocabulary",
+      "sourceId": "eng-2026-08-01-word-020",
+      "question": "다음 단어의 뜻으로 가장 적절한 것은? consistent",
+      "choices": [
+        "자격이 있는",
+        "충분한",
+        "투명한, 명확한",
+        "일관된, 지속적인",
+        "할당하다, 배분하다",
+        "준수하다, 따르다",
+        "유지하다, 보유하다",
+        "촉진하다, 용이하게 하다",
+        "확인하다, 검증하다",
+        "시행하다, 실행하다",
+        "불가피한",
+        "끌어내다, 유래하다",
+        "연속적인",
+        "평가하다",
+        "꺼리는, 마지못한",
+        "상당한, 실질적인",
+        "일치하다, 서신을 주고받다",
+        "금지하다",
+        "인접한",
+        "우선순위를 두다"
+      ],
+      "answer": 3,
+      "explanation": "consistent는 '일관된, 지속적인'라는 뜻이다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-021",
+      "type": "sentence",
+      "sourceId": "eng-2026-08-01-sentence-001",
+      "question": "다음 문장의 해석으로 가장 적절한 것은? 'Applicants are required to submit all supporting documents by Friday.'",
+      "choices": [
+        "지원자는 금요일까지 모든 증빙 서류를 제출해야 한다.",
+        "지원자는 금요일에만 서류를 검토할 수 있다.",
+        "모든 서류는 금요일 이후에 제출해야 한다.",
+        "지원자는 증빙 서류를 제출하지 않아도 된다."
+      ],
+      "answer": 0,
+      "explanation": "be required to는 '~해야 한다'는 의무를 나타낸다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-022",
+      "type": "sentence",
+      "sourceId": "eng-2026-08-01-sentence-002",
+      "question": "다음 문장에서 'to reflect changes'의 역할은? 'The policy was revised to reflect changes in public demand.'",
+      "choices": [
+        "원인을 나타내는 분사구문",
+        "목적을 나타내는 to부정사",
+        "양보를 나타내는 접속사절",
+        "결과를 나타내는 관계절"
+      ],
+      "answer": 1,
+      "explanation": "정책을 개정한 목적을 나타내는 to부정사구다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-023",
+      "type": "sentence",
+      "sourceId": "eng-2026-08-01-sentence-003",
+      "question": "다음 문장의 의미로 가장 적절한 것은? 'Even if the process seems complicated, each step serves a specific purpose.'",
+      "choices": [
+        "절차가 복잡하므로 모든 단계를 없애야 한다.",
+        "절차가 복잡해 보여도 각 단계에는 구체적인 목적이 있다.",
+        "각 단계는 같은 목적만을 가진다.",
+        "절차가 단순해 보이면 목적이 없다."
+      ],
+      "answer": 1,
+      "explanation": "Even if는 '~하더라도'라는 양보 의미를 나타낸다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-024",
+      "type": "sentence",
+      "sourceId": "eng-2026-08-01-sentence-004",
+      "question": "다음 문장에서 'are more likely to'와 의미가 가장 가까운 것은?",
+      "choices": [
+        "반드시 ~한다",
+        "~할 가능성이 더 높다",
+        "~해서는 안 된다",
+        "~할 필요가 없다"
+      ],
+      "answer": 1,
+      "explanation": "be likely to는 '~할 가능성이 있다'라는 뜻이다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-025",
+      "type": "sentence",
+      "sourceId": "eng-2026-08-01-sentence-005",
+      "question": "다음 문장에서 과거완료 수동태 부분은? 'The committee postponed the vote because additional evidence had not been reviewed.'",
+      "choices": [
+        "postponed the vote",
+        "because additional evidence",
+        "had not been reviewed",
+        "The committee"
+      ],
+      "answer": 2,
+      "explanation": "had not been reviewed는 had + p.p.의 과거완료 수동태다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-026",
+      "type": "sentence",
+      "sourceId": "eng-2026-08-01-sentence-006",
+      "question": "다음 문장의 주어 역할을 하는 부분은? 'What matters most is whether the service actually meets users' needs.'",
+      "choices": [
+        "What matters most",
+        "whether the service",
+        "actually meets",
+        "users' needs"
+      ],
+      "answer": 0,
+      "explanation": "What matters most 전체가 명사절로서 문장의 주어다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-027",
+      "type": "sentence",
+      "sourceId": "eng-2026-08-01-sentence-007",
+      "question": "다음 문장의 빈칸에 가장 적절한 것은? 'The new system not only reduces errors ______ shortens processing time.'",
+      "choices": [
+        "and because",
+        "but also",
+        "unless it",
+        "so that"
+      ],
+      "answer": 1,
+      "explanation": "not only A but also B의 상관접속사 구조다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-028",
+      "type": "sentence",
+      "sourceId": "eng-2026-08-01-sentence-008",
+      "question": "다음 문장에서 Unless의 의미는?",
+      "choices": [
+        "비록 ~일지라도",
+        "~이기 때문에",
+        "~하지 않으면",
+        "~하는 동안"
+      ],
+      "answer": 2,
+      "explanation": "Unless는 'if ... not', 즉 '~하지 않으면'의 뜻이다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-029",
+      "type": "sentence",
+      "sourceId": "eng-2026-08-01-sentence-009",
+      "question": "다음 문장의 의미로 가장 적절한 것은? 'No decision should be made until all relevant factors have been considered.'",
+      "choices": [
+        "관련 요소를 보기 전에 결정을 내려야 한다.",
+        "모든 관련 요소를 검토할 때까지 결정을 내려서는 안 된다.",
+        "결정은 관련 요소와 무관하다.",
+        "관련 요소는 결정 후에만 검토한다."
+      ],
+      "answer": 1,
+      "explanation": "No decision should be made는 '어떤 결정도 내려져서는 안 된다'는 뜻이다."
+    },
+    {
+      "id": "eng-2026-08-01-quiz-030",
+      "type": "sentence",
+      "sourceId": "eng-2026-08-01-sentence-010",
+      "question": "다음 문장에서 'By comparing several alternatives'가 나타내는 것은?",
+      "choices": [
+        "방법",
+        "양보",
+        "시간",
+        "조건"
+      ],
+      "answer": 0,
+      "explanation": "By + 동명사는 '~함으로써'라는 방법을 나타낸다."
+    }
+  ]
+}
