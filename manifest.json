@@ -2,36 +2,18 @@
   "schemaVersion": 1,
   "app": "NinePass",
   "track": "general_admin_9grade",
-  "updatedAt": "2026-07-31T17:05:00+09:00",
+  "updatedAt": "2026-08-01T06:49:00+09:00",
+  "replacePacks": false,
   "packs": [
     {
-      "id": "starter_pack_9grade_general_admin_001",
-      "name": "9급 일반행정 기본 진단 100문제",
-      "file": "starter_pack_9grade_general_admin_001.json",
+      "id": "daily_hwaseong_general_admin_20260801_001",
+      "name": "2026-08-01 화성시 9급 맞춤 일일 문제팩 20문제",
+      "file": "daily_hwaseong_general_admin_20260801_001.json",
       "enabled": true,
-      "packType": "diagnostic",
-      "questionCount": 100,
-      "version": 1
-    },
-    {
-      "id": "general_admin_expansion_002",
-      "name": "9급 일반행정 확장 문제팩 40문제",
-      "file": "general_admin_expansion_002.json",
-      "enabled": true,
-      "packType": "diagnostic",
-      "questionCount": 40,
-      "version": 1
-    },
-    {
-      "id": "english_vocab_sentence_foundation_expanded_002",
-      "name": "영어 최근기출형·중고등·수능 필수 확장팩",
-      "file": "english_vocab_sentence_pack_001_foundation_expanded.json",
-      "enabled": true,
-      "packType": "english",
-      "vocabularyCount": 449,
-      "sentenceCount": 300,
-      "quizQuestionCount": 749,
-      "version": 2
+      "packType": "daily_personalized",
+      "questionCount": 20,
+      "version": 1,
+      "date": "2026-08-01"
     }
   ]
 }

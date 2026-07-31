@@ -1,0 +1,479 @@
+{
+  "schemaVersion": 1,
+  "packId": "daily_hwaseong_general_admin_20260801_001",
+  "name": "2026-08-01 화성시 9급 맞춤 일일 문제팩 20문제",
+  "track": "general_admin_9grade_hwaseong",
+  "target": {
+    "jurisdiction": "경기도",
+    "agency": "화성시",
+    "preferredWorkArea": "동탄구",
+    "series": "일반행정 9급"
+  },
+  "personalization": {
+    "status": "active",
+    "basis": {
+      "국어": 96,
+      "영어": 52,
+      "행정법총론": 76,
+      "행정학개론": 100
+    },
+    "riskNote": "쉬운 초기 진단에서 영어 52점으로 영어를 최우선 취약과목으로 분류",
+    "distributionPolicy": {
+      "영어": 0.55,
+      "행정법총론": 0.25,
+      "국어": 0.1,
+      "행정학개론": 0.1
+    },
+    "diagnosticOnly": true,
+    "disclaimer": "합격 여부를 단정하지 않는 학습용 추정 진단"
+  },
+  "koreanHistory": {
+    "included": false,
+    "reason": "한국사능력검정시험 1급 보유를 반영해 일일 문제팩에서 제외",
+    "verificationNote": "최종 인정요건과 등록 절차는 해당 연도 공식 시행계획 공고 확인 필요"
+  },
+  "questionCount": 20,
+  "date": "2026-08-01",
+  "questions": [
+    {
+      "id": "hw9_20260801_001",
+      "examType": "2027 경기도 지방직 9급 일반행정 대비",
+      "stage": "personalized_daily",
+      "subject": "영어",
+      "domain": "어휘",
+      "subdomain": "문맥어휘",
+      "difficulty": "중",
+      "question": "Choose the word closest in meaning to feasible.\n\nAfter reviewing the budget and staffing plan, the committee concluded that the proposal was feasible.",
+      "choices": [
+        "legally binding",
+        "practical and possible",
+        "financially wasteful",
+        "temporarily suspended"
+      ],
+      "answer": 1,
+      "explanation": "feasible은 주어진 조건에서 실행 가능하고 현실적이라는 뜻이다.",
+      "sourceBasis": "자체 제작·9급 영어 문맥어휘형",
+      "estimatedTimeSec": 55,
+      "date": "2026-08-01",
+      "packId": "daily_hwaseong_general_admin_20260801_001"
+    },
+    {
+      "id": "hw9_20260801_002",
+      "examType": "2027 경기도 지방직 9급 일반행정 대비",
+      "stage": "personalized_daily",
+      "subject": "영어",
+      "domain": "어휘",
+      "subdomain": "숙어",
+      "difficulty": "중",
+      "question": "Choose the best meaning of carry out.\n\nThe inspection team will carry out an unannounced review next week.",
+      "choices": [
+        "postpone",
+        "conduct",
+        "oppose",
+        "record incorrectly"
+      ],
+      "answer": 1,
+      "explanation": "carry out은 계획·검사·명령 등을 수행하다(conduct)라는 뜻이다.",
+      "sourceBasis": "자체 제작·9급 영어 숙어형",
+      "estimatedTimeSec": 50,
+      "date": "2026-08-01",
+      "packId": "daily_hwaseong_general_admin_20260801_001"
+    },
+    {
+      "id": "hw9_20260801_003",
+      "examType": "2027 경기도 지방직 9급 일반행정 대비",
+      "stage": "personalized_daily",
+      "subject": "영어",
+      "domain": "문법",
+      "subdomain": "가정법",
+      "difficulty": "상",
+      "question": "Choose the grammatically correct sentence.",
+      "choices": [
+        "If the notice had been clearer, fewer residents would have called the office.",
+        "If the notice was clearer, fewer residents would have called the office yesterday.",
+        "If the notice had been clearer, fewer residents will call the office.",
+        "If the notice would have been clearer, fewer residents had called the office."
+      ],
+      "answer": 0,
+      "explanation": "과거 사실과 반대되는 가정은 If + had p.p., 주절은 would have p.p.를 쓴다.",
+      "sourceBasis": "자체 제작·9급 영어 문법형",
+      "estimatedTimeSec": 70,
+      "date": "2026-08-01",
+      "packId": "daily_hwaseong_general_admin_20260801_001"
+    },
+    {
+      "id": "hw9_20260801_004",
+      "examType": "2027 경기도 지방직 9급 일반행정 대비",
+      "stage": "personalized_daily",
+      "subject": "영어",
+      "domain": "독해",
+      "subdomain": "빈칸추론",
+      "difficulty": "상",
+      "question": "Choose the best expression for the blank.\n\nA public survey can reveal what citizens prefer, but preference alone does not establish whether a policy is effective. A popular program may produce little measurable improvement, while an unpopular one may prevent serious long-term harm. Therefore, public approval should be considered ________ objective evidence of outcomes.",
+      "choices": [
+        "instead of",
+        "together with",
+        "regardless of",
+        "in opposition to"
+      ],
+      "answer": 1,
+      "explanation": "시민 선호도와 객관적 성과 증거를 함께 고려해야 한다는 논지이므로 together with가 알맞다.",
+      "sourceBasis": "자체 제작·9급 영어 빈칸추론형",
+      "estimatedTimeSec": 95,
+      "date": "2026-08-01",
+      "packId": "daily_hwaseong_general_admin_20260801_001"
+    },
+    {
+      "id": "hw9_20260801_005",
+      "examType": "2027 경기도 지방직 9급 일반행정 대비",
+      "stage": "personalized_daily",
+      "subject": "영어",
+      "domain": "독해",
+      "subdomain": "목적",
+      "difficulty": "중",
+      "question": "What is the main purpose of the notice?\n\nResidents who applied for a parking permit between July 20 and July 31 should verify their mobile phone number by August 5. Applications with an unverified number cannot receive the final approval message.",
+      "choices": [
+        "To announce a new parking fee",
+        "To request verification needed for application processing",
+        "To cancel all pending permit applications",
+        "To recruit parking enforcement officers"
+      ],
+      "answer": 1,
+      "explanation": "허가 처리에 필요한 휴대전화 번호 확인을 요청하는 공지다.",
+      "sourceBasis": "자체 제작·9급 영어 실용문형",
+      "estimatedTimeSec": 65,
+      "date": "2026-08-01",
+      "packId": "daily_hwaseong_general_admin_20260801_001"
+    },
+    {
+      "id": "hw9_20260801_006",
+      "examType": "2027 경기도 지방직 9급 일반행정 대비",
+      "stage": "personalized_daily",
+      "subject": "영어",
+      "domain": "독해",
+      "subdomain": "내용일치",
+      "difficulty": "중",
+      "question": "According to the passage, which statement is true?\n\nThe community center will close its study room from August 10 through August 12 for electrical work. The library and fitness room will remain open, but visitors must use the east entrance.",
+      "choices": [
+        "The entire community center will be closed for three days.",
+        "The study room will be unavailable during the electrical work.",
+        "Visitors may use only the west entrance.",
+        "The library will close earlier than usual."
+      ],
+      "answer": 1,
+      "explanation": "전기공사 기간에는 학습실만 이용할 수 없고 도서관과 체력단련실은 운영된다.",
+      "sourceBasis": "자체 제작·9급 영어 내용일치형",
+      "estimatedTimeSec": 65,
+      "date": "2026-08-01",
+      "packId": "daily_hwaseong_general_admin_20260801_001"
+    },
+    {
+      "id": "hw9_20260801_007",
+      "examType": "2027 경기도 지방직 9급 일반행정 대비",
+      "stage": "personalized_daily",
+      "subject": "영어",
+      "domain": "독해",
+      "subdomain": "추론",
+      "difficulty": "상",
+      "question": "What can be inferred from the passage?\n\nA district office introduced a chatbot to answer routine questions. The number of simple phone inquiries fell, but complaints increased when the chatbot handled cases involving multiple eligibility conditions. The office then limited the chatbot to basic guidance and directed complex cases to staff members.",
+      "choices": [
+        "The chatbot was more accurate in complex cases.",
+        "The office decided that automated guidance needed a clear scope.",
+        "Phone inquiries increased after the chatbot was introduced.",
+        "Staff members were removed from eligibility reviews."
+      ],
+      "answer": 1,
+      "explanation": "복잡한 사례에서 문제가 생기자 챗봇의 역할을 기본 안내로 제한했으므로 자동화의 적용 범위를 명확히 한 것이다.",
+      "sourceBasis": "자체 제작·9급 영어 추론형",
+      "estimatedTimeSec": 95,
+      "date": "2026-08-01",
+      "packId": "daily_hwaseong_general_admin_20260801_001"
+    },
+    {
+      "id": "hw9_20260801_008",
+      "examType": "2027 경기도 지방직 9급 일반행정 대비",
+      "stage": "personalized_daily",
+      "subject": "영어",
+      "domain": "독해",
+      "subdomain": "요약",
+      "difficulty": "상",
+      "question": "Which best summarizes the passage?\n\nPublishing more data does not automatically create transparency. Data may be outdated, difficult to compare, or presented without the context needed for interpretation. Meaningful transparency requires timely information, consistent standards, and explanations that help citizens understand what the numbers show.",
+      "choices": [
+        "Transparency depends only on the volume of published data.",
+        "Government data should never include explanations.",
+        "Useful transparency requires accessible and interpretable information.",
+        "Outdated data are more reliable than current data."
+      ],
+      "answer": 2,
+      "explanation": "핵심은 단순 공개량이 아니라 최신성·비교 가능성·설명을 갖춘 이해 가능한 정보가 투명성을 만든다는 것이다.",
+      "sourceBasis": "자체 제작·9급 영어 요약형",
+      "estimatedTimeSec": 90,
+      "date": "2026-08-01",
+      "packId": "daily_hwaseong_general_admin_20260801_001"
+    },
+    {
+      "id": "hw9_20260801_009",
+      "examType": "2027 경기도 지방직 9급 일반행정 대비",
+      "stage": "personalized_daily",
+      "subject": "영어",
+      "domain": "어휘",
+      "subdomain": "동의어",
+      "difficulty": "상",
+      "question": "Choose the word closest in meaning to allocate.\n\nThe city plans to allocate additional funds to neighborhoods with outdated drainage systems.",
+      "choices": [
+        "distribute",
+        "recover",
+        "conceal",
+        "borrow"
+      ],
+      "answer": 0,
+      "explanation": "allocate는 특정 목적이나 대상에 자원·예산을 배분하다라는 뜻이다.",
+      "sourceBasis": "자체 제작·9급 영어 동의어형",
+      "estimatedTimeSec": 55,
+      "date": "2026-08-01",
+      "packId": "daily_hwaseong_general_admin_20260801_001"
+    },
+    {
+      "id": "hw9_20260801_010",
+      "examType": "2027 경기도 지방직 9급 일반행정 대비",
+      "stage": "personalized_daily",
+      "subject": "영어",
+      "domain": "문법",
+      "subdomain": "관계사",
+      "difficulty": "상",
+      "question": "Choose the grammatically correct sentence.",
+      "choices": [
+        "The report, which findings were disputed, was revised.",
+        "The report, whose findings were disputed, was revised.",
+        "The report, that its findings were disputed, was revised.",
+        "The report, of which it findings were disputed, was revised."
+      ],
+      "answer": 1,
+      "explanation": "findings가 report의 소유 관계이므로 소유격 관계대명사 whose가 맞다.",
+      "sourceBasis": "자체 제작·9급 영어 문법형",
+      "estimatedTimeSec": 65,
+      "date": "2026-08-01",
+      "packId": "daily_hwaseong_general_admin_20260801_001"
+    },
+    {
+      "id": "hw9_20260801_011",
+      "examType": "2027 경기도 지방직 9급 일반행정 대비",
+      "stage": "personalized_daily",
+      "subject": "영어",
+      "domain": "독해",
+      "subdomain": "문장삽입",
+      "difficulty": "상",
+      "question": "Where does the following sentence best fit?\n\nThis change reduced delays, but it also increased the workload of the review team.\n\n(1) The agency allowed applicants to correct missing information online. (2) Fewer applications were returned by mail. (3) Reviewers, however, had to examine several versions of the same application. (4) The agency therefore added a version-history screen to the system.",
+      "choices": [
+        "After (1)",
+        "After (2)",
+        "After (3)",
+        "After (4)"
+      ],
+      "answer": 1,
+      "explanation": "우편 반송 감소라는 장점 뒤에 업무량 증가라는 부작용을 제시하고, 이어 그 이유를 설명하는 흐름이 자연스럽다.",
+      "sourceBasis": "자체 제작·9급 영어 문장삽입형",
+      "estimatedTimeSec": 90,
+      "date": "2026-08-01",
+      "packId": "daily_hwaseong_general_admin_20260801_001"
+    },
+    {
+      "id": "hw9_20260801_012",
+      "examType": "2027 경기도 지방직 9급 일반행정 대비",
+      "stage": "personalized_daily",
+      "subject": "행정법총론",
+      "domain": "행정행위",
+      "subdomain": "부관",
+      "difficulty": "상",
+      "question": "행정행위의 부관에 관한 설명으로 가장 적절한 것은?",
+      "choices": [
+        "부담은 주된 행정행위의 효력 발생을 장래의 불확실한 사실에 의존시킨다.",
+        "기한은 장래에 발생할 것이 확실한 사실에 효력의 발생 또는 소멸을 의존시킨다.",
+        "조건은 상대방에게 작위·부작위 의무를 독립적으로 부과하는 부관이다.",
+        "철회권 유보는 어떠한 경우에도 허용될 수 없다."
+      ],
+      "answer": 1,
+      "explanation": "기한은 도래가 확실한 장래 사실에 효력의 발생·소멸을 의존시키는 부관이다. 부담은 별도의 의무를 부과한다.",
+      "sourceBasis": "자체 제작·행정법총론 부관 개념형",
+      "estimatedTimeSec": 75,
+      "date": "2026-08-01",
+      "packId": "daily_hwaseong_general_admin_20260801_001"
+    },
+    {
+      "id": "hw9_20260801_013",
+      "examType": "2027 경기도 지방직 9급 일반행정 대비",
+      "stage": "personalized_daily",
+      "subject": "행정법총론",
+      "domain": "행정절차",
+      "subdomain": "이유제시",
+      "difficulty": "중",
+      "question": "처분의 이유제시에 관한 설명으로 가장 적절한 것은?",
+      "choices": [
+        "행정청은 불이익처분의 근거와 이유를 원칙적으로 제시해야 한다.",
+        "이유제시는 처분과 무관한 내부 사정만 적으면 충분하다.",
+        "상대방이 이유를 알고 있더라도 법률상 이유제시 문제는 전혀 발생하지 않는다.",
+        "이유제시는 행정심판 재결에서만 요구된다."
+      ],
+      "answer": 0,
+      "explanation": "행정청은 처분의 근거와 이유를 상대방이 이해할 수 있도록 원칙적으로 제시해야 한다.",
+      "sourceBasis": "자체 제작·행정절차법 개념형",
+      "estimatedTimeSec": 65,
+      "date": "2026-08-01",
+      "packId": "daily_hwaseong_general_admin_20260801_001"
+    },
+    {
+      "id": "hw9_20260801_014",
+      "examType": "2027 경기도 지방직 9급 일반행정 대비",
+      "stage": "personalized_daily",
+      "subject": "행정법총론",
+      "domain": "행정구제",
+      "subdomain": "취소소송 원고적격",
+      "difficulty": "상",
+      "question": "취소소송의 원고적격에 관한 설명으로 가장 적절한 것은?",
+      "choices": [
+        "처분의 취소를 구할 법률상 이익이 있는 자가 제기할 수 있다.",
+        "사실상 관심만 있으면 누구나 제기할 수 있다.",
+        "처분청만 원고가 될 수 있다.",
+        "원고적격은 소송 제기 후에는 전혀 문제 되지 않는다."
+      ],
+      "answer": 0,
+      "explanation": "행정소송법상 취소를 구할 법률상 이익이 있는 자에게 원고적격이 인정된다.",
+      "sourceBasis": "자체 제작·행정소송법 개념형",
+      "estimatedTimeSec": 70,
+      "date": "2026-08-01",
+      "packId": "daily_hwaseong_general_admin_20260801_001"
+    },
+    {
+      "id": "hw9_20260801_015",
+      "examType": "2027 경기도 지방직 9급 일반행정 대비",
+      "stage": "personalized_daily",
+      "subject": "행정법총론",
+      "domain": "행정상강제",
+      "subdomain": "대집행",
+      "difficulty": "상",
+      "question": "행정대집행의 대상이 되는 의무로 가장 적절한 것은?",
+      "choices": [
+        "타인이 대신 이행할 수 없는 인격적 작위의무",
+        "대체적 작위의무",
+        "금전납부의무",
+        "단순한 수인의무"
+      ],
+      "answer": 1,
+      "explanation": "대집행은 타인이 대신 이행할 수 있는 대체적 작위의무의 불이행을 대상으로 한다.",
+      "sourceBasis": "자체 제작·행정상강제 개념형",
+      "estimatedTimeSec": 65,
+      "date": "2026-08-01",
+      "packId": "daily_hwaseong_general_admin_20260801_001"
+    },
+    {
+      "id": "hw9_20260801_016",
+      "examType": "2027 경기도 지방직 9급 일반행정 대비",
+      "stage": "personalized_daily",
+      "subject": "행정법총론",
+      "domain": "행정구제",
+      "subdomain": "집행정지",
+      "difficulty": "최상",
+      "question": "취소소송에서 집행정지에 관한 설명으로 가장 적절한 것은?",
+      "choices": [
+        "취소소송을 제기하면 처분의 효력은 언제나 자동 정지된다.",
+        "회복하기 어려운 손해를 예방할 긴급한 필요가 있는 경우 법원이 요건을 심사해 결정할 수 있다.",
+        "집행정지는 본안소송 없이도 영구적으로 처분을 취소하는 제도다.",
+        "공공복리에 중대한 영향을 미칠 우려가 커도 반드시 인용해야 한다."
+      ],
+      "answer": 1,
+      "explanation": "집행정지는 자동효가 아니며 회복하기 어려운 손해와 긴급한 필요 등을 심사하고, 공공복리에 중대한 영향이 있으면 허용되지 않을 수 있다.",
+      "sourceBasis": "자체 제작·행정소송법 사례형",
+      "estimatedTimeSec": 85,
+      "date": "2026-08-01",
+      "packId": "daily_hwaseong_general_admin_20260801_001"
+    },
+    {
+      "id": "hw9_20260801_017",
+      "examType": "2027 경기도 지방직 9급 일반행정 대비",
+      "stage": "personalized_daily",
+      "subject": "국어",
+      "domain": "독해",
+      "subdomain": "논증평가",
+      "difficulty": "상",
+      "question": "다음 주장에 대한 비판으로 가장 적절한 것은?\n\n'온라인 민원 신청이 도입된 뒤 처리 건수가 증가했다. 따라서 온라인 신청이 모든 민원의 처리 품질도 향상시켰다.'",
+      "choices": [
+        "처리 건수 증가만으로 처리 품질 향상까지 단정할 수 없다.",
+        "온라인 신청은 처리 건수를 늘릴 수 없다.",
+        "모든 민원은 동일한 난도를 가진다.",
+        "처리 품질은 어떤 자료로도 평가할 수 없다."
+      ],
+      "answer": 0,
+      "explanation": "양적 증가와 질적 향상은 다른 지표이므로 처리 건수만으로 품질 향상을 단정한 것은 논리적 비약이다.",
+      "sourceBasis": "자체 제작·국어 논리형",
+      "estimatedTimeSec": 70,
+      "date": "2026-08-01",
+      "packId": "daily_hwaseong_general_admin_20260801_001"
+    },
+    {
+      "id": "hw9_20260801_018",
+      "examType": "2027 경기도 지방직 9급 일반행정 대비",
+      "stage": "personalized_daily",
+      "subject": "국어",
+      "domain": "어문규범",
+      "subdomain": "띄어쓰기",
+      "difficulty": "중",
+      "question": "다음 중 띄어쓰기가 바른 것은?",
+      "choices": [
+        "검토한바 문제가 없었다.",
+        "검토한 바 문제가 없었다.",
+        "검토 한 바 문제가 없었다.",
+        "검토한 바문제가 없었다."
+      ],
+      "answer": 1,
+      "explanation": "의존 명사 '바'는 앞말과 띄어 쓴다. '검토한 바 문제가 없었다'가 맞다.",
+      "sourceBasis": "자체 제작·국어 띄어쓰기형",
+      "estimatedTimeSec": 50,
+      "date": "2026-08-01",
+      "packId": "daily_hwaseong_general_admin_20260801_001"
+    },
+    {
+      "id": "hw9_20260801_019",
+      "examType": "2027 경기도 지방직 9급 일반행정 대비",
+      "stage": "personalized_daily",
+      "subject": "행정학개론",
+      "domain": "조직론",
+      "subdomain": "목표대치",
+      "difficulty": "상",
+      "question": "조직의 목표대치(goal displacement)에 관한 설명으로 가장 적절한 것은?",
+      "choices": [
+        "본래 목적을 위한 수단이나 절차가 그 자체로 최종 목적처럼 취급되는 현상이다.",
+        "조직이 여러 목표를 동시에 달성하는 현상이다.",
+        "상위 목표가 하위 목표를 완전히 제거하는 현상이다.",
+        "조직 구성원이 목표를 정확히 공유하는 현상이다."
+      ],
+      "answer": 0,
+      "explanation": "목표대치는 규칙·절차·성과지표 같은 수단이 본래 목적보다 우선시되는 현상이다.",
+      "sourceBasis": "자체 제작·행정학 조직론 개념형",
+      "estimatedTimeSec": 65,
+      "date": "2026-08-01",
+      "packId": "daily_hwaseong_general_admin_20260801_001"
+    },
+    {
+      "id": "hw9_20260801_020",
+      "examType": "2027 경기도 지방직 9급 일반행정 대비",
+      "stage": "personalized_daily",
+      "subject": "행정학개론",
+      "domain": "정책학",
+      "subdomain": "정책수단",
+      "difficulty": "상",
+      "question": "정책수단의 선택에 관한 설명으로 가장 적절한 것은?",
+      "choices": [
+        "규제는 언제나 보조금보다 비용이 적다.",
+        "정보 제공, 경제적 유인, 직접 규제는 대상과 상황에 따라 효과가 달라질 수 있다.",
+        "정책수단의 집행 가능성은 고려할 필요가 없다.",
+        "하나의 정책문제에는 오직 하나의 정답 수단만 존재한다."
+      ],
+      "answer": 1,
+      "explanation": "정책수단은 대상 집단의 특성, 집행 비용, 순응 가능성 등에 따라 효과가 달라지므로 상황 적합성이 중요하다.",
+      "sourceBasis": "자체 제작·행정학 정책수단형",
+      "estimatedTimeSec": 70,
+      "date": "2026-08-01",
+      "packId": "daily_hwaseong_general_admin_20260801_001"
+    }
+  ]
+}
