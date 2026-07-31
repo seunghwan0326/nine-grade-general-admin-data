@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "app": "NinePass",
+  "track": "general_admin_9grade",
+  "updatedAt": "2026-07-31T00:00:00+09:00",
+  "packs": [
+    {
+      "id": "starter_pack_9grade_general_admin_001",
+      "name": "9급 일반행정 기본 진단 100문제",
+      "file": "starter_pack_9grade_general_admin_001.json",
+      "enabled": true,
+      "questionCount": 100,
+      "version": 1
+    },
+    {
+      "id": "general_admin_expansion_002",
+      "name": "9급 일반행정 확장 문제팩 40문제",
+      "file": "general_admin_expansion_002.json",
+      "enabled": true,
+      "questionCount": 40,
+      "version": 1
+    }
+  ]
+}
