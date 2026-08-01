@@ -2,54 +2,47 @@
   "schemaVersion": 1,
   "app": "NinePass",
   "track": "general_admin_9grade",
-  "updatedAt": "2026-08-01T06:56:00+09:00",
+  "updatedAt": "2026-08-02T07:40:00+09:00",
   "replacePacks": false,
   "packs": [
     {
       "id": "starter_pack_9grade_general_admin_001",
-      "name": "9급 일반행정 기본 진단",
+      "name": "9급 일반행정 기본 진단 100문제",
       "file": "starter_pack_9grade_general_admin_001.json",
       "enabled": true,
-      "packType": "diagnostic"
+      "packType": "diagnostic",
+      "questionCount": 100,
+      "version": 1
     },
     {
       "id": "general_admin_expansion_002",
-      "name": "9급 일반행정 확장 문제팩",
+      "name": "9급 일반행정 확장 문제팩 40문제",
       "file": "general_admin_expansion_002.json",
       "enabled": true,
-      "packType": "diagnostic"
+      "packType": "diagnostic",
+      "questionCount": 40,
+      "version": 1
+    },
+    {
+      "id": "daily-general-admin-2026-08-02",
+      "name": "9급 일반행정 2026-08-02 맞춤 일일팩",
+      "file": "daily_general_admin_latest.json",
+      "enabled": true,
+      "packType": "daily_personalized",
+      "questionCount": 20,
+      "version": 1,
+      "date": "2026-08-02"
     },
     {
       "id": "english_vocab_sentence_foundation_expanded_002",
       "name": "영어 어휘·문장 확장팩",
       "file": "english_vocab_sentence_pack_001_foundation_expanded.json",
       "enabled": true,
-      "packType": "english"
-    },
-    {
-      "id": "daily-english-latest",
-      "name": "오늘의 영어 집중 학습팩",
-      "file": "daily_english_latest.json",
-      "enabled": true,
-      "packType": "daily_english"
-    },
-    {
-      "id": "daily-general-admin-latest",
-      "name": "9급 일반행정 맞춤 일일 문제팩",
-      "file": "daily_general_admin_latest.json",
-      "enabled": true,
-      "packType": "daily_personalized",
-      "questionCount": 20,
-      "date": "2026-08-01"
-    },
-    {
-      "id": "daily_hwaseong_general_admin_20260801_001",
-      "name": "2026-08-01 화성시 9급 맞춤 일일 문제팩 20문제",
-      "file": "daily_hwaseong_general_admin_20260801_001.json",
-      "enabled": true,
-      "packType": "archive",
-      "questionCount": 20,
-      "date": "2026-08-01"
+      "packType": "english",
+      "vocabularyCount": 449,
+      "sentenceCount": 300,
+      "quizQuestionCount": 749,
+      "version": 2
     }
   ]
 }
