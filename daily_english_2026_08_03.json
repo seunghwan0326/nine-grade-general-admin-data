@@ -1,0 +1,693 @@
+{
+  "schemaVersion": 1,
+  "packId": "daily-english-2026-08-03",
+  "date": "2026-08-03",
+  "title": "2026-08-03 취약 영어 학습팩",
+  "description": "신규 단어 20개, 문장 10개, 퀴즈 30개",
+  "vocabulary": [
+    {
+      "id": "eng-2026-08-03-vocab-001",
+      "word": "abate",
+      "meaning": "약화되다, 줄어들다",
+      "example": "The agency used abate in an official context.",
+      "translation": "기관은 공식적인 맥락에서 abate를 사용했다.",
+      "memoryTip": "abate와 뜻 약화되다, 줄어들다을 세 번 읽으세요.",
+      "priority": "A"
+    },
+    {
+      "id": "eng-2026-08-03-vocab-002",
+      "word": "accrue",
+      "meaning": "누적되다",
+      "example": "The agency used accrue in an official context.",
+      "translation": "기관은 공식적인 맥락에서 accrue를 사용했다.",
+      "memoryTip": "accrue와 뜻 누적되다을 세 번 읽으세요.",
+      "priority": "A"
+    },
+    {
+      "id": "eng-2026-08-03-vocab-003",
+      "word": "ameliorate",
+      "meaning": "개선하다, 완화하다",
+      "example": "The agency used ameliorate in an official context.",
+      "translation": "기관은 공식적인 맥락에서 ameliorate를 사용했다.",
+      "memoryTip": "ameliorate와 뜻 개선하다, 완화하다을 세 번 읽으세요.",
+      "priority": "A"
+    },
+    {
+      "id": "eng-2026-08-03-vocab-004",
+      "word": "annul",
+      "meaning": "무효로 하다",
+      "example": "The agency used annul in an official context.",
+      "translation": "기관은 공식적인 맥락에서 annul를 사용했다.",
+      "memoryTip": "annul와 뜻 무효로 하다을 세 번 읽으세요.",
+      "priority": "A"
+    },
+    {
+      "id": "eng-2026-08-03-vocab-005",
+      "word": "apportion",
+      "meaning": "배분하다",
+      "example": "The agency used apportion in an official context.",
+      "translation": "기관은 공식적인 맥락에서 apportion를 사용했다.",
+      "memoryTip": "apportion와 뜻 배분하다을 세 번 읽으세요.",
+      "priority": "A"
+    },
+    {
+      "id": "eng-2026-08-03-vocab-006",
+      "word": "avert",
+      "meaning": "피하다, 방지하다",
+      "example": "The agency used avert in an official context.",
+      "translation": "기관은 공식적인 맥락에서 avert를 사용했다.",
+      "memoryTip": "avert와 뜻 피하다, 방지하다을 세 번 읽으세요.",
+      "priority": "A"
+    },
+    {
+      "id": "eng-2026-08-03-vocab-007",
+      "word": "bolster",
+      "meaning": "강화하다",
+      "example": "The agency used bolster in an official context.",
+      "translation": "기관은 공식적인 맥락에서 bolster를 사용했다.",
+      "memoryTip": "bolster와 뜻 강화하다을 세 번 읽으세요.",
+      "priority": "A"
+    },
+    {
+      "id": "eng-2026-08-03-vocab-008",
+      "word": "circumscribe",
+      "meaning": "제한하다",
+      "example": "The agency used circumscribe in an official context.",
+      "translation": "기관은 공식적인 맥락에서 circumscribe를 사용했다.",
+      "memoryTip": "circumscribe와 뜻 제한하다을 세 번 읽으세요.",
+      "priority": "A"
+    },
+    {
+      "id": "eng-2026-08-03-vocab-009",
+      "word": "confer",
+      "meaning": "부여하다",
+      "example": "The agency used confer in an official context.",
+      "translation": "기관은 공식적인 맥락에서 confer를 사용했다.",
+      "memoryTip": "confer와 뜻 부여하다을 세 번 읽으세요.",
+      "priority": "A"
+    },
+    {
+      "id": "eng-2026-08-03-vocab-010",
+      "word": "curtail",
+      "meaning": "축소하다, 제한하다",
+      "example": "The agency used curtail in an official context.",
+      "translation": "기관은 공식적인 맥락에서 curtail를 사용했다.",
+      "memoryTip": "curtail와 뜻 축소하다, 제한하다을 세 번 읽으세요.",
+      "priority": "A"
+    },
+    {
+      "id": "eng-2026-08-03-vocab-011",
+      "word": "devolve",
+      "meaning": "이양하다",
+      "example": "The agency used devolve in an official context.",
+      "translation": "기관은 공식적인 맥락에서 devolve를 사용했다.",
+      "memoryTip": "devolve와 뜻 이양하다을 세 번 읽으세요.",
+      "priority": "A"
+    },
+    {
+      "id": "eng-2026-08-03-vocab-012",
+      "word": "elicit",
+      "meaning": "이끌어 내다",
+      "example": "The agency used elicit in an official context.",
+      "translation": "기관은 공식적인 맥락에서 elicit를 사용했다.",
+      "memoryTip": "elicit와 뜻 이끌어 내다을 세 번 읽으세요.",
+      "priority": "A"
+    },
+    {
+      "id": "eng-2026-08-03-vocab-013",
+      "word": "forestall",
+      "meaning": "미연에 방지하다",
+      "example": "The agency used forestall in an official context.",
+      "translation": "기관은 공식적인 맥락에서 forestall를 사용했다.",
+      "memoryTip": "forestall와 뜻 미연에 방지하다을 세 번 읽으세요.",
+      "priority": "B"
+    },
+    {
+      "id": "eng-2026-08-03-vocab-014",
+      "word": "impede",
+      "meaning": "방해하다",
+      "example": "The agency used impede in an official context.",
+      "translation": "기관은 공식적인 맥락에서 impede를 사용했다.",
+      "memoryTip": "impede와 뜻 방해하다을 세 번 읽으세요.",
+      "priority": "B"
+    },
+    {
+      "id": "eng-2026-08-03-vocab-015",
+      "word": "invalidate",
+      "meaning": "무효화하다",
+      "example": "The agency used invalidate in an official context.",
+      "translation": "기관은 공식적인 맥락에서 invalidate를 사용했다.",
+      "memoryTip": "invalidate와 뜻 무효화하다을 세 번 읽으세요.",
+      "priority": "B"
+    },
+    {
+      "id": "eng-2026-08-03-vocab-016",
+      "word": "mitigate",
+      "meaning": "완화하다",
+      "example": "The agency used mitigate in an official context.",
+      "translation": "기관은 공식적인 맥락에서 mitigate를 사용했다.",
+      "memoryTip": "mitigate와 뜻 완화하다을 세 번 읽으세요.",
+      "priority": "B"
+    },
+    {
+      "id": "eng-2026-08-03-vocab-017",
+      "word": "preclude",
+      "meaning": "불가능하게 하다",
+      "example": "The agency used preclude in an official context.",
+      "translation": "기관은 공식적인 맥락에서 preclude를 사용했다.",
+      "memoryTip": "preclude와 뜻 불가능하게 하다을 세 번 읽으세요.",
+      "priority": "B"
+    },
+    {
+      "id": "eng-2026-08-03-vocab-018",
+      "word": "ratify",
+      "meaning": "비준하다, 승인하다",
+      "example": "The agency used ratify in an official context.",
+      "translation": "기관은 공식적인 맥락에서 ratify를 사용했다.",
+      "memoryTip": "ratify와 뜻 비준하다, 승인하다을 세 번 읽으세요.",
+      "priority": "B"
+    },
+    {
+      "id": "eng-2026-08-03-vocab-019",
+      "word": "rescind",
+      "meaning": "철회하다, 취소하다",
+      "example": "The agency used rescind in an official context.",
+      "translation": "기관은 공식적인 맥락에서 rescind를 사용했다.",
+      "memoryTip": "rescind와 뜻 철회하다, 취소하다을 세 번 읽으세요.",
+      "priority": "B"
+    },
+    {
+      "id": "eng-2026-08-03-vocab-020",
+      "word": "vindicate",
+      "meaning": "정당성을 입증하다",
+      "example": "The agency used vindicate in an official context.",
+      "translation": "기관은 공식적인 맥락에서 vindicate를 사용했다.",
+      "memoryTip": "vindicate와 뜻 정당성을 입증하다을 세 번 읽으세요.",
+      "priority": "B"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "eng-2026-08-03-sentence-001",
+      "sentence": "Only after the hearing ended did the committee announce its decision.",
+      "translation": "청문이 끝난 뒤에야 위원회는 결정을 발표했다.",
+      "grammarPoint": "Only after 도치",
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 읽으세요.",
+      "priority": "A"
+    },
+    {
+      "id": "eng-2026-08-03-sentence-002",
+      "sentence": "Anyone who wishes to appeal must file the request within the prescribed period.",
+      "translation": "불복하려는 사람은 정해진 기간 안에 신청서를 제출해야 한다.",
+      "grammarPoint": "관계대명사 who",
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 읽으세요.",
+      "priority": "A"
+    },
+    {
+      "id": "eng-2026-08-03-sentence-003",
+      "sentence": "The policy was revised so that citizens could understand the requirements more easily.",
+      "translation": "시민들이 요건을 더 쉽게 이해할 수 있도록 정책이 개정되었다.",
+      "grammarPoint": "so that 목적",
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 읽으세요.",
+      "priority": "A"
+    },
+    {
+      "id": "eng-2026-08-03-sentence-004",
+      "sentence": "Were the data incomplete, the conclusion would have to be reconsidered.",
+      "translation": "자료가 불완전하다면 그 결론은 재검토되어야 할 것이다.",
+      "grammarPoint": "if 생략 가정법",
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 읽으세요.",
+      "priority": "A"
+    },
+    {
+      "id": "eng-2026-08-03-sentence-005",
+      "sentence": "No sooner had the system recovered than online applications resumed.",
+      "translation": "시스템이 복구되자마자 온라인 신청이 재개되었다.",
+      "grammarPoint": "No sooner had A than B",
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 읽으세요.",
+      "priority": "A"
+    },
+    {
+      "id": "eng-2026-08-03-sentence-006",
+      "sentence": "What matters most is whether the rule can be applied consistently.",
+      "translation": "가장 중요한 것은 그 규칙이 일관되게 적용될 수 있는지 여부이다.",
+      "grammarPoint": "what 명사절·whether",
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 읽으세요.",
+      "priority": "A"
+    },
+    {
+      "id": "eng-2026-08-03-sentence-007",
+      "sentence": "The report recommends that each office establish a separate review procedure.",
+      "translation": "그 보고서는 각 사무소가 별도의 검토 절차를 마련할 것을 권고한다.",
+      "grammarPoint": "recommend that + 동사원형",
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 읽으세요.",
+      "priority": "B"
+    },
+    {
+      "id": "eng-2026-08-03-sentence-008",
+      "sentence": "Although the measure reduced costs, it did not improve service quality.",
+      "translation": "그 조치는 비용을 줄였지만 서비스 품질을 개선하지는 못했다.",
+      "grammarPoint": "although 양보",
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 읽으세요.",
+      "priority": "B"
+    },
+    {
+      "id": "eng-2026-08-03-sentence-009",
+      "sentence": "The records, many of which were incomplete, had to be checked again.",
+      "translation": "그 기록들은 상당수가 불완전하여 다시 확인해야 했다.",
+      "grammarPoint": "계속적 용법",
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 읽으세요.",
+      "priority": "B"
+    },
+    {
+      "id": "eng-2026-08-03-sentence-010",
+      "sentence": "Citizens are more likely to trust a decision when its reasons are clearly explained.",
+      "translation": "결정의 이유가 명확히 설명될 때 시민들은 그 결정을 더 신뢰할 가능성이 높다.",
+      "grammarPoint": "be likely to",
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 읽으세요.",
+      "priority": "B"
+    }
+  ],
+  "quizQuestions": [
+    {
+      "id": "eng-2026-08-03-quiz-vocab-001",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nabate",
+      "choices": [
+        "무효로 하다",
+        "제한하다",
+        "방해하다",
+        "약화되다, 줄어들다"
+      ],
+      "answer": 3,
+      "explanation": "abate는 '약화되다, 줄어들다'라는 뜻입니다.",
+      "relatedItemId": "eng-2026-08-03-vocab-001"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-vocab-002",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\naccrue",
+      "choices": [
+        "부여하다",
+        "무효화하다",
+        "누적되다",
+        "배분하다"
+      ],
+      "answer": 2,
+      "explanation": "accrue는 '누적되다'라는 뜻입니다.",
+      "relatedItemId": "eng-2026-08-03-vocab-002"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-vocab-003",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nameliorate",
+      "choices": [
+        "완화하다",
+        "개선하다, 완화하다",
+        "피하다, 방지하다",
+        "축소하다, 제한하다"
+      ],
+      "answer": 1,
+      "explanation": "ameliorate는 '개선하다, 완화하다'라는 뜻입니다.",
+      "relatedItemId": "eng-2026-08-03-vocab-003"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-vocab-004",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nannul",
+      "choices": [
+        "무효로 하다",
+        "강화하다",
+        "이양하다",
+        "불가능하게 하다"
+      ],
+      "answer": 0,
+      "explanation": "annul는 '무효로 하다'라는 뜻입니다.",
+      "relatedItemId": "eng-2026-08-03-vocab-004"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-vocab-005",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\napportion",
+      "choices": [
+        "제한하다",
+        "이끌어 내다",
+        "비준하다, 승인하다",
+        "배분하다"
+      ],
+      "answer": 3,
+      "explanation": "apportion는 '배분하다'라는 뜻입니다.",
+      "relatedItemId": "eng-2026-08-03-vocab-005"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-vocab-006",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\navert",
+      "choices": [
+        "미연에 방지하다",
+        "철회하다, 취소하다",
+        "피하다, 방지하다",
+        "부여하다"
+      ],
+      "answer": 2,
+      "explanation": "avert는 '피하다, 방지하다'라는 뜻입니다.",
+      "relatedItemId": "eng-2026-08-03-vocab-006"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-vocab-007",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nbolster",
+      "choices": [
+        "정당성을 입증하다",
+        "강화하다",
+        "축소하다, 제한하다",
+        "방해하다"
+      ],
+      "answer": 1,
+      "explanation": "bolster는 '강화하다'라는 뜻입니다.",
+      "relatedItemId": "eng-2026-08-03-vocab-007"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-vocab-008",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\ncircumscribe",
+      "choices": [
+        "제한하다",
+        "이양하다",
+        "무효화하다",
+        "약화되다, 줄어들다"
+      ],
+      "answer": 0,
+      "explanation": "circumscribe는 '제한하다'라는 뜻입니다.",
+      "relatedItemId": "eng-2026-08-03-vocab-008"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-vocab-009",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nconfer",
+      "choices": [
+        "이끌어 내다",
+        "완화하다",
+        "누적되다",
+        "부여하다"
+      ],
+      "answer": 3,
+      "explanation": "confer는 '부여하다'라는 뜻입니다.",
+      "relatedItemId": "eng-2026-08-03-vocab-009"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-vocab-010",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\ncurtail",
+      "choices": [
+        "불가능하게 하다",
+        "개선하다, 완화하다",
+        "축소하다, 제한하다",
+        "미연에 방지하다"
+      ],
+      "answer": 2,
+      "explanation": "curtail는 '축소하다, 제한하다'라는 뜻입니다.",
+      "relatedItemId": "eng-2026-08-03-vocab-010"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-vocab-011",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\ndevolve",
+      "choices": [
+        "무효로 하다",
+        "이양하다",
+        "방해하다",
+        "비준하다, 승인하다"
+      ],
+      "answer": 1,
+      "explanation": "devolve는 '이양하다'라는 뜻입니다.",
+      "relatedItemId": "eng-2026-08-03-vocab-011"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-vocab-012",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nelicit",
+      "choices": [
+        "이끌어 내다",
+        "무효화하다",
+        "철회하다, 취소하다",
+        "배분하다"
+      ],
+      "answer": 0,
+      "explanation": "elicit는 '이끌어 내다'라는 뜻입니다.",
+      "relatedItemId": "eng-2026-08-03-vocab-012"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-vocab-013",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nforestall",
+      "choices": [
+        "완화하다",
+        "정당성을 입증하다",
+        "피하다, 방지하다",
+        "미연에 방지하다"
+      ],
+      "answer": 3,
+      "explanation": "forestall는 '미연에 방지하다'라는 뜻입니다.",
+      "relatedItemId": "eng-2026-08-03-vocab-013"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-vocab-014",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nimpede",
+      "choices": [
+        "약화되다, 줄어들다",
+        "강화하다",
+        "방해하다",
+        "불가능하게 하다"
+      ],
+      "answer": 2,
+      "explanation": "impede는 '방해하다'라는 뜻입니다.",
+      "relatedItemId": "eng-2026-08-03-vocab-014"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-vocab-015",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\ninvalidate",
+      "choices": [
+        "제한하다",
+        "무효화하다",
+        "비준하다, 승인하다",
+        "누적되다"
+      ],
+      "answer": 1,
+      "explanation": "invalidate는 '무효화하다'라는 뜻입니다.",
+      "relatedItemId": "eng-2026-08-03-vocab-015"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-vocab-016",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nmitigate",
+      "choices": [
+        "완화하다",
+        "철회하다, 취소하다",
+        "개선하다, 완화하다",
+        "부여하다"
+      ],
+      "answer": 0,
+      "explanation": "mitigate는 '완화하다'라는 뜻입니다.",
+      "relatedItemId": "eng-2026-08-03-vocab-016"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-vocab-017",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\npreclude",
+      "choices": [
+        "정당성을 입증하다",
+        "무효로 하다",
+        "축소하다, 제한하다",
+        "불가능하게 하다"
+      ],
+      "answer": 3,
+      "explanation": "preclude는 '불가능하게 하다'라는 뜻입니다.",
+      "relatedItemId": "eng-2026-08-03-vocab-017"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-vocab-018",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nratify",
+      "choices": [
+        "배분하다",
+        "이양하다",
+        "비준하다, 승인하다",
+        "약화되다, 줄어들다"
+      ],
+      "answer": 2,
+      "explanation": "ratify는 '비준하다, 승인하다'라는 뜻입니다.",
+      "relatedItemId": "eng-2026-08-03-vocab-018"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-vocab-019",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nrescind",
+      "choices": [
+        "이끌어 내다",
+        "철회하다, 취소하다",
+        "누적되다",
+        "피하다, 방지하다"
+      ],
+      "answer": 1,
+      "explanation": "rescind는 '철회하다, 취소하다'라는 뜻입니다.",
+      "relatedItemId": "eng-2026-08-03-vocab-019"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-vocab-020",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nvindicate",
+      "choices": [
+        "정당성을 입증하다",
+        "개선하다, 완화하다",
+        "강화하다",
+        "미연에 방지하다"
+      ],
+      "answer": 0,
+      "explanation": "vindicate는 '정당성을 입증하다'라는 뜻입니다.",
+      "relatedItemId": "eng-2026-08-03-vocab-020"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-sentence-001",
+      "type": "sentence_translation",
+      "prompt": "다음 문장의 해석으로 가장 적절한 것은?\n\nOnly after the hearing ended did the committee announce its decision.",
+      "choices": [
+        "가장 중요한 것은 그 규칙이 일관되게 적용될 수 있는지 여부이다.",
+        "그 조치는 비용을 줄였지만 서비스 품질을 개선하지는 못했다.",
+        "청문이 끝난 뒤에야 위원회는 결정을 발표했다.",
+        "시민들이 요건을 더 쉽게 이해할 수 있도록 정책이 개정되었다."
+      ],
+      "answer": 2,
+      "explanation": "청문이 끝난 뒤에야 위원회는 결정을 발표했다.",
+      "relatedItemId": "eng-2026-08-03-sentence-001"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-sentence-002",
+      "type": "sentence_translation",
+      "prompt": "다음 문장의 해석으로 가장 적절한 것은?\n\nAnyone who wishes to appeal must file the request within the prescribed period.",
+      "choices": [
+        "그 기록들은 상당수가 불완전하여 다시 확인해야 했다.",
+        "불복하려는 사람은 정해진 기간 안에 신청서를 제출해야 한다.",
+        "자료가 불완전하다면 그 결론은 재검토되어야 할 것이다.",
+        "그 보고서는 각 사무소가 별도의 검토 절차를 마련할 것을 권고한다."
+      ],
+      "answer": 1,
+      "explanation": "불복하려는 사람은 정해진 기간 안에 신청서를 제출해야 한다.",
+      "relatedItemId": "eng-2026-08-03-sentence-002"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-sentence-003",
+      "type": "sentence_translation",
+      "prompt": "다음 문장의 해석으로 가장 적절한 것은?\n\nThe policy was revised so that citizens could understand the requirements more easily.",
+      "choices": [
+        "시민들이 요건을 더 쉽게 이해할 수 있도록 정책이 개정되었다.",
+        "시스템이 복구되자마자 온라인 신청이 재개되었다.",
+        "그 조치는 비용을 줄였지만 서비스 품질을 개선하지는 못했다.",
+        "결정의 이유가 명확히 설명될 때 시민들은 그 결정을 더 신뢰할 가능성이 높다."
+      ],
+      "answer": 0,
+      "explanation": "시민들이 요건을 더 쉽게 이해할 수 있도록 정책이 개정되었다.",
+      "relatedItemId": "eng-2026-08-03-sentence-003"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-sentence-004",
+      "type": "sentence_translation",
+      "prompt": "다음 문장의 해석으로 가장 적절한 것은?\n\nWere the data incomplete, the conclusion would have to be reconsidered.",
+      "choices": [
+        "가장 중요한 것은 그 규칙이 일관되게 적용될 수 있는지 여부이다.",
+        "그 기록들은 상당수가 불완전하여 다시 확인해야 했다.",
+        "청문이 끝난 뒤에야 위원회는 결정을 발표했다.",
+        "자료가 불완전하다면 그 결론은 재검토되어야 할 것이다."
+      ],
+      "answer": 3,
+      "explanation": "자료가 불완전하다면 그 결론은 재검토되어야 할 것이다.",
+      "relatedItemId": "eng-2026-08-03-sentence-004"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-sentence-005",
+      "type": "sentence_translation",
+      "prompt": "다음 문장의 해석으로 가장 적절한 것은?\n\nNo sooner had the system recovered than online applications resumed.",
+      "choices": [
+        "결정의 이유가 명확히 설명될 때 시민들은 그 결정을 더 신뢰할 가능성이 높다.",
+        "불복하려는 사람은 정해진 기간 안에 신청서를 제출해야 한다.",
+        "시스템이 복구되자마자 온라인 신청이 재개되었다.",
+        "그 보고서는 각 사무소가 별도의 검토 절차를 마련할 것을 권고한다."
+      ],
+      "answer": 2,
+      "explanation": "시스템이 복구되자마자 온라인 신청이 재개되었다.",
+      "relatedItemId": "eng-2026-08-03-sentence-005"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-sentence-006",
+      "type": "sentence_translation",
+      "prompt": "다음 문장의 해석으로 가장 적절한 것은?\n\nWhat matters most is whether the rule can be applied consistently.",
+      "choices": [
+        "시민들이 요건을 더 쉽게 이해할 수 있도록 정책이 개정되었다.",
+        "가장 중요한 것은 그 규칙이 일관되게 적용될 수 있는지 여부이다.",
+        "그 조치는 비용을 줄였지만 서비스 품질을 개선하지는 못했다.",
+        "청문이 끝난 뒤에야 위원회는 결정을 발표했다."
+      ],
+      "answer": 1,
+      "explanation": "가장 중요한 것은 그 규칙이 일관되게 적용될 수 있는지 여부이다.",
+      "relatedItemId": "eng-2026-08-03-sentence-006"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-sentence-007",
+      "type": "sentence_translation",
+      "prompt": "다음 문장의 해석으로 가장 적절한 것은?\n\nThe report recommends that each office establish a separate review procedure.",
+      "choices": [
+        "그 보고서는 각 사무소가 별도의 검토 절차를 마련할 것을 권고한다.",
+        "그 기록들은 상당수가 불완전하여 다시 확인해야 했다.",
+        "불복하려는 사람은 정해진 기간 안에 신청서를 제출해야 한다.",
+        "자료가 불완전하다면 그 결론은 재검토되어야 할 것이다."
+      ],
+      "answer": 0,
+      "explanation": "그 보고서는 각 사무소가 별도의 검토 절차를 마련할 것을 권고한다.",
+      "relatedItemId": "eng-2026-08-03-sentence-007"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-sentence-008",
+      "type": "sentence_translation",
+      "prompt": "다음 문장의 해석으로 가장 적절한 것은?\n\nAlthough the measure reduced costs, it did not improve service quality.",
+      "choices": [
+        "결정의 이유가 명확히 설명될 때 시민들은 그 결정을 더 신뢰할 가능성이 높다.",
+        "시민들이 요건을 더 쉽게 이해할 수 있도록 정책이 개정되었다.",
+        "시스템이 복구되자마자 온라인 신청이 재개되었다.",
+        "그 조치는 비용을 줄였지만 서비스 품질을 개선하지는 못했다."
+      ],
+      "answer": 3,
+      "explanation": "그 조치는 비용을 줄였지만 서비스 품질을 개선하지는 못했다.",
+      "relatedItemId": "eng-2026-08-03-sentence-008"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-sentence-009",
+      "type": "sentence_translation",
+      "prompt": "다음 문장의 해석으로 가장 적절한 것은?\n\nThe records, many of which were incomplete, had to be checked again.",
+      "choices": [
+        "자료가 불완전하다면 그 결론은 재검토되어야 할 것이다.",
+        "가장 중요한 것은 그 규칙이 일관되게 적용될 수 있는지 여부이다.",
+        "그 기록들은 상당수가 불완전하여 다시 확인해야 했다.",
+        "청문이 끝난 뒤에야 위원회는 결정을 발표했다."
+      ],
+      "answer": 2,
+      "explanation": "그 기록들은 상당수가 불완전하여 다시 확인해야 했다.",
+      "relatedItemId": "eng-2026-08-03-sentence-009"
+    },
+    {
+      "id": "eng-2026-08-03-quiz-sentence-010",
+      "type": "sentence_translation",
+      "prompt": "다음 문장의 해석으로 가장 적절한 것은?\n\nCitizens are more likely to trust a decision when its reasons are clearly explained.",
+      "choices": [
+        "그 보고서는 각 사무소가 별도의 검토 절차를 마련할 것을 권고한다.",
+        "결정의 이유가 명확히 설명될 때 시민들은 그 결정을 더 신뢰할 가능성이 높다.",
+        "불복하려는 사람은 정해진 기간 안에 신청서를 제출해야 한다.",
+        "시스템이 복구되자마자 온라인 신청이 재개되었다."
+      ],
+      "answer": 1,
+      "explanation": "결정의 이유가 명확히 설명될 때 시민들은 그 결정을 더 신뢰할 가능성이 높다.",
+      "relatedItemId": "eng-2026-08-03-sentence-010"
+    }
+  ]
+}

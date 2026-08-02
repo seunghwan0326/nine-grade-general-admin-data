@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "app": "NinePass",
   "track": "general_admin_9grade",
-  "updatedAt": "2026-08-02T08:15:00+09:00",
+  "updatedAt": "2026-08-03T06:17:00+09:00",
   "replacePacks": false,
   "packs": [
     {
@@ -34,17 +34,6 @@
       "date": "2026-08-02"
     },
     {
-      "id": "english_vocab_sentence_foundation_expanded_002",
-      "name": "영어 어휘·문장 확장팩",
-      "file": "english_vocab_sentence_pack_001_foundation_expanded.json",
-      "enabled": true,
-      "packType": "english",
-      "vocabularyCount": 449,
-      "sentenceCount": 300,
-      "quizQuestionCount": 749,
-      "version": 2
-    },
-    {
       "id": "daily-english-2026-08-02",
       "name": "2026-08-02 취약 영어 신규 학습팩",
       "file": "daily_english_latest.json",
@@ -55,6 +44,28 @@
       "quizQuestionCount": 30,
       "version": 2,
       "date": "2026-08-02"
+    },
+    {
+      "id": "daily-general-admin-2026-08-03",
+      "name": "9급 일반행정 2026-08-03 맞춤 일일팩",
+      "file": "daily_general_admin_2026_08_03.json",
+      "enabled": true,
+      "packType": "daily_personalized",
+      "questionCount": 32,
+      "version": 1,
+      "date": "2026-08-03"
+    },
+    {
+      "id": "daily-english-2026-08-03",
+      "name": "2026-08-03 취약 영어 학습팩",
+      "file": "daily_english_2026_08_03.json",
+      "enabled": true,
+      "packType": "english",
+      "vocabularyCount": 20,
+      "sentenceCount": 10,
+      "quizQuestionCount": 30,
+      "version": 1,
+      "date": "2026-08-03"
     }
   ]
 }
