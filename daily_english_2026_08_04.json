@@ -1,0 +1,775 @@
+{
+  "schemaVersion": 1,
+  "packId": "daily_english_2026_08_04",
+  "title": "2026-08-04 9급 취약 영어 전용 학습팩",
+  "date": "2026-08-04",
+  "packType": "english",
+  "personalizationStatus": "개인화 대기",
+  "description": "진단 기록이 없어 공무원 실무·생활영어 중심의 단어 20개, 문장 10개, 시험 30문항으로 구성했습니다.",
+  "vocabulary": [
+    {
+      "id": "eng_20260804_vocab_001",
+      "word": "allocate",
+      "meaning": "할당하다",
+      "example": "The agency allocated more staff to the service desk.",
+      "translation": "기관은 민원 창구에 더 많은 직원을 배치했다.",
+      "memoryTip": "al- + locate를 '자리를 정해 배치한다'로 연결하세요.",
+      "priority": "A",
+      "pronunciationText": "allocate"
+    },
+    {
+      "id": "eng_20260804_vocab_002",
+      "word": "amend",
+      "meaning": "개정하다",
+      "example": "The council amended the regulation after public feedback.",
+      "translation": "의회는 시민 의견을 반영해 규정을 개정했다.",
+      "memoryTip": "amend는 법·규정·문서를 고친다는 뜻입니다.",
+      "priority": "A",
+      "pronunciationText": "amend"
+    },
+    {
+      "id": "eng_20260804_vocab_003",
+      "word": "applicant",
+      "meaning": "신청자",
+      "example": "Each applicant must submit a valid ID.",
+      "translation": "각 신청자는 유효한 신분증을 제출해야 한다.",
+      "memoryTip": "apply에서 나온 사람 명사 applicant를 기억하세요.",
+      "priority": "A",
+      "pronunciationText": "applicant"
+    },
+    {
+      "id": "eng_20260804_vocab_004",
+      "word": "comply",
+      "meaning": "준수하다",
+      "example": "All vendors must comply with safety rules.",
+      "translation": "모든 판매업체는 안전 규정을 준수해야 한다.",
+      "memoryTip": "comply with를 한 덩어리로 외우세요.",
+      "priority": "A",
+      "pronunciationText": "comply"
+    },
+    {
+      "id": "eng_20260804_vocab_005",
+      "word": "confidential",
+      "meaning": "기밀의",
+      "example": "The document contains confidential information.",
+      "translation": "그 문서에는 기밀 정보가 포함되어 있다.",
+      "memoryTip": "confide와 연결해 남에게 함부로 말하지 않는 정보로 기억하세요.",
+      "priority": "A",
+      "pronunciationText": "confidential"
+    },
+    {
+      "id": "eng_20260804_vocab_006",
+      "word": "designate",
+      "meaning": "지정하다",
+      "example": "The mayor designated the building as a public shelter.",
+      "translation": "시장은 그 건물을 공공 대피소로 지정했다.",
+      "memoryTip": "design + ate가 아니라 '공식적으로 정하다'로 기억하세요.",
+      "priority": "A",
+      "pronunciationText": "designate"
+    },
+    {
+      "id": "eng_20260804_vocab_007",
+      "word": "eligible",
+      "meaning": "자격이 있는",
+      "example": "Residents over 65 are eligible for the benefit.",
+      "translation": "65세 이상 주민은 그 혜택을 받을 자격이 있다.",
+      "memoryTip": "be eligible for를 통째로 암기하세요.",
+      "priority": "A",
+      "pronunciationText": "eligible"
+    },
+    {
+      "id": "eng_20260804_vocab_008",
+      "word": "enforce",
+      "meaning": "시행하다",
+      "example": "The city will enforce the new parking rule next month.",
+      "translation": "시는 다음 달 새 주차 규정을 시행할 것이다.",
+      "memoryTip": "force를 넣어 규칙을 강제로 적용한다고 연결하세요.",
+      "priority": "A",
+      "pronunciationText": "enforce"
+    },
+    {
+      "id": "eng_20260804_vocab_009",
+      "word": "exempt",
+      "meaning": "면제된",
+      "example": "Some small businesses are exempt from the fee.",
+      "translation": "일부 소상공인은 수수료가 면제된다.",
+      "memoryTip": "be exempt from을 통째로 외우세요.",
+      "priority": "A",
+      "pronunciationText": "exempt"
+    },
+    {
+      "id": "eng_20260804_vocab_010",
+      "word": "facilitate",
+      "meaning": "촉진하다",
+      "example": "The online form facilitates faster processing.",
+      "translation": "온라인 양식은 더 빠른 처리를 돕는다.",
+      "memoryTip": "facile=쉽게와 연결해 일을 쉽게 만든다고 기억하세요.",
+      "priority": "A",
+      "pronunciationText": "facilitate"
+    },
+    {
+      "id": "eng_20260804_vocab_011",
+      "word": "implement",
+      "meaning": "시행하다",
+      "example": "The department implemented a new complaint system.",
+      "translation": "부서는 새로운 민원 시스템을 시행했다.",
+      "memoryTip": "plan을 실제로 실행에 옮긴다는 뜻입니다.",
+      "priority": "B",
+      "pronunciationText": "implement"
+    },
+    {
+      "id": "eng_20260804_vocab_012",
+      "word": "mandatory",
+      "meaning": "의무적인",
+      "example": "Attendance at the safety training is mandatory.",
+      "translation": "안전 교육 참석은 의무적이다.",
+      "memoryTip": "must와 같은 의미 영역으로 묶으세요.",
+      "priority": "B",
+      "pronunciationText": "mandatory"
+    },
+    {
+      "id": "eng_20260804_vocab_013",
+      "word": "notify",
+      "meaning": "통지하다",
+      "example": "Applicants will be notified by email.",
+      "translation": "신청자들은 이메일로 통지받을 것이다.",
+      "memoryTip": "notice와 같은 어근으로 연결하세요.",
+      "priority": "B",
+      "pronunciationText": "notify"
+    },
+    {
+      "id": "eng_20260804_vocab_014",
+      "word": "obtain",
+      "meaning": "얻다",
+      "example": "You must obtain permission before entering the area.",
+      "translation": "그 구역에 들어가기 전에 허가를 받아야 한다.",
+      "memoryTip": "get의 격식 표현으로 기억하세요.",
+      "priority": "B",
+      "pronunciationText": "obtain"
+    },
+    {
+      "id": "eng_20260804_vocab_015",
+      "word": "pending",
+      "meaning": "계류 중인",
+      "example": "Your application is still pending.",
+      "translation": "귀하의 신청은 아직 처리 중이다.",
+      "memoryTip": "pend=매달리다에서 아직 결정되지 않은 상태로 연결하세요.",
+      "priority": "B",
+      "pronunciationText": "pending"
+    },
+    {
+      "id": "eng_20260804_vocab_016",
+      "word": "prohibit",
+      "meaning": "금지하다",
+      "example": "The rule prohibits parking near the entrance.",
+      "translation": "그 규정은 입구 근처 주차를 금지한다.",
+      "memoryTip": "prohibit A from B 구조도 함께 기억하세요.",
+      "priority": "B",
+      "pronunciationText": "prohibit"
+    },
+    {
+      "id": "eng_20260804_vocab_017",
+      "word": "reimburse",
+      "meaning": "상환하다",
+      "example": "The agency will reimburse approved travel expenses.",
+      "translation": "기관은 승인된 출장비를 상환할 것이다.",
+      "memoryTip": "re + imburse를 '다시 돈을 돌려주다'로 기억하세요.",
+      "priority": "B",
+      "pronunciationText": "reimburse"
+    },
+    {
+      "id": "eng_20260804_vocab_018",
+      "word": "retain",
+      "meaning": "유지하다",
+      "example": "Please retain a copy of the receipt.",
+      "translation": "영수증 사본을 보관하세요.",
+      "memoryTip": "keep의 격식 표현입니다.",
+      "priority": "B",
+      "pronunciationText": "retain"
+    },
+    {
+      "id": "eng_20260804_vocab_019",
+      "word": "submit",
+      "meaning": "제출하다",
+      "example": "Please submit the form by Friday.",
+      "translation": "금요일까지 양식을 제출하세요.",
+      "memoryTip": "submit A by 날짜 구조를 기억하세요.",
+      "priority": "B",
+      "pronunciationText": "submit"
+    },
+    {
+      "id": "eng_20260804_vocab_020",
+      "word": "verify",
+      "meaning": "확인하다",
+      "example": "The clerk verified the applicant's identity.",
+      "translation": "직원은 신청자의 신원을 확인했다.",
+      "memoryTip": "verify=사실 여부를 확인하다.",
+      "priority": "B",
+      "pronunciationText": "verify"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "eng_20260804_sentence_001",
+      "sentence": "Please complete all required fields before submitting the application.",
+      "translation": "신청서를 제출하기 전에 모든 필수 항목을 작성하세요.",
+      "grammarPoint": "명령문 + before -ing",
+      "chunks": [
+        "Please complete",
+        "all required fields",
+        "before submitting the application."
+      ],
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 소리 내어 읽고, 한국어만 보고 영어를 복원하세요.",
+      "priority": "A",
+      "pronunciationText": "Please complete all required fields before submitting the application."
+    },
+    {
+      "id": "eng_20260804_sentence_002",
+      "sentence": "Your request will be processed within five business days.",
+      "translation": "귀하의 요청은 영업일 기준 5일 이내에 처리됩니다.",
+      "grammarPoint": "수동태 will be processed",
+      "chunks": [
+        "Your request",
+        "will be processed",
+        "within five business days."
+      ],
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 소리 내어 읽고, 한국어만 보고 영어를 복원하세요.",
+      "priority": "A",
+      "pronunciationText": "Your request will be processed within five business days."
+    },
+    {
+      "id": "eng_20260804_sentence_003",
+      "sentence": "Applicants who fail to provide identification may be denied service.",
+      "translation": "신분증을 제시하지 못한 신청자는 서비스를 거부당할 수 있습니다.",
+      "grammarPoint": "관계대명사 who + 수동태",
+      "chunks": [
+        "Applicants who fail",
+        "to provide identification",
+        "may be denied service."
+      ],
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 소리 내어 읽고, 한국어만 보고 영어를 복원하세요.",
+      "priority": "A",
+      "pronunciationText": "Applicants who fail to provide identification may be denied service."
+    },
+    {
+      "id": "eng_20260804_sentence_004",
+      "sentence": "The meeting has been postponed until further notice.",
+      "translation": "회의는 추후 공지가 있을 때까지 연기되었습니다.",
+      "grammarPoint": "현재완료 수동태",
+      "chunks": [
+        "The meeting",
+        "has been postponed",
+        "until further notice."
+      ],
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 소리 내어 읽고, 한국어만 보고 영어를 복원하세요.",
+      "priority": "A",
+      "pronunciationText": "The meeting has been postponed until further notice."
+    },
+    {
+      "id": "eng_20260804_sentence_005",
+      "sentence": "Residents are encouraged to use public transportation during the event.",
+      "translation": "주민들은 행사 기간에 대중교통을 이용하도록 권장됩니다.",
+      "grammarPoint": "be encouraged to",
+      "chunks": [
+        "Residents are encouraged",
+        "to use public transportation",
+        "during the event."
+      ],
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 소리 내어 읽고, 한국어만 보고 영어를 복원하세요.",
+      "priority": "A",
+      "pronunciationText": "Residents are encouraged to use public transportation during the event."
+    },
+    {
+      "id": "eng_20260804_sentence_006",
+      "sentence": "If the information is incomplete, the application may be returned.",
+      "translation": "정보가 불완전하면 신청서가 반려될 수 있습니다.",
+      "grammarPoint": "조건절 + 수동태",
+      "chunks": [
+        "If the information is incomplete",
+        "the application",
+        "may be returned."
+      ],
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 소리 내어 읽고, 한국어만 보고 영어를 복원하세요.",
+      "priority": "A",
+      "pronunciationText": "If the information is incomplete, the application may be returned."
+    },
+    {
+      "id": "eng_20260804_sentence_007",
+      "sentence": "The new system is designed to reduce waiting times.",
+      "translation": "새 시스템은 대기 시간을 줄이도록 설계되었습니다.",
+      "grammarPoint": "be designed to",
+      "chunks": [
+        "The new system",
+        "is designed",
+        "to reduce waiting times."
+      ],
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 소리 내어 읽고, 한국어만 보고 영어를 복원하세요.",
+      "priority": "A",
+      "pronunciationText": "The new system is designed to reduce waiting times."
+    },
+    {
+      "id": "eng_20260804_sentence_008",
+      "sentence": "You are responsible for keeping your contact information up to date.",
+      "translation": "연락처 정보를 최신 상태로 유지하는 것은 본인의 책임입니다.",
+      "grammarPoint": "be responsible for -ing",
+      "chunks": [
+        "You are responsible for",
+        "keeping your contact information",
+        "up to date."
+      ],
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 소리 내어 읽고, 한국어만 보고 영어를 복원하세요.",
+      "priority": "A",
+      "pronunciationText": "You are responsible for keeping your contact information up to date."
+    },
+    {
+      "id": "eng_20260804_sentence_009",
+      "sentence": "No additional documents are required unless specifically requested.",
+      "translation": "별도로 요청받지 않는 한 추가 서류는 필요하지 않습니다.",
+      "grammarPoint": "unless 절",
+      "chunks": [
+        "No additional documents",
+        "are required",
+        "unless specifically requested."
+      ],
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 소리 내어 읽고, 한국어만 보고 영어를 복원하세요.",
+      "priority": "A",
+      "pronunciationText": "No additional documents are required unless specifically requested."
+    },
+    {
+      "id": "eng_20260804_sentence_010",
+      "sentence": "The office will remain closed while the repairs are in progress.",
+      "translation": "수리가 진행되는 동안 사무실은 계속 문을 닫습니다.",
+      "grammarPoint": "remain + 형용사, while 절",
+      "chunks": [
+        "The office",
+        "will remain closed",
+        "while the repairs are in progress."
+      ],
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 소리 내어 읽고, 한국어만 보고 영어를 복원하세요.",
+      "priority": "A",
+      "pronunciationText": "The office will remain closed while the repairs are in progress."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "id": "eng_20260804_quiz_vocab_001",
+      "type": "vocab_meaning",
+      "prompt": "다음 영단어의 뜻으로 가장 적절한 것은?\n\nallocate",
+      "choices": [
+        "할당하다",
+        "개정하다",
+        "신청자",
+        "준수하다"
+      ],
+      "answer": 0,
+      "explanation": "allocate는 '할당하다'라는 뜻입니다.",
+      "relatedItemId": "eng_20260804_vocab_001"
+    },
+    {
+      "id": "eng_20260804_quiz_vocab_002",
+      "type": "vocab_meaning",
+      "prompt": "다음 영단어의 뜻으로 가장 적절한 것은?\n\namend",
+      "choices": [
+        "신청자",
+        "준수하다",
+        "기밀의",
+        "개정하다"
+      ],
+      "answer": 3,
+      "explanation": "amend는 '개정하다'라는 뜻입니다.",
+      "relatedItemId": "eng_20260804_vocab_002"
+    },
+    {
+      "id": "eng_20260804_quiz_vocab_003",
+      "type": "vocab_meaning",
+      "prompt": "다음 영단어의 뜻으로 가장 적절한 것은?\n\napplicant",
+      "choices": [
+        "기밀의",
+        "지정하다",
+        "신청자",
+        "준수하다"
+      ],
+      "answer": 2,
+      "explanation": "applicant는 '신청자'라는 뜻입니다.",
+      "relatedItemId": "eng_20260804_vocab_003"
+    },
+    {
+      "id": "eng_20260804_quiz_vocab_004",
+      "type": "vocab_meaning",
+      "prompt": "다음 영단어의 뜻으로 가장 적절한 것은?\n\ncomply",
+      "choices": [
+        "자격이 있는",
+        "준수하다",
+        "기밀의",
+        "지정하다"
+      ],
+      "answer": 1,
+      "explanation": "comply는 '준수하다'라는 뜻입니다.",
+      "relatedItemId": "eng_20260804_vocab_004"
+    },
+    {
+      "id": "eng_20260804_quiz_vocab_005",
+      "type": "vocab_meaning",
+      "prompt": "다음 영단어의 뜻으로 가장 적절한 것은?\n\nconfidential",
+      "choices": [
+        "기밀의",
+        "지정하다",
+        "자격이 있는",
+        "시행하다"
+      ],
+      "answer": 0,
+      "explanation": "confidential는 '기밀의'라는 뜻입니다.",
+      "relatedItemId": "eng_20260804_vocab_005"
+    },
+    {
+      "id": "eng_20260804_quiz_vocab_006",
+      "type": "vocab_meaning",
+      "prompt": "다음 영단어의 뜻으로 가장 적절한 것은?\n\ndesignate",
+      "choices": [
+        "자격이 있는",
+        "시행하다",
+        "면제된",
+        "지정하다"
+      ],
+      "answer": 3,
+      "explanation": "designate는 '지정하다'라는 뜻입니다.",
+      "relatedItemId": "eng_20260804_vocab_006"
+    },
+    {
+      "id": "eng_20260804_quiz_vocab_007",
+      "type": "vocab_meaning",
+      "prompt": "다음 영단어의 뜻으로 가장 적절한 것은?\n\neligible",
+      "choices": [
+        "면제된",
+        "촉진하다",
+        "자격이 있는",
+        "시행하다"
+      ],
+      "answer": 2,
+      "explanation": "eligible는 '자격이 있는'라는 뜻입니다.",
+      "relatedItemId": "eng_20260804_vocab_007"
+    },
+    {
+      "id": "eng_20260804_quiz_vocab_008",
+      "type": "vocab_meaning",
+      "prompt": "다음 영단어의 뜻으로 가장 적절한 것은?\n\nenforce",
+      "choices": [
+        "의무적인",
+        "시행하다",
+        "면제된",
+        "촉진하다"
+      ],
+      "answer": 1,
+      "explanation": "enforce는 '시행하다'라는 뜻입니다.",
+      "relatedItemId": "eng_20260804_vocab_008"
+    },
+    {
+      "id": "eng_20260804_quiz_vocab_009",
+      "type": "vocab_meaning",
+      "prompt": "다음 영단어의 뜻으로 가장 적절한 것은?\n\nexempt",
+      "choices": [
+        "면제된",
+        "촉진하다",
+        "시행하다",
+        "의무적인"
+      ],
+      "answer": 0,
+      "explanation": "exempt는 '면제된'라는 뜻입니다.",
+      "relatedItemId": "eng_20260804_vocab_009"
+    },
+    {
+      "id": "eng_20260804_quiz_vocab_010",
+      "type": "vocab_meaning",
+      "prompt": "다음 영단어의 뜻으로 가장 적절한 것은?\n\nfacilitate",
+      "choices": [
+        "시행하다",
+        "의무적인",
+        "통지하다",
+        "촉진하다"
+      ],
+      "answer": 3,
+      "explanation": "facilitate는 '촉진하다'라는 뜻입니다.",
+      "relatedItemId": "eng_20260804_vocab_010"
+    },
+    {
+      "id": "eng_20260804_quiz_vocab_011",
+      "type": "vocab_meaning",
+      "prompt": "다음 영단어의 뜻으로 가장 적절한 것은?\n\nimplement",
+      "choices": [
+        "통지하다",
+        "얻다",
+        "시행하다",
+        "의무적인"
+      ],
+      "answer": 2,
+      "explanation": "implement는 '시행하다'라는 뜻입니다.",
+      "relatedItemId": "eng_20260804_vocab_011"
+    },
+    {
+      "id": "eng_20260804_quiz_vocab_012",
+      "type": "vocab_meaning",
+      "prompt": "다음 영단어의 뜻으로 가장 적절한 것은?\n\nmandatory",
+      "choices": [
+        "계류 중인",
+        "의무적인",
+        "통지하다",
+        "얻다"
+      ],
+      "answer": 1,
+      "explanation": "mandatory는 '의무적인'라는 뜻입니다.",
+      "relatedItemId": "eng_20260804_vocab_012"
+    },
+    {
+      "id": "eng_20260804_quiz_vocab_013",
+      "type": "vocab_meaning",
+      "prompt": "다음 영단어의 뜻으로 가장 적절한 것은?\n\nnotify",
+      "choices": [
+        "통지하다",
+        "얻다",
+        "계류 중인",
+        "금지하다"
+      ],
+      "answer": 0,
+      "explanation": "notify는 '통지하다'라는 뜻입니다.",
+      "relatedItemId": "eng_20260804_vocab_013"
+    },
+    {
+      "id": "eng_20260804_quiz_vocab_014",
+      "type": "vocab_meaning",
+      "prompt": "다음 영단어의 뜻으로 가장 적절한 것은?\n\nobtain",
+      "choices": [
+        "계류 중인",
+        "금지하다",
+        "상환하다",
+        "얻다"
+      ],
+      "answer": 3,
+      "explanation": "obtain는 '얻다'라는 뜻입니다.",
+      "relatedItemId": "eng_20260804_vocab_014"
+    },
+    {
+      "id": "eng_20260804_quiz_vocab_015",
+      "type": "vocab_meaning",
+      "prompt": "다음 영단어의 뜻으로 가장 적절한 것은?\n\npending",
+      "choices": [
+        "상환하다",
+        "유지하다",
+        "계류 중인",
+        "금지하다"
+      ],
+      "answer": 2,
+      "explanation": "pending는 '계류 중인'라는 뜻입니다.",
+      "relatedItemId": "eng_20260804_vocab_015"
+    },
+    {
+      "id": "eng_20260804_quiz_vocab_016",
+      "type": "vocab_meaning",
+      "prompt": "다음 영단어의 뜻으로 가장 적절한 것은?\n\nprohibit",
+      "choices": [
+        "제출하다",
+        "금지하다",
+        "상환하다",
+        "유지하다"
+      ],
+      "answer": 1,
+      "explanation": "prohibit는 '금지하다'라는 뜻입니다.",
+      "relatedItemId": "eng_20260804_vocab_016"
+    },
+    {
+      "id": "eng_20260804_quiz_vocab_017",
+      "type": "vocab_meaning",
+      "prompt": "다음 영단어의 뜻으로 가장 적절한 것은?\n\nreimburse",
+      "choices": [
+        "상환하다",
+        "유지하다",
+        "제출하다",
+        "확인하다"
+      ],
+      "answer": 0,
+      "explanation": "reimburse는 '상환하다'라는 뜻입니다.",
+      "relatedItemId": "eng_20260804_vocab_017"
+    },
+    {
+      "id": "eng_20260804_quiz_vocab_018",
+      "type": "vocab_meaning",
+      "prompt": "다음 영단어의 뜻으로 가장 적절한 것은?\n\nretain",
+      "choices": [
+        "제출하다",
+        "확인하다",
+        "할당하다",
+        "유지하다"
+      ],
+      "answer": 3,
+      "explanation": "retain는 '유지하다'라는 뜻입니다.",
+      "relatedItemId": "eng_20260804_vocab_018"
+    },
+    {
+      "id": "eng_20260804_quiz_vocab_019",
+      "type": "vocab_meaning",
+      "prompt": "다음 영단어의 뜻으로 가장 적절한 것은?\n\nsubmit",
+      "choices": [
+        "할당하다",
+        "개정하다",
+        "제출하다",
+        "확인하다"
+      ],
+      "answer": 2,
+      "explanation": "submit는 '제출하다'라는 뜻입니다.",
+      "relatedItemId": "eng_20260804_vocab_019"
+    },
+    {
+      "id": "eng_20260804_quiz_vocab_020",
+      "type": "vocab_meaning",
+      "prompt": "다음 영단어의 뜻으로 가장 적절한 것은?\n\nverify",
+      "choices": [
+        "신청자",
+        "확인하다",
+        "할당하다",
+        "개정하다"
+      ],
+      "answer": 1,
+      "explanation": "verify는 '확인하다'라는 뜻입니다.",
+      "relatedItemId": "eng_20260804_vocab_020"
+    },
+    {
+      "id": "eng_20260804_quiz_sentence_001",
+      "type": "sentence_translation",
+      "prompt": "다음 문장의 해석으로 가장 적절한 것은?\n\nPlease complete all required fields before submitting the application.",
+      "choices": [
+        "귀하의 요청은 영업일 기준 5일 이내에 처리됩니다.",
+        "신분증을 제시하지 못한 신청자는 서비스를 거부당할 수 있습니다.",
+        "회의는 추후 공지가 있을 때까지 연기되었습니다.",
+        "신청서를 제출하기 전에 모든 필수 항목을 작성하세요."
+      ],
+      "answer": 3,
+      "explanation": "신청서를 제출하기 전에 모든 필수 항목을 작성하세요.",
+      "relatedItemId": "eng_20260804_sentence_001"
+    },
+    {
+      "id": "eng_20260804_quiz_sentence_002",
+      "type": "sentence_translation",
+      "prompt": "다음 문장의 해석으로 가장 적절한 것은?\n\nYour request will be processed within five business days.",
+      "choices": [
+        "회의는 추후 공지가 있을 때까지 연기되었습니다.",
+        "주민들은 행사 기간에 대중교통을 이용하도록 권장됩니다.",
+        "귀하의 요청은 영업일 기준 5일 이내에 처리됩니다.",
+        "신분증을 제시하지 못한 신청자는 서비스를 거부당할 수 있습니다."
+      ],
+      "answer": 2,
+      "explanation": "귀하의 요청은 영업일 기준 5일 이내에 처리됩니다.",
+      "relatedItemId": "eng_20260804_sentence_002"
+    },
+    {
+      "id": "eng_20260804_quiz_sentence_003",
+      "type": "sentence_translation",
+      "prompt": "다음 문장의 해석으로 가장 적절한 것은?\n\nApplicants who fail to provide identification may be denied service.",
+      "choices": [
+        "정보가 불완전하면 신청서가 반려될 수 있습니다.",
+        "신분증을 제시하지 못한 신청자는 서비스를 거부당할 수 있습니다.",
+        "회의는 추후 공지가 있을 때까지 연기되었습니다.",
+        "주민들은 행사 기간에 대중교통을 이용하도록 권장됩니다."
+      ],
+      "answer": 1,
+      "explanation": "신분증을 제시하지 못한 신청자는 서비스를 거부당할 수 있습니다.",
+      "relatedItemId": "eng_20260804_sentence_003"
+    },
+    {
+      "id": "eng_20260804_quiz_sentence_004",
+      "type": "sentence_translation",
+      "prompt": "다음 문장의 해석으로 가장 적절한 것은?\n\nThe meeting has been postponed until further notice.",
+      "choices": [
+        "회의는 추후 공지가 있을 때까지 연기되었습니다.",
+        "주민들은 행사 기간에 대중교통을 이용하도록 권장됩니다.",
+        "정보가 불완전하면 신청서가 반려될 수 있습니다.",
+        "새 시스템은 대기 시간을 줄이도록 설계되었습니다."
+      ],
+      "answer": 0,
+      "explanation": "회의는 추후 공지가 있을 때까지 연기되었습니다.",
+      "relatedItemId": "eng_20260804_sentence_004"
+    },
+    {
+      "id": "eng_20260804_quiz_sentence_005",
+      "type": "sentence_translation",
+      "prompt": "다음 문장의 해석으로 가장 적절한 것은?\n\nResidents are encouraged to use public transportation during the event.",
+      "choices": [
+        "정보가 불완전하면 신청서가 반려될 수 있습니다.",
+        "새 시스템은 대기 시간을 줄이도록 설계되었습니다.",
+        "연락처 정보를 최신 상태로 유지하는 것은 본인의 책임입니다.",
+        "주민들은 행사 기간에 대중교통을 이용하도록 권장됩니다."
+      ],
+      "answer": 3,
+      "explanation": "주민들은 행사 기간에 대중교통을 이용하도록 권장됩니다.",
+      "relatedItemId": "eng_20260804_sentence_005"
+    },
+    {
+      "id": "eng_20260804_quiz_sentence_006",
+      "type": "sentence_translation",
+      "prompt": "다음 문장의 해석으로 가장 적절한 것은?\n\nIf the information is incomplete, the application may be returned.",
+      "choices": [
+        "연락처 정보를 최신 상태로 유지하는 것은 본인의 책임입니다.",
+        "별도로 요청받지 않는 한 추가 서류는 필요하지 않습니다.",
+        "정보가 불완전하면 신청서가 반려될 수 있습니다.",
+        "새 시스템은 대기 시간을 줄이도록 설계되었습니다."
+      ],
+      "answer": 2,
+      "explanation": "정보가 불완전하면 신청서가 반려될 수 있습니다.",
+      "relatedItemId": "eng_20260804_sentence_006"
+    },
+    {
+      "id": "eng_20260804_quiz_sentence_007",
+      "type": "sentence_translation",
+      "prompt": "다음 문장의 해석으로 가장 적절한 것은?\n\nThe new system is designed to reduce waiting times.",
+      "choices": [
+        "수리가 진행되는 동안 사무실은 계속 문을 닫습니다.",
+        "새 시스템은 대기 시간을 줄이도록 설계되었습니다.",
+        "연락처 정보를 최신 상태로 유지하는 것은 본인의 책임입니다.",
+        "별도로 요청받지 않는 한 추가 서류는 필요하지 않습니다."
+      ],
+      "answer": 1,
+      "explanation": "새 시스템은 대기 시간을 줄이도록 설계되었습니다.",
+      "relatedItemId": "eng_20260804_sentence_007"
+    },
+    {
+      "id": "eng_20260804_quiz_sentence_008",
+      "type": "sentence_translation",
+      "prompt": "다음 문장의 해석으로 가장 적절한 것은?\n\nYou are responsible for keeping your contact information up to date.",
+      "choices": [
+        "연락처 정보를 최신 상태로 유지하는 것은 본인의 책임입니다.",
+        "별도로 요청받지 않는 한 추가 서류는 필요하지 않습니다.",
+        "수리가 진행되는 동안 사무실은 계속 문을 닫습니다.",
+        "신청서를 제출하기 전에 모든 필수 항목을 작성하세요."
+      ],
+      "answer": 0,
+      "explanation": "연락처 정보를 최신 상태로 유지하는 것은 본인의 책임입니다.",
+      "relatedItemId": "eng_20260804_sentence_008"
+    },
+    {
+      "id": "eng_20260804_quiz_sentence_009",
+      "type": "sentence_translation",
+      "prompt": "다음 문장의 해석으로 가장 적절한 것은?\n\nNo additional documents are required unless specifically requested.",
+      "choices": [
+        "수리가 진행되는 동안 사무실은 계속 문을 닫습니다.",
+        "신청서를 제출하기 전에 모든 필수 항목을 작성하세요.",
+        "귀하의 요청은 영업일 기준 5일 이내에 처리됩니다.",
+        "별도로 요청받지 않는 한 추가 서류는 필요하지 않습니다."
+      ],
+      "answer": 3,
+      "explanation": "별도로 요청받지 않는 한 추가 서류는 필요하지 않습니다.",
+      "relatedItemId": "eng_20260804_sentence_009"
+    },
+    {
+      "id": "eng_20260804_quiz_sentence_010",
+      "type": "sentence_translation",
+      "prompt": "다음 문장의 해석으로 가장 적절한 것은?\n\nThe office will remain closed while the repairs are in progress.",
+      "choices": [
+        "귀하의 요청은 영업일 기준 5일 이내에 처리됩니다.",
+        "신분증을 제시하지 못한 신청자는 서비스를 거부당할 수 있습니다.",
+        "수리가 진행되는 동안 사무실은 계속 문을 닫습니다.",
+        "신청서를 제출하기 전에 모든 필수 항목을 작성하세요."
+      ],
+      "answer": 2,
+      "explanation": "수리가 진행되는 동안 사무실은 계속 문을 닫습니다.",
+      "relatedItemId": "eng_20260804_sentence_010"
+    }
+  ]
+}

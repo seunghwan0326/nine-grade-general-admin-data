@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-04T06:05:00+09:00",
+  "updatedAt": "2026-08-04T06:15:00+09:00",
   "track": "일반행정 9급",
   "personalizationStatus": "개인화 대기",
   "packs": [
@@ -32,13 +32,23 @@
       "id": "daily_general_admin_2026_08_04",
       "file": "daily_general_admin_2026_08_04.json",
       "packType": "diagnostic",
-      "enabled": true
+      "enabled": true,
+      "questionCount": 40
     },
     {
       "id": "english_vocab_sentence_pack_001",
       "file": "english_vocab_sentence_pack_001.json",
       "packType": "english",
       "enabled": true
+    },
+    {
+      "id": "daily_english_2026_08_04",
+      "file": "daily_english_2026_08_04.json",
+      "packType": "english",
+      "enabled": true,
+      "vocabularyCount": 20,
+      "sentenceCount": 10,
+      "quizQuestionCount": 30
     }
   ]
 }
