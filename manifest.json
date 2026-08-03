@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-04T06:40:00+09:00",
+  "updatedAt": "2026-08-04T06:45:00+09:00",
   "track": "일반행정 9급",
   "personalizationStatus": "개인화 대기",
   "packs": [
@@ -52,5 +52,6 @@
       "sentenceCount": 10,
       "quizQuestionCount": 30
     }
-  ]
+  ],
+  "notes": "생활영어 speechText/translation 지원 및 앱 신규팩 우선 병합 패치 포함"
 }
