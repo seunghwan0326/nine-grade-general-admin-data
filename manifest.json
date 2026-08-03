@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-04T06:15:00+09:00",
+  "updatedAt": "2026-08-04T06:40:00+09:00",
   "track": "일반행정 9급",
   "personalizationStatus": "개인화 대기",
   "packs": [
@@ -33,7 +33,9 @@
       "file": "daily_general_admin_2026_08_04.json",
       "packType": "diagnostic",
       "enabled": true,
-      "questionCount": 40
+      "questionCount": 40,
+      "version": 2,
+      "hasLifeEnglishTranslation": true
     },
     {
       "id": "english_vocab_sentence_pack_001",

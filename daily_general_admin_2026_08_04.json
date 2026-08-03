@@ -290,7 +290,9 @@
       "sourceBasis": "인사혁신처 9급 시험안내 및 과목별 기본이론",
       "estimatedTimeSec": 60,
       "date": "2026-08-04",
-      "packId": "daily_general_admin_2026_08_04"
+      "packId": "daily_general_admin_2026_08_04",
+      "speechText": "I'd like to renew my driver's license. Do you have your ID with you? Yes, here it is.",
+      "translation": "A: 운전면허증을 갱신하고 싶습니다.\nB: 신분증을 가지고 계신가요?\nA: 네, 여기 있습니다."
     },
     {
       "id": "nga_20260804_eng_014",
@@ -378,7 +380,9 @@
       "sourceBasis": "인사혁신처 9급 시험안내 및 과목별 기본이론",
       "estimatedTimeSec": 60,
       "date": "2026-08-04",
-      "packId": "daily_general_admin_2026_08_04"
+      "packId": "daily_general_admin_2026_08_04",
+      "speechText": "Notice. The community center will be closed on Monday for maintenance.",
+      "translation": "공지: 커뮤니티 센터는 시설 점검을 위해 월요일에 문을 닫습니다."
     },
     {
       "id": "nga_20260804_eng_018",
@@ -444,7 +448,9 @@
       "sourceBasis": "인사혁신처 9급 시험안내 및 과목별 기본이론",
       "estimatedTimeSec": 60,
       "date": "2026-08-04",
-      "packId": "daily_general_admin_2026_08_04"
+      "packId": "daily_general_admin_2026_08_04",
+      "speechText": "City Hall. How may I help you? I'm calling to ask about the parking permit. Let me connect you with the transportation desk.",
+      "translation": "A: 시청입니다. 무엇을 도와드릴까요?\nB: 주차 허가증에 대해 문의하려고 전화했습니다.\nA: 교통 담당 부서로 연결해 드리겠습니다."
     },
     {
       "id": "nga_20260804_law_021",
