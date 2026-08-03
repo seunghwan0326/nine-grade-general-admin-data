@@ -1,71 +1,44 @@
 {
   "schemaVersion": 1,
-  "app": "NinePass",
-  "track": "general_admin_9grade",
-  "updatedAt": "2026-08-03T06:17:00+09:00",
-  "replacePacks": false,
+  "updatedAt": "2026-08-04T06:05:00+09:00",
+  "track": "일반행정 9급",
+  "personalizationStatus": "개인화 대기",
   "packs": [
     {
       "id": "starter_pack_9grade_general_admin_001",
-      "name": "9급 일반행정 기본 진단 100문제",
       "file": "starter_pack_9grade_general_admin_001.json",
-      "enabled": true,
       "packType": "diagnostic",
-      "questionCount": 100,
-      "version": 1
+      "enabled": true
     },
     {
       "id": "general_admin_expansion_002",
-      "name": "9급 일반행정 확장 문제팩 40문제",
       "file": "general_admin_expansion_002.json",
-      "enabled": true,
       "packType": "diagnostic",
-      "questionCount": 40,
-      "version": 1
+      "enabled": true
     },
     {
-      "id": "daily-general-admin-2026-08-02",
-      "name": "9급 일반행정 2026-08-02 맞춤 일일팩",
-      "file": "daily_general_admin_latest.json",
-      "enabled": true,
-      "packType": "daily_personalized",
-      "questionCount": 20,
-      "version": 1,
-      "date": "2026-08-02"
+      "id": "daily_general_admin_2026_08_02",
+      "file": "daily_general_admin_2026_08_02.json",
+      "packType": "diagnostic",
+      "enabled": true
     },
     {
-      "id": "daily-english-2026-08-02",
-      "name": "2026-08-02 취약 영어 신규 학습팩",
-      "file": "daily_english_latest.json",
-      "enabled": true,
-      "packType": "english",
-      "vocabularyCount": 20,
-      "sentenceCount": 10,
-      "quizQuestionCount": 30,
-      "version": 2,
-      "date": "2026-08-02"
-    },
-    {
-      "id": "daily-general-admin-2026-08-03",
-      "name": "9급 일반행정 2026-08-03 맞춤 일일팩",
+      "id": "daily_general_admin_2026_08_03",
       "file": "daily_general_admin_2026_08_03.json",
-      "enabled": true,
-      "packType": "daily_personalized",
-      "questionCount": 32,
-      "version": 1,
-      "date": "2026-08-03"
+      "packType": "diagnostic",
+      "enabled": true
     },
     {
-      "id": "daily-english-2026-08-03",
-      "name": "2026-08-03 취약 영어 학습팩",
-      "file": "daily_english_2026_08_03.json",
-      "enabled": true,
+      "id": "daily_general_admin_2026_08_04",
+      "file": "daily_general_admin_2026_08_04.json",
+      "packType": "diagnostic",
+      "enabled": true
+    },
+    {
+      "id": "english_vocab_sentence_pack_001",
+      "file": "english_vocab_sentence_pack_001.json",
       "packType": "english",
-      "vocabularyCount": 20,
-      "sentenceCount": 10,
-      "quizQuestionCount": 30,
-      "version": 1,
-      "date": "2026-08-03"
+      "enabled": true
     }
   ]
 }
