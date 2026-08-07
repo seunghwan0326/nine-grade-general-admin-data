@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-08",
+  "source": "nine-grade-general-admin-data-main.zip uploaded by user",
+  "result": "PASS",
+  "todayCivilServiceQuestionCount": 40,
+  "todayEnglishPack": {
+    "vocabulary": 20,
+    "sentences": 10,
+    "quizQuestions": 30
+  },
+  "englishPackIncluded": true,
+  "manifestIncludesEnglishPack": true,
+  "activeCivilQuestionTotal": 272,
+  "activeCivilDuplicateIds": {},
+  "packChecks": [
+    {
+      "id": "starter_pack_9grade_general_admin_001",
+      "file": "starter_pack_9grade_general_admin_001.json",
+      "exists": true,
+      "jsonParse": true,
+      "declaredQuestionCount": 100,
+      "actualQuestionCount": 100,
+      "countMatch": true
+    },
+    {
+      "id": "general_admin_expansion_002",
+      "file": "general_admin_expansion_002.json",
+      "exists": true,
+      "jsonParse": true,
+      "declaredQuestionCount": 40,
+      "actualQuestionCount": 40,
+      "countMatch": true
+    },
+    {
+      "id": "daily-general-admin-2026-08-02",
+      "file": "daily_general_admin_20260802.json",
+      "exists": true,
+      "jsonParse": true,
+      "declaredQuestionCount": 20,
+      "actualQuestionCount": 20,
+      "countMatch": true
+    },
+    {
+      "id": "daily-general-admin-2026-08-03",
+      "file": "daily_general_admin_2026_08_03.json",
+      "exists": true,
+      "jsonParse": true,
+      "declaredQuestionCount": 32,
+      "actualQuestionCount": 32,
+      "countMatch": true
+    },
+    {
+      "id": "daily_general_admin_2026_08_04",
+      "file": "daily_general_admin_2026_08_04.json",
+      "exists": true,
+      "jsonParse": true,
+      "declaredQuestionCount": 40,
+      "actualQuestionCount": 40,
+      "countMatch": true
+    },
+    {
+      "id": "daily_general_admin_2026_08_08",
+      "file": "daily_general_admin_2026_08_08.json",
+      "exists": true,
+      "jsonParse": true,
+      "declaredQuestionCount": 40,
+      "actualQuestionCount": 40,
+      "countMatch": true
+    }
+  ],
+  "zipIntegrity": "PASS"
+}

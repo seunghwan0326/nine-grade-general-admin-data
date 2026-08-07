@@ -1,0 +1,10 @@
+9급 일반행정 + 영어 통합 누적팩 2026-08-08
+
+GitHub 저장소 루트에 ZIP 안 파일을 한 번에 업로드하세요.
+- 오늘 공무원: daily_general_admin_2026_08_08.json
+- 오늘 영어: daily_english_2026_08_08.json
+- 최신 영어 호환 파일: daily_english_latest.json
+- 공통 누적 목록: manifest.json
+- 검증: VALIDATION_REPORT.json
+
+기존 저장소 파일은 보존하고, 오늘 영어팩과 수정된 manifest를 함께 반영한 팩입니다.
