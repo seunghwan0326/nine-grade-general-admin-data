@@ -1,57 +1,49 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-04T06:45:00+09:00",
-  "track": "일반행정 9급",
-  "personalizationStatus": "개인화 대기",
+  "app": "NinePass",
+  "track": "general_admin_9grade",
+  "updatedAt": "2026-08-08T06:30:00+09:00",
+  "replacePacks": false,
   "packs": [
     {
       "id": "starter_pack_9grade_general_admin_001",
       "file": "starter_pack_9grade_general_admin_001.json",
-      "packType": "diagnostic",
-      "enabled": true
+      "enabled": true,
+      "questionCount": 100
     },
     {
       "id": "general_admin_expansion_002",
       "file": "general_admin_expansion_002.json",
-      "packType": "diagnostic",
-      "enabled": true
+      "enabled": true,
+      "questionCount": 40
     },
     {
-      "id": "daily_general_admin_2026_08_02",
-      "file": "daily_general_admin_2026_08_02.json",
-      "packType": "diagnostic",
-      "enabled": true
+      "id": "daily-general-admin-2026-08-02",
+      "file": "daily_general_admin_latest.json",
+      "enabled": true,
+      "questionCount": 20,
+      "date": "2026-08-02"
     },
     {
-      "id": "daily_general_admin_2026_08_03",
+      "id": "daily-general-admin-2026-08-03",
       "file": "daily_general_admin_2026_08_03.json",
-      "packType": "diagnostic",
-      "enabled": true
+      "enabled": true,
+      "questionCount": 32,
+      "date": "2026-08-03"
     },
     {
       "id": "daily_general_admin_2026_08_04",
       "file": "daily_general_admin_2026_08_04.json",
-      "packType": "diagnostic",
       "enabled": true,
       "questionCount": 40,
-      "version": 2,
-      "hasLifeEnglishTranslation": true
+      "date": "2026-08-04"
     },
     {
-      "id": "english_vocab_sentence_pack_001",
-      "file": "english_vocab_sentence_pack_001.json",
-      "packType": "english",
-      "enabled": true
-    },
-    {
-      "id": "daily_english_2026_08_04",
-      "file": "daily_english_2026_08_04.json",
-      "packType": "english",
+      "id": "daily_general_admin_2026_08_08",
+      "file": "daily_general_admin_2026_08_08.json",
       "enabled": true,
-      "vocabularyCount": 20,
-      "sentenceCount": 10,
-      "quizQuestionCount": 30
+      "questionCount": 40,
+      "date": "2026-08-08"
     }
-  ],
-  "notes": "생활영어 speechText/translation 지원 및 앱 신규팩 우선 병합 패치 포함"
+  ]
 }
