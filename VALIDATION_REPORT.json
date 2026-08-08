@@ -1,18 +1,48 @@
 {
-  "result": "PASS",
-  "purpose": "Manifest registration test for English update",
-  "finding": "The uploaded original manifest has only one registry: packs. This test registers the English latest file in that existing registry instead of adding a new unsupported top-level registry.",
-  "englishManifestEntry": {
-    "id": "daily-english-2026-08-08",
-    "file": "daily_english_latest.json",
-    "enabled": true,
-    "questionCount": 30,
-    "date": "2026-08-08"
+  "jsonParse": true,
+  "newGovernmentQuestionCount": 40,
+  "subjectDistribution": {
+    "국어": 8,
+    "영어": 8,
+    "한국사": 8,
+    "행정법총론": 8,
+    "행정학개론": 8
   },
-  "englishCounts": {
+  "requiredFieldsValid": true,
+  "answersValid": true,
+  "newQuestionIdDuplicatesInternal": 0,
+  "newQuestionTextDuplicatesInternal": 0,
+  "newQuestionTextDuplicatesVsExisting": 0,
+  "englishBaseFileSource": "english_vocab_sentence_pack_001_foundation_expanded.json (packId english_vocab_sentence_pack_001)",
+  "englishOutputFixedFilename": "english_vocab_sentence_pack_001.json",
+  "englishBefore": {
+    "vocabulary": 449,
+    "sentences": 300,
+    "quizQuestions": 749
+  },
+  "englishAdded": {
     "vocabulary": 20,
     "sentences": 10,
     "quizQuestions": 30
   },
-  "warning": "This is a compatibility test based on the repository manifest. If the Android app's packs parser accepts only general-admin question-pack schemas, app source code will be needed for the next diagnosis."
+  "englishAfter": {
+    "vocabulary": 469,
+    "sentences": 310,
+    "quizQuestions": 779
+  },
+  "englishWordDuplicatesVsExisting": 0,
+  "englishSentenceDuplicatesVsExisting": 0,
+  "englishNewIdDuplicatesVsExisting": 0,
+  "manifestExistingPacksBefore": 7,
+  "manifestExistingPacksPreserved": true,
+  "manifestPacksAfter": 8,
+  "forbiddenNewFilesIncluded": false,
+  "result": "PASS",
+  "zipIntegrity": true,
+  "zipEntries": [
+    "manifest.json",
+    "daily_general_admin_2026_08_09.json",
+    "english_vocab_sentence_pack_001.json",
+    "VALIDATION_REPORT.json"
+  ]
 }
