@@ -1,48 +1,52 @@
 {
-  "jsonParse": true,
-  "newGovernmentQuestionCount": 40,
-  "subjectDistribution": {
-    "국어": 8,
-    "영어": 8,
-    "한국사": 8,
-    "행정법총론": 8,
-    "행정학개론": 8
-  },
-  "requiredFieldsValid": true,
-  "answersValid": true,
-  "newQuestionIdDuplicatesInternal": 0,
-  "newQuestionTextDuplicatesInternal": 0,
-  "newQuestionTextDuplicatesVsExisting": 0,
-  "englishBaseFileSource": "english_vocab_sentence_pack_001_foundation_expanded.json (packId english_vocab_sentence_pack_001)",
-  "englishOutputFixedFilename": "english_vocab_sentence_pack_001.json",
-  "englishBefore": {
-    "vocabulary": 449,
-    "sentences": 300,
-    "quizQuestions": 749
-  },
-  "englishAdded": {
-    "vocabulary": 20,
-    "sentences": 10,
-    "quizQuestions": 30
-  },
-  "englishAfter": {
-    "vocabulary": 469,
-    "sentences": 310,
-    "quizQuestions": 779
-  },
-  "englishWordDuplicatesVsExisting": 0,
-  "englishSentenceDuplicatesVsExisting": 0,
-  "englishNewIdDuplicatesVsExisting": 0,
-  "manifestExistingPacksBefore": 7,
-  "manifestExistingPacksPreserved": true,
-  "manifestPacksAfter": 8,
-  "forbiddenNewFilesIncluded": false,
   "result": "PASS",
-  "zipIntegrity": true,
-  "zipEntries": [
-    "manifest.json",
-    "daily_general_admin_2026_08_09.json",
-    "english_vocab_sentence_pack_001.json",
-    "VALIDATION_REPORT.json"
-  ]
+  "sourceBase": "nine-grade-general-admin-data-main (1).zip / site final",
+  "manifestIntegration": {
+    "packsCount": 9,
+    "todayDiagnosticRegistered": true,
+    "todayEnglishRegistered": true,
+    "historicalEnglish20260808Preserved": true,
+    "missingReferencedFilesAfterUpload": []
+  },
+  "diagnostic": {
+    "file": "daily_general_admin_2026_08_09.json",
+    "questionCount": 40,
+    "subjectDistribution": {
+      "국어": 8,
+      "영어": 8,
+      "한국사": 8,
+      "행정법총론": 8,
+      "행정학개론": 8
+    },
+    "idDuplicatesInternal": 0,
+    "textDuplicatesInternal": 0,
+    "idDuplicatesVsExisting": 0,
+    "textDuplicatesVsExisting": 0,
+    "answersValid": true
+  },
+  "english": {
+    "file": "daily_english_2026_08_09.json",
+    "latestAlias": "daily_english_latest.json",
+    "vocabularyCount": 20,
+    "sentenceCount": 10,
+    "quizQuestionCount": 30,
+    "wordDuplicatesVsExisting": 0,
+    "sentenceDuplicatesVsExisting": 0,
+    "quizPromptDuplicatesVsExisting": 0,
+    "idDuplicatesVsExisting": 0,
+    "idsUniqueInternal": true,
+    "quizAnswersValid": true,
+    "quizRelatedIdsValid": true
+  },
+  "zip": {
+    "integrity": true,
+    "entries": [
+      "manifest.json",
+      "daily_general_admin_2026_08_09.json",
+      "daily_english_2026_08_09.json",
+      "daily_english_latest.json",
+      "VALIDATION_REPORT.json",
+      "UPLOAD_GUIDE.txt"
+    ]
+  }
 }

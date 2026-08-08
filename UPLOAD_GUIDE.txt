@@ -1,13 +1,8 @@
-MANIFEST TEST 2026-08-08
-
-이번 버전은 원본 manifest.json의 기존 구조를 그대로 사용합니다.
-새로운 englishPacks 키를 만들지 않고, 기존 packs 배열에 영어 최신 파일을 등록했습니다.
-
-추가된 항목:
-id: daily-english-2026-08-08
-file: daily_english_latest.json
-enabled: true
-questionCount: 30
-date: 2026-08-08
-
-GitHub 루트에 ZIP 내용을 업로드/교체한 뒤 앱에서 'GitHub 새 문제·영어 업데이트'를 눌러 확인하세요.
+2026-08-09 9급 일반행정 + 취약 영어 통합 업데이트
+GitHub nine-grade-general-admin-data 저장소 루트에 아래 파일을 모두 업로드/덮어쓰기하세요.
+- manifest.json (덮어쓰기)
+- daily_general_admin_2026_08_09.json (신규)
+- daily_english_2026_08_09.json (신규, 날짜 보관용)
+- daily_english_latest.json (덮어쓰기, 오늘 영어팩)
+VALIDATION_REPORT.json은 검수 확인용입니다.
+핵심: manifest.packs[]에 2026-08-09 diagnostic + english가 둘 다 등록되어 있습니다.
