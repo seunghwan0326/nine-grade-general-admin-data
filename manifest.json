@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "app": "NinePass",
   "track": "general_admin_9grade",
-  "updatedAt": "2026-08-08T09:10:00+09:00",
+  "updatedAt": "2026-08-08T09:30:00+09:00",
   "replacePacks": false,
   "packs": [
     {
@@ -43,6 +43,13 @@
       "file": "daily_general_admin_2026_08_08.json",
       "enabled": true,
       "questionCount": 40,
+      "date": "2026-08-08"
+    },
+    {
+      "id": "daily-english-2026-08-08",
+      "file": "daily_english_latest.json",
+      "enabled": true,
+      "questionCount": 30,
       "date": "2026-08-08"
     }
   ]

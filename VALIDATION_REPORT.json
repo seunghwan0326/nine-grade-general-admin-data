@@ -1,64 +1,18 @@
 {
-  "date": "2026-08-08",
   "result": "PASS",
-  "fix": "English schema restored to app-compatible legacy structure",
-  "englishPack": {
-    "file": "daily_english_2026_08_08.json",
-    "latestFile": "daily_english_latest.json",
-    "packType": "english",
+  "purpose": "Manifest registration test for English update",
+  "finding": "The uploaded original manifest has only one registry: packs. This test registers the English latest file in that existing registry instead of adding a new unsupported top-level registry.",
+  "englishManifestEntry": {
+    "id": "daily-english-2026-08-08",
+    "file": "daily_english_latest.json",
+    "enabled": true,
+    "questionCount": 30,
+    "date": "2026-08-08"
+  },
+  "englishCounts": {
     "vocabulary": 20,
     "sentences": 10,
-    "quizQuestions": 30,
-    "requiredFieldValidation": "PASS",
-    "idDuplicateValidation": "PASS",
-    "answerValidation": "PASS"
+    "quizQuestions": 30
   },
-  "civilService": {
-    "activeManifestQuestionTotal": 272,
-    "packChecks": [
-      {
-        "id": "starter_pack_9grade_general_admin_001",
-        "file": "starter_pack_9grade_general_admin_001.json",
-        "exists": true,
-        "actual": 100,
-        "declared": 100
-      },
-      {
-        "id": "general_admin_expansion_002",
-        "file": "general_admin_expansion_002.json",
-        "exists": true,
-        "actual": 40,
-        "declared": 40
-      },
-      {
-        "id": "daily-general-admin-2026-08-02",
-        "file": "daily_general_admin_latest.json",
-        "exists": true,
-        "actual": 20,
-        "declared": 20
-      },
-      {
-        "id": "daily-general-admin-2026-08-03",
-        "file": "daily_general_admin_2026_08_03.json",
-        "exists": true,
-        "actual": 32,
-        "declared": 32
-      },
-      {
-        "id": "daily_general_admin_2026_08_04",
-        "file": "daily_general_admin_2026_08_04.json",
-        "exists": true,
-        "actual": 40,
-        "declared": 40
-      },
-      {
-        "id": "daily_general_admin_2026_08_08",
-        "file": "daily_general_admin_2026_08_08.json",
-        "exists": true,
-        "actual": 40,
-        "declared": 40
-      }
-    ]
-  },
-  "zipIntegrity": "PASS"
+  "warning": "This is a compatibility test based on the repository manifest. If the Android app's packs parser accepts only general-admin question-pack schemas, app source code will be needed for the next diagnosis."
 }

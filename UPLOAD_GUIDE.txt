@@ -1,16 +1,13 @@
-FIXED 2026-08-08 통합팩
+MANIFEST TEST 2026-08-08
 
-영어 업데이트 실패 원인:
-- 기존 앱 영어 JSON 구조와 다른 필드명을 사용한 것이 원인이었습니다.
+이번 버전은 원본 manifest.json의 기존 구조를 그대로 사용합니다.
+새로운 englishPacks 키를 만들지 않고, 기존 packs 배열에 영어 최신 파일을 등록했습니다.
 
-수정:
-- daily_english_2026_08_08.json을 기존 앱 형식으로 생성
-- daily_english_latest.json도 같은 오늘 영어팩으로 교체
-- packType='english'
-- quizQuestions는 question 대신 prompt 사용
-- relatedItemId 포함
-- vocabulary에 priority/pronunciationText 포함
-- sentences에 grammarPoint/chunks/memoryTip/priority/pronunciationText 포함
-- manifest에는 앱이 지원하지 않을 수 있는 englishPacks 필드를 추가하지 않음
+추가된 항목:
+id: daily-english-2026-08-08
+file: daily_english_latest.json
+enabled: true
+questionCount: 30
+date: 2026-08-08
 
-GitHub 저장소 루트에 이 ZIP의 파일들을 업로드/교체하세요.
+GitHub 루트에 ZIP 내용을 업로드/교체한 뒤 앱에서 'GitHub 새 문제·영어 업데이트'를 눌러 확인하세요.
