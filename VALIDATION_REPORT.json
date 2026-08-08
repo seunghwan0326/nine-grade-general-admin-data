@@ -1,72 +1,64 @@
 {
   "date": "2026-08-08",
-  "source": "nine-grade-general-admin-data-main.zip uploaded by user",
   "result": "PASS",
-  "todayCivilServiceQuestionCount": 40,
-  "todayEnglishPack": {
+  "fix": "English schema restored to app-compatible legacy structure",
+  "englishPack": {
+    "file": "daily_english_2026_08_08.json",
+    "latestFile": "daily_english_latest.json",
+    "packType": "english",
     "vocabulary": 20,
     "sentences": 10,
-    "quizQuestions": 30
+    "quizQuestions": 30,
+    "requiredFieldValidation": "PASS",
+    "idDuplicateValidation": "PASS",
+    "answerValidation": "PASS"
   },
-  "englishPackIncluded": true,
-  "manifestIncludesEnglishPack": true,
-  "activeCivilQuestionTotal": 272,
-  "activeCivilDuplicateIds": {},
-  "packChecks": [
-    {
-      "id": "starter_pack_9grade_general_admin_001",
-      "file": "starter_pack_9grade_general_admin_001.json",
-      "exists": true,
-      "jsonParse": true,
-      "declaredQuestionCount": 100,
-      "actualQuestionCount": 100,
-      "countMatch": true
-    },
-    {
-      "id": "general_admin_expansion_002",
-      "file": "general_admin_expansion_002.json",
-      "exists": true,
-      "jsonParse": true,
-      "declaredQuestionCount": 40,
-      "actualQuestionCount": 40,
-      "countMatch": true
-    },
-    {
-      "id": "daily-general-admin-2026-08-02",
-      "file": "daily_general_admin_20260802.json",
-      "exists": true,
-      "jsonParse": true,
-      "declaredQuestionCount": 20,
-      "actualQuestionCount": 20,
-      "countMatch": true
-    },
-    {
-      "id": "daily-general-admin-2026-08-03",
-      "file": "daily_general_admin_2026_08_03.json",
-      "exists": true,
-      "jsonParse": true,
-      "declaredQuestionCount": 32,
-      "actualQuestionCount": 32,
-      "countMatch": true
-    },
-    {
-      "id": "daily_general_admin_2026_08_04",
-      "file": "daily_general_admin_2026_08_04.json",
-      "exists": true,
-      "jsonParse": true,
-      "declaredQuestionCount": 40,
-      "actualQuestionCount": 40,
-      "countMatch": true
-    },
-    {
-      "id": "daily_general_admin_2026_08_08",
-      "file": "daily_general_admin_2026_08_08.json",
-      "exists": true,
-      "jsonParse": true,
-      "declaredQuestionCount": 40,
-      "actualQuestionCount": 40,
-      "countMatch": true
-    }
-  ],
+  "civilService": {
+    "activeManifestQuestionTotal": 272,
+    "packChecks": [
+      {
+        "id": "starter_pack_9grade_general_admin_001",
+        "file": "starter_pack_9grade_general_admin_001.json",
+        "exists": true,
+        "actual": 100,
+        "declared": 100
+      },
+      {
+        "id": "general_admin_expansion_002",
+        "file": "general_admin_expansion_002.json",
+        "exists": true,
+        "actual": 40,
+        "declared": 40
+      },
+      {
+        "id": "daily-general-admin-2026-08-02",
+        "file": "daily_general_admin_latest.json",
+        "exists": true,
+        "actual": 20,
+        "declared": 20
+      },
+      {
+        "id": "daily-general-admin-2026-08-03",
+        "file": "daily_general_admin_2026_08_03.json",
+        "exists": true,
+        "actual": 32,
+        "declared": 32
+      },
+      {
+        "id": "daily_general_admin_2026_08_04",
+        "file": "daily_general_admin_2026_08_04.json",
+        "exists": true,
+        "actual": 40,
+        "declared": 40
+      },
+      {
+        "id": "daily_general_admin_2026_08_08",
+        "file": "daily_general_admin_2026_08_08.json",
+        "exists": true,
+        "actual": 40,
+        "declared": 40
+      }
+    ]
+  },
   "zipIntegrity": "PASS"
 }

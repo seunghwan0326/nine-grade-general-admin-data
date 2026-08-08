@@ -1,474 +1,612 @@
 {
   "schemaVersion": 1,
   "packId": "daily_english_2026_08_08",
+  "title": "2026-08-08 9급 취약 영어 전용 학습팩",
   "date": "2026-08-08",
-  "title": "9급 일반행정 영어 보강팩 2026-08-08",
-  "packType": "daily_english",
-  "personalizationStatus": "daily_cumulative",
-  "description": "공무원 영어 어휘 20 + 문장 10 + 퀴즈 30 신규 학습팩",
+  "packType": "english",
+  "personalizationStatus": "개인화 대기",
+  "description": "기존 앱 형식과 완전히 동일한 구조의 단어 20개, 문장 10개, 시험 30문항 영어팩입니다.",
   "vocabulary": [
     {
-      "id": "ENG-20260808-V01",
+      "id": "eng_20260808_vocab_001",
       "word": "convene",
       "meaning": "소집하다",
       "example": "The chairperson convened an emergency meeting.",
       "translation": "의장은 긴급 회의를 소집했다.",
-      "memoryTip": "convene a meeting = 회의를 소집하다"
+      "memoryTip": "convene a meeting을 통째로 외우세요.",
+      "priority": "A",
+      "pronunciationText": "convene"
     },
     {
-      "id": "ENG-20260808-V02",
+      "id": "eng_20260808_vocab_002",
       "word": "promulgate",
       "meaning": "공포하다",
       "example": "The ministry promulgated the revised rule.",
       "translation": "부처는 개정 규정을 공포했다.",
-      "memoryTip": "법령을 공식적으로 널리 알리다"
+      "memoryTip": "법령을 공식적으로 널리 알린다는 뜻입니다.",
+      "priority": "A",
+      "pronunciationText": "promulgate"
     },
     {
-      "id": "ENG-20260808-V03",
+      "id": "eng_20260808_vocab_003",
       "word": "incumbent",
       "meaning": "현직의",
       "example": "The incumbent official will remain in office until June.",
       "translation": "현직 공무원은 6월까지 재임한다.",
-      "memoryTip": "incumbent = 현재 그 직위에 있는"
+      "memoryTip": "현재 그 직위를 맡고 있는 사람/현직의.",
+      "priority": "A",
+      "pronunciationText": "incumbent"
     },
     {
-      "id": "ENG-20260808-V04",
+      "id": "eng_20260808_vocab_004",
       "word": "prerequisite",
       "meaning": "전제 조건",
       "example": "Completion of the course is a prerequisite for promotion.",
       "translation": "그 교육과정 이수는 승진의 전제 조건이다.",
-      "memoryTip": "pre + requisite = 미리 요구되는 것"
+      "memoryTip": "pre + requisite = 미리 요구되는 것.",
+      "priority": "A",
+      "pronunciationText": "prerequisite"
     },
     {
-      "id": "ENG-20260808-V05",
+      "id": "eng_20260808_vocab_005",
       "word": "alleviate",
       "meaning": "완화하다",
       "example": "The measure is intended to alleviate traffic congestion.",
       "translation": "그 조치는 교통 혼잡을 완화하기 위한 것이다.",
-      "memoryTip": "alleviate = ease"
+      "memoryTip": "alleviate = ease.",
+      "priority": "A",
+      "pronunciationText": "alleviate"
     },
     {
-      "id": "ENG-20260808-V06",
+      "id": "eng_20260808_vocab_006",
       "word": "detrimental",
       "meaning": "해로운",
       "example": "Excessive delay can be detrimental to public trust.",
       "translation": "과도한 지연은 공공 신뢰에 해로울 수 있다.",
-      "memoryTip": "detriment = 손해"
+      "memoryTip": "detriment=손해와 연결.",
+      "priority": "A",
+      "pronunciationText": "detrimental"
     },
     {
-      "id": "ENG-20260808-V07",
+      "id": "eng_20260808_vocab_007",
       "word": "feasible",
       "meaning": "실행 가능한",
       "example": "The committee concluded that the proposal was feasible.",
       "translation": "위원회는 그 제안이 실행 가능하다고 결론 내렸다.",
-      "memoryTip": "feasible = practical and possible"
+      "memoryTip": "feasible = practical and possible.",
+      "priority": "A",
+      "pronunciationText": "feasible"
     },
     {
-      "id": "ENG-20260808-V08",
+      "id": "eng_20260808_vocab_008",
       "word": "impair",
-      "meaning": "손상시키다",
+      "meaning": "손상시키다, 저해하다",
       "example": "The outage impaired the agency's online services.",
       "translation": "장애는 기관의 온라인 서비스를 저해했다.",
-      "memoryTip": "impair = weaken/damage"
+      "memoryTip": "impair = weaken/damage.",
+      "priority": "A",
+      "pronunciationText": "impair"
     },
     {
-      "id": "ENG-20260808-V09",
+      "id": "eng_20260808_vocab_009",
       "word": "inadvertently",
       "meaning": "의도치 않게",
       "example": "The notice was inadvertently sent to the wrong address.",
       "translation": "그 통지는 의도치 않게 잘못된 주소로 발송됐다.",
-      "memoryTip": "in- + advertently, 의도 없이"
+      "memoryTip": "의도 없이 실수로.",
+      "priority": "A",
+      "pronunciationText": "inadvertently"
     },
     {
-      "id": "ENG-20260808-V10",
+      "id": "eng_20260808_vocab_010",
       "word": "jurisdiction",
       "meaning": "관할권",
       "example": "The dispute falls within the court's jurisdiction.",
       "translation": "그 분쟁은 법원의 관할권에 속한다.",
-      "memoryTip": "juris(법) + diction"
+      "memoryTip": "juris=법과 연결.",
+      "priority": "A",
+      "pronunciationText": "jurisdiction"
     },
     {
-      "id": "ENG-20260808-V11",
+      "id": "eng_20260808_vocab_011",
       "word": "levy",
       "meaning": "부과하다",
       "example": "The local government may levy a special tax.",
       "translation": "지방정부는 특별세를 부과할 수 있다.",
-      "memoryTip": "levy a tax = 세금을 부과하다"
+      "memoryTip": "levy a tax를 통째로 기억.",
+      "priority": "B",
+      "pronunciationText": "levy"
     },
     {
-      "id": "ENG-20260808-V12",
+      "id": "eng_20260808_vocab_012",
       "word": "obsolete",
       "meaning": "구식의",
       "example": "The agency replaced its obsolete database system.",
       "translation": "기관은 구식 데이터베이스 시스템을 교체했다.",
-      "memoryTip": "obsolete = no longer useful"
+      "memoryTip": "더 이상 쓸모없는, 구식의.",
+      "priority": "B",
+      "pronunciationText": "obsolete"
     },
     {
-      "id": "ENG-20260808-V13",
+      "id": "eng_20260808_vocab_013",
       "word": "provisional",
       "meaning": "잠정적인",
       "example": "A provisional schedule will be released tomorrow.",
       "translation": "잠정 일정은 내일 발표된다.",
-      "memoryTip": "provisional = temporary"
+      "memoryTip": "temporary와 연결.",
+      "priority": "B",
+      "pronunciationText": "provisional"
     },
     {
-      "id": "ENG-20260808-V14",
+      "id": "eng_20260808_vocab_014",
       "word": "reciprocal",
       "meaning": "상호적인",
       "example": "The two agencies established a reciprocal support agreement.",
       "translation": "두 기관은 상호 지원 협정을 체결했다.",
-      "memoryTip": "reciprocal = mutual"
+      "memoryTip": "reciprocal = mutual.",
+      "priority": "B",
+      "pronunciationText": "reciprocal"
     },
     {
-      "id": "ENG-20260808-V15",
+      "id": "eng_20260808_vocab_015",
       "word": "remuneration",
       "meaning": "보수",
       "example": "The position includes remuneration based on experience.",
       "translation": "그 직위에는 경력에 따른 보수가 포함된다.",
-      "memoryTip": "remunerate = 보수를 지급하다"
+      "memoryTip": "remunerate=보수를 지급하다.",
+      "priority": "B",
+      "pronunciationText": "remuneration"
     },
     {
-      "id": "ENG-20260808-V16",
+      "id": "eng_20260808_vocab_016",
       "word": "requisite",
       "meaning": "필수적인",
       "example": "Applicants must possess the requisite qualifications.",
       "translation": "지원자는 필수 자격을 갖추어야 한다.",
-      "memoryTip": "requisite = required"
+      "memoryTip": "requisite = required.",
+      "priority": "B",
+      "pronunciationText": "requisite"
     },
     {
-      "id": "ENG-20260808-V17",
+      "id": "eng_20260808_vocab_017",
       "word": "sanction",
       "meaning": "제재",
       "example": "The authority imposed a sanction for repeated violations.",
       "translation": "당국은 반복 위반에 대해 제재를 부과했다.",
-      "memoryTip": "sanction = 제재(문맥상 승인 의미도 있음)"
+      "memoryTip": "문맥에 따라 승인 뜻도 있으니 주의.",
+      "priority": "B",
+      "pronunciationText": "sanction"
     },
     {
-      "id": "ENG-20260808-V18",
+      "id": "eng_20260808_vocab_018",
       "word": "tenure",
       "meaning": "재임 기간",
       "example": "Her tenure as director lasted four years.",
       "translation": "그녀의 국장 재임 기간은 4년이었다.",
-      "memoryTip": "tenure = 직위 보유 기간"
+      "memoryTip": "직위 보유 기간.",
+      "priority": "B",
+      "pronunciationText": "tenure"
     },
     {
-      "id": "ENG-20260808-V19",
+      "id": "eng_20260808_vocab_019",
       "word": "unanimous",
       "meaning": "만장일치의",
       "example": "The committee reached a unanimous decision.",
       "translation": "위원회는 만장일치 결정을 내렸다.",
-      "memoryTip": "uni(하나) + anim(마음)"
+      "memoryTip": "uni=하나, anim=마음.",
+      "priority": "B",
+      "pronunciationText": "unanimous"
     },
     {
-      "id": "ENG-20260808-V20",
+      "id": "eng_20260808_vocab_020",
       "word": "viable",
       "meaning": "실현 가능한",
       "example": "The revised plan offers a viable alternative.",
       "translation": "개정 계획은 실현 가능한 대안을 제공한다.",
-      "memoryTip": "viable = workable"
+      "memoryTip": "viable = workable.",
+      "priority": "B",
+      "pronunciationText": "viable"
     }
   ],
   "sentences": [
     {
-      "id": "ENG-20260808-S01",
+      "id": "eng_20260808_sentence_001",
       "sentence": "To avoid unnecessary delays, applicants should review the checklist before submitting their documents.",
       "translation": "불필요한 지연을 피하려면 지원자는 서류 제출 전에 체크리스트를 검토해야 한다.",
-      "studyPoint": "to부정사의 목적 용법"
+      "grammarPoint": "to부정사의 목적 용법",
+      "chunks": [
+        "To avoid unnecessary delays,",
+        "applicants should review the",
+        "checklist before submitting their documents."
+      ],
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 소리 내어 읽고, 한국어만 보고 영어를 복원하세요.",
+      "priority": "A",
+      "pronunciationText": "To avoid unnecessary delays, applicants should review the checklist before submitting their documents."
     },
     {
-      "id": "ENG-20260808-S02",
+      "id": "eng_20260808_sentence_002",
       "sentence": "The hearing was postponed because several required reports had not yet been completed.",
       "translation": "필수 보고서 몇 건이 아직 완료되지 않아 공청회가 연기되었다.",
-      "studyPoint": "과거완료 수동태"
+      "grammarPoint": "과거완료 수동태",
+      "chunks": [
+        "The hearing was postponed",
+        "because several required reports",
+        "had not yet been completed."
+      ],
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 소리 내어 읽고, 한국어만 보고 영어를 복원하세요.",
+      "priority": "A",
+      "pronunciationText": "The hearing was postponed because several required reports had not yet been completed."
     },
     {
-      "id": "ENG-20260808-S03",
+      "id": "eng_20260808_sentence_003",
       "sentence": "Citizens whose applications are rejected may request an administrative review.",
       "translation": "신청이 거절된 시민은 행정심사를 요청할 수 있다.",
-      "studyPoint": "whose 관계대명사"
+      "grammarPoint": "whose 관계대명사",
+      "chunks": [
+        "Citizens whose applications",
+        "are rejected may",
+        "request an administrative review."
+      ],
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 소리 내어 읽고, 한국어만 보고 영어를 복원하세요.",
+      "priority": "A",
+      "pronunciationText": "Citizens whose applications are rejected may request an administrative review."
     },
     {
-      "id": "ENG-20260808-S04",
+      "id": "eng_20260808_sentence_004",
       "sentence": "No change will take effect unless it is formally approved by the competent authority.",
       "translation": "관할 기관이 공식 승인하지 않는 한 어떠한 변경도 효력이 발생하지 않는다.",
-      "studyPoint": "unless = if ... not"
+      "grammarPoint": "unless = if ... not",
+      "chunks": [
+        "No change will take",
+        "effect unless it is formally",
+        "approved by the competent authority."
+      ],
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 소리 내어 읽고, 한국어만 보고 영어를 복원하세요.",
+      "priority": "A",
+      "pronunciationText": "No change will take effect unless it is formally approved by the competent authority."
     },
     {
-      "id": "ENG-20260808-S05",
+      "id": "eng_20260808_sentence_005",
       "sentence": "The department has introduced a new procedure so that complaints can be handled more efficiently.",
       "translation": "부서는 민원을 더 효율적으로 처리할 수 있도록 새 절차를 도입했다.",
-      "studyPoint": "so that + can"
+      "grammarPoint": "so that + can",
+      "chunks": [
+        "The department has introduced a",
+        "new procedure so that complaints",
+        "can be handled more efficiently."
+      ],
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 소리 내어 읽고, 한국어만 보고 영어를 복원하세요.",
+      "priority": "A",
+      "pronunciationText": "The department has introduced a new procedure so that complaints can be handled more efficiently."
     },
     {
-      "id": "ENG-20260808-S06",
+      "id": "eng_20260808_sentence_006",
       "sentence": "What matters most is whether the decision was made according to the established procedure.",
       "translation": "가장 중요한 것은 그 결정이 정해진 절차에 따라 내려졌는지 여부다.",
-      "studyPoint": "whether 명사절"
+      "grammarPoint": "whether 명사절",
+      "chunks": [
+        "What matters most is",
+        "whether the decision was made",
+        "according to the established procedure."
+      ],
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 소리 내어 읽고, 한국어만 보고 영어를 복원하세요.",
+      "priority": "B",
+      "pronunciationText": "What matters most is whether the decision was made according to the established procedure."
     },
     {
-      "id": "ENG-20260808-S07",
+      "id": "eng_20260808_sentence_007",
       "sentence": "Not only did the reform reduce paperwork, but it also shortened processing time.",
       "translation": "그 개혁은 서류 작업을 줄였을 뿐 아니라 처리 시간도 단축했다.",
-      "studyPoint": "Not only 도치"
+      "grammarPoint": "Not only 문두 도치",
+      "chunks": [
+        "Not only did the",
+        "reform reduce paperwork, but",
+        "it also shortened processing time."
+      ],
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 소리 내어 읽고, 한국어만 보고 영어를 복원하세요.",
+      "priority": "B",
+      "pronunciationText": "Not only did the reform reduce paperwork, but it also shortened processing time."
     },
     {
-      "id": "ENG-20260808-S08",
+      "id": "eng_20260808_sentence_008",
       "sentence": "Any information obtained during the investigation must be kept confidential.",
       "translation": "조사 중 취득한 모든 정보는 기밀로 유지되어야 한다.",
-      "studyPoint": "과거분사 후치수식 + 수동태"
+      "grammarPoint": "과거분사 후치수식 + 수동태",
+      "chunks": [
+        "Any information obtained",
+        "during the investigation",
+        "must be kept confidential."
+      ],
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 소리 내어 읽고, 한국어만 보고 영어를 복원하세요.",
+      "priority": "B",
+      "pronunciationText": "Any information obtained during the investigation must be kept confidential."
     },
     {
-      "id": "ENG-20260808-S09",
+      "id": "eng_20260808_sentence_009",
       "sentence": "The regulation applies to all institutions regardless of their size or location.",
       "translation": "그 규정은 규모나 소재지와 관계없이 모든 기관에 적용된다.",
-      "studyPoint": "regardless of = ~와 관계없이"
+      "grammarPoint": "regardless of",
+      "chunks": [
+        "The regulation applies to",
+        "all institutions regardless of",
+        "their size or location."
+      ],
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 소리 내어 읽고, 한국어만 보고 영어를 복원하세요.",
+      "priority": "B",
+      "pronunciationText": "The regulation applies to all institutions regardless of their size or location."
     },
     {
-      "id": "ENG-20260808-S10",
+      "id": "eng_20260808_sentence_010",
       "sentence": "Were the budget reduced further, the project would have to be scaled back.",
       "translation": "예산이 더 줄어든다면 그 사업은 축소되어야 할 것이다.",
-      "studyPoint": "가정법 도치 Were + 주어"
+      "grammarPoint": "가정법 도치",
+      "chunks": [
+        "Were the budget reduced",
+        "further, the project would",
+        "have to be scaled back."
+      ],
+      "memoryTip": "문장을 의미 덩어리로 나누어 세 번 소리 내어 읽고, 한국어만 보고 영어를 복원하세요.",
+      "priority": "B",
+      "pronunciationText": "Were the budget reduced further, the project would have to be scaled back."
     }
   ],
   "quizQuestions": [
     {
-      "id": "ENG-20260808-Q01",
-      "type": "vocabulary",
-      "question": "다음 단어의 의미로 가장 적절한 것은? convene",
+      "id": "eng_20260808_quiz_vocab_001",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nconvene",
       "choices": [
         "소집하다",
-        "완화하다",
         "해로운",
-        "실행 가능한"
+        "실행 가능한",
+        "손상시키다, 저해하다"
       ],
       "answer": 0,
-      "explanation": "convene = 소집하다"
+      "explanation": "convene는 '소집하다'라는 뜻입니다.",
+      "relatedItemId": "eng_20260808_vocab_001"
     },
     {
-      "id": "ENG-20260808-Q02",
-      "type": "vocabulary",
-      "question": "다음 단어의 의미로 가장 적절한 것은? promulgate",
+      "id": "eng_20260808_quiz_vocab_002",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\npromulgate",
       "choices": [
-        "손상시키다",
-        "의도치 않게",
         "관할권",
+        "부과하다",
+        "구식의",
         "공포하다"
       ],
       "answer": 3,
-      "explanation": "promulgate = 공포하다"
+      "explanation": "promulgate는 '공포하다'라는 뜻입니다.",
+      "relatedItemId": "eng_20260808_vocab_002"
     },
     {
-      "id": "ENG-20260808-Q03",
-      "type": "vocabulary",
-      "question": "다음 단어의 의미로 가장 적절한 것은? incumbent",
+      "id": "eng_20260808_quiz_vocab_003",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nincumbent",
       "choices": [
-        "구식의",
-        "잠정적인",
+        "보수",
+        "필수적인",
         "현직의",
-        "부과하다"
+        "상호적인"
       ],
       "answer": 2,
-      "explanation": "incumbent = 현직의"
+      "explanation": "incumbent는 '현직의'라는 뜻입니다.",
+      "relatedItemId": "eng_20260808_vocab_003"
     },
     {
-      "id": "ENG-20260808-Q04",
-      "type": "vocabulary",
-      "question": "다음 단어의 의미로 가장 적절한 것은? prerequisite",
+      "id": "eng_20260808_quiz_vocab_004",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nprerequisite",
       "choices": [
-        "필수적인",
+        "실현 가능한",
         "전제 조건",
-        "상호적인",
-        "보수"
-      ],
-      "answer": 1,
-      "explanation": "prerequisite = 전제 조건"
-    },
-    {
-      "id": "ENG-20260808-Q05",
-      "type": "vocabulary",
-      "question": "다음 단어의 의미로 가장 적절한 것은? alleviate",
-      "choices": [
-        "완화하다",
-        "제재",
         "재임 기간",
         "만장일치의"
       ],
-      "answer": 0,
-      "explanation": "alleviate = 완화하다"
+      "answer": 1,
+      "explanation": "prerequisite는 '전제 조건'라는 뜻입니다.",
+      "relatedItemId": "eng_20260808_vocab_004"
     },
     {
-      "id": "ENG-20260808-Q06",
-      "type": "vocabulary",
-      "question": "다음 단어의 의미로 가장 적절한 것은? detrimental",
+      "id": "eng_20260808_quiz_vocab_005",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nalleviate",
       "choices": [
-        "실현 가능한",
-        "소집하다",
-        "공포하다",
-        "해로운"
-      ],
-      "answer": 3,
-      "explanation": "detrimental = 해로운"
-    },
-    {
-      "id": "ENG-20260808-Q07",
-      "type": "vocabulary",
-      "question": "다음 단어의 의미로 가장 적절한 것은? feasible",
-      "choices": [
-        "전제 조건",
         "완화하다",
-        "실행 가능한",
-        "현직의"
-      ],
-      "answer": 2,
-      "explanation": "feasible = 실행 가능한"
-    },
-    {
-      "id": "ENG-20260808-Q08",
-      "type": "vocabulary",
-      "question": "다음 단어의 의미로 가장 적절한 것은? impair",
-      "choices": [
-        "의도치 않게",
-        "손상시키다",
-        "해로운",
-        "실행 가능한"
-      ],
-      "answer": 1,
-      "explanation": "impair = 손상시키다"
-    },
-    {
-      "id": "ENG-20260808-Q09",
-      "type": "vocabulary",
-      "question": "다음 단어의 의미로 가장 적절한 것은? inadvertently",
-      "choices": [
-        "의도치 않게",
-        "관할권",
-        "부과하다",
-        "구식의"
-      ],
-      "answer": 0,
-      "explanation": "inadvertently = 의도치 않게"
-    },
-    {
-      "id": "ENG-20260808-Q10",
-      "type": "vocabulary",
-      "question": "다음 단어의 의미로 가장 적절한 것은? jurisdiction",
-      "choices": [
-        "잠정적인",
-        "상호적인",
-        "보수",
-        "관할권"
-      ],
-      "answer": 3,
-      "explanation": "jurisdiction = 관할권"
-    },
-    {
-      "id": "ENG-20260808-Q11",
-      "type": "vocabulary",
-      "question": "다음 단어의 의미로 가장 적절한 것은? levy",
-      "choices": [
-        "제재",
-        "재임 기간",
-        "부과하다",
-        "필수적인"
-      ],
-      "answer": 2,
-      "explanation": "levy = 부과하다"
-    },
-    {
-      "id": "ENG-20260808-Q12",
-      "type": "vocabulary",
-      "question": "다음 단어의 의미로 가장 적절한 것은? obsolete",
-      "choices": [
-        "소집하다",
-        "구식의",
-        "만장일치의",
-        "실현 가능한"
-      ],
-      "answer": 1,
-      "explanation": "obsolete = 구식의"
-    },
-    {
-      "id": "ENG-20260808-Q13",
-      "type": "vocabulary",
-      "question": "다음 단어의 의미로 가장 적절한 것은? provisional",
-      "choices": [
-        "잠정적인",
         "공포하다",
         "현직의",
         "전제 조건"
       ],
       "answer": 0,
-      "explanation": "provisional = 잠정적인"
+      "explanation": "alleviate는 '완화하다'라는 뜻입니다.",
+      "relatedItemId": "eng_20260808_vocab_005"
     },
     {
-      "id": "ENG-20260808-Q14",
-      "type": "vocabulary",
-      "question": "다음 단어의 의미로 가장 적절한 것은? reciprocal",
+      "id": "eng_20260808_quiz_vocab_006",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\ndetrimental",
       "choices": [
-        "완화하다",
-        "해로운",
         "실행 가능한",
-        "상호적인"
+        "손상시키다, 저해하다",
+        "의도치 않게",
+        "해로운"
       ],
       "answer": 3,
-      "explanation": "reciprocal = 상호적인"
+      "explanation": "detrimental는 '해로운'라는 뜻입니다.",
+      "relatedItemId": "eng_20260808_vocab_006"
     },
     {
-      "id": "ENG-20260808-Q15",
-      "type": "vocabulary",
-      "question": "다음 단어의 의미로 가장 적절한 것은? remuneration",
+      "id": "eng_20260808_quiz_vocab_007",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nfeasible",
       "choices": [
-        "의도치 않게",
-        "관할권",
-        "보수",
-        "손상시키다"
+        "구식의",
+        "잠정적인",
+        "실행 가능한",
+        "부과하다"
       ],
       "answer": 2,
-      "explanation": "remuneration = 보수"
+      "explanation": "feasible는 '실행 가능한'라는 뜻입니다.",
+      "relatedItemId": "eng_20260808_vocab_007"
     },
     {
-      "id": "ENG-20260808-Q16",
-      "type": "vocabulary",
-      "question": "다음 단어의 의미로 가장 적절한 것은? requisite",
-      "choices": [
-        "잠정적인",
-        "필수적인",
-        "부과하다",
-        "구식의"
-      ],
-      "answer": 1,
-      "explanation": "requisite = 필수적인"
-    },
-    {
-      "id": "ENG-20260808-Q17",
-      "type": "vocabulary",
-      "question": "다음 단어의 의미로 가장 적절한 것은? sanction",
+      "id": "eng_20260808_quiz_vocab_008",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nimpair",
       "choices": [
         "제재",
-        "상호적인",
+        "손상시키다, 저해하다",
         "보수",
         "필수적인"
       ],
-      "answer": 0,
-      "explanation": "sanction = 제재"
+      "answer": 1,
+      "explanation": "impair는 '손상시키다, 저해하다'라는 뜻입니다.",
+      "relatedItemId": "eng_20260808_vocab_008"
     },
     {
-      "id": "ENG-20260808-Q18",
-      "type": "vocabulary",
-      "question": "다음 단어의 의미로 가장 적절한 것은? tenure",
+      "id": "eng_20260808_quiz_vocab_009",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\ninadvertently",
       "choices": [
-        "제재",
+        "의도치 않게",
         "만장일치의",
         "실현 가능한",
+        "소집하다"
+      ],
+      "answer": 0,
+      "explanation": "inadvertently는 '의도치 않게'라는 뜻입니다.",
+      "relatedItemId": "eng_20260808_vocab_009"
+    },
+    {
+      "id": "eng_20260808_quiz_vocab_010",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\njurisdiction",
+      "choices": [
+        "현직의",
+        "전제 조건",
+        "완화하다",
+        "관할권"
+      ],
+      "answer": 3,
+      "explanation": "jurisdiction는 '관할권'라는 뜻입니다.",
+      "relatedItemId": "eng_20260808_vocab_010"
+    },
+    {
+      "id": "eng_20260808_quiz_vocab_011",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nlevy",
+      "choices": [
+        "손상시키다, 저해하다",
+        "의도치 않게",
+        "부과하다",
+        "실행 가능한"
+      ],
+      "answer": 2,
+      "explanation": "levy는 '부과하다'라는 뜻입니다.",
+      "relatedItemId": "eng_20260808_vocab_011"
+    },
+    {
+      "id": "eng_20260808_quiz_vocab_012",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nobsolete",
+      "choices": [
+        "상호적인",
+        "구식의",
+        "부과하다",
+        "잠정적인"
+      ],
+      "answer": 1,
+      "explanation": "obsolete는 '구식의'라는 뜻입니다.",
+      "relatedItemId": "eng_20260808_vocab_012"
+    },
+    {
+      "id": "eng_20260808_quiz_vocab_013",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nprovisional",
+      "choices": [
+        "잠정적인",
+        "필수적인",
+        "제재",
+        "재임 기간"
+      ],
+      "answer": 0,
+      "explanation": "provisional는 '잠정적인'라는 뜻입니다.",
+      "relatedItemId": "eng_20260808_vocab_013"
+    },
+    {
+      "id": "eng_20260808_quiz_vocab_014",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nreciprocal",
+      "choices": [
+        "실현 가능한",
+        "소집하다",
+        "공포하다",
+        "상호적인"
+      ],
+      "answer": 3,
+      "explanation": "reciprocal는 '상호적인'라는 뜻입니다.",
+      "relatedItemId": "eng_20260808_vocab_014"
+    },
+    {
+      "id": "eng_20260808_quiz_vocab_015",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nremuneration",
+      "choices": [
+        "완화하다",
+        "해로운",
+        "보수",
+        "전제 조건"
+      ],
+      "answer": 2,
+      "explanation": "remuneration는 '보수'라는 뜻입니다.",
+      "relatedItemId": "eng_20260808_vocab_015"
+    },
+    {
+      "id": "eng_20260808_quiz_vocab_016",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nrequisite",
+      "choices": [
+        "관할권",
+        "필수적인",
+        "손상시키다, 저해하다",
+        "의도치 않게"
+      ],
+      "answer": 1,
+      "explanation": "requisite는 '필수적인'라는 뜻입니다.",
+      "relatedItemId": "eng_20260808_vocab_016"
+    },
+    {
+      "id": "eng_20260808_quiz_vocab_017",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nsanction",
+      "choices": [
+        "제재",
+        "구식의",
+        "잠정적인",
+        "상호적인"
+      ],
+      "answer": 0,
+      "explanation": "sanction는 '제재'라는 뜻입니다.",
+      "relatedItemId": "eng_20260808_vocab_017"
+    },
+    {
+      "id": "eng_20260808_quiz_vocab_018",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\ntenure",
+      "choices": [
+        "필수적인",
+        "제재",
+        "만장일치의",
         "재임 기간"
       ],
       "answer": 3,
-      "explanation": "tenure = 재임 기간"
+      "explanation": "tenure는 '재임 기간'라는 뜻입니다.",
+      "relatedItemId": "eng_20260808_vocab_018"
     },
     {
-      "id": "ENG-20260808-Q19",
-      "type": "vocabulary",
-      "question": "다음 단어의 의미로 가장 적절한 것은? unanimous",
+      "id": "eng_20260808_quiz_vocab_019",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nunanimous",
       "choices": [
         "공포하다",
         "현직의",
@@ -476,90 +614,97 @@
         "소집하다"
       ],
       "answer": 2,
-      "explanation": "unanimous = 만장일치의"
+      "explanation": "unanimous는 '만장일치의'라는 뜻입니다.",
+      "relatedItemId": "eng_20260808_vocab_019"
     },
     {
-      "id": "ENG-20260808-Q20",
-      "type": "vocabulary",
-      "question": "다음 단어의 의미로 가장 적절한 것은? viable",
+      "id": "eng_20260808_quiz_vocab_020",
+      "type": "vocab_meaning",
+      "prompt": "다음 단어의 뜻으로 가장 적절한 것은?\n\nviable",
       "choices": [
-        "해로운",
+        "실행 가능한",
         "실현 가능한",
-        "전제 조건",
-        "완화하다"
+        "완화하다",
+        "해로운"
       ],
       "answer": 1,
-      "explanation": "viable = 실현 가능한"
+      "explanation": "viable는 '실현 가능한'라는 뜻입니다.",
+      "relatedItemId": "eng_20260808_vocab_020"
     },
     {
-      "id": "ENG-20260808-Q21",
+      "id": "eng_20260808_quiz_sentence_001",
       "type": "sentence_grammar",
-      "question": "Choose the best word: The chairperson ___ an emergency meeting.",
+      "prompt": "다음 빈칸에 가장 적절한 것은?\n\nThe chairperson ___ an emergency meeting.",
       "choices": [
         "convened",
-        "impaired",
         "levied",
+        "impaired",
         "obsoleted"
       ],
       "answer": 0,
-      "explanation": "convene a meeting = 회의를 소집하다."
+      "explanation": "convene a meeting은 '회의를 소집하다'입니다.",
+      "relatedItemId": "eng_20260808_sentence_001"
     },
     {
-      "id": "ENG-20260808-Q22",
+      "id": "eng_20260808_quiz_sentence_002",
       "type": "sentence_grammar",
-      "question": "Choose the best expression: The dispute falls within the court's ___.",
+      "prompt": "다음 빈칸에 가장 적절한 것은?\n\nThe dispute falls within the court's ___.",
       "choices": [
         "jurisdiction",
-        "remuneration",
         "tenure",
-        "sanction"
+        "sanction",
+        "remuneration"
       ],
       "answer": 0,
-      "explanation": "jurisdiction = 관할권."
+      "explanation": "jurisdiction은 '관할권'입니다.",
+      "relatedItemId": "eng_20260808_sentence_002"
     },
     {
-      "id": "ENG-20260808-Q23",
+      "id": "eng_20260808_quiz_sentence_003",
       "type": "sentence_grammar",
-      "question": "빈칸에 알맞은 것은? No change will take effect ___ it is formally approved.",
+      "prompt": "다음 빈칸에 가장 적절한 것은?\n\nNo change will take effect ___ it is formally approved.",
       "choices": [
         "unless",
         "although",
-        "because of",
+        "because",
         "whereas"
       ],
       "answer": 0,
-      "explanation": "unless = if ... not."
+      "explanation": "unless는 '...하지 않는 한'입니다.",
+      "relatedItemId": "eng_20260808_sentence_003"
     },
     {
-      "id": "ENG-20260808-Q24",
+      "id": "eng_20260808_quiz_sentence_004",
       "type": "sentence_grammar",
-      "question": "다음 문장의 뜻은? The revised plan offers a viable alternative.",
+      "prompt": "다음 문장의 의미로 가장 적절한 것은?\n\nThe revised plan offers a viable alternative.",
       "choices": [
         "개정 계획은 실현 가능한 대안을 제시한다.",
         "개정 계획은 기존 대안을 폐기한다.",
-        "개정 계획은 법적 제재를 부과한다.",
-        "개정 계획은 잠정 중단되었다."
+        "개정 계획은 제재를 부과한다.",
+        "개정 계획은 중단되었다."
       ],
       "answer": 0,
-      "explanation": "viable = 실현 가능한."
+      "explanation": "viable은 '실현 가능한'입니다.",
+      "relatedItemId": "eng_20260808_sentence_004"
     },
     {
-      "id": "ENG-20260808-Q25",
+      "id": "eng_20260808_quiz_sentence_005",
       "type": "sentence_grammar",
-      "question": "Choose the correct sentence.",
+      "prompt": "다음 중 어법상 가장 적절한 문장은?",
       "choices": [
         "Not only did the reform reduce paperwork, but it also shortened processing time.",
-        "Not only the reform did reduce paperwork, but also shortened time.",
-        "Not only did reduce the reform paperwork, but it shortened also time.",
-        "Not only the reform reduced paperwork, but it also did shortened time."
+        "Not only the reform did reduce paperwork, but also shortened processing time.",
+        "Not only did reduce the reform paperwork, but it shortened also processing time.",
+        "Not only the reform reduced paperwork, but it also did shortened processing time."
       ],
       "answer": 0,
-      "explanation": "Not only가 문두에 오면 조동사 도치."
+      "explanation": "Not only가 문두에 오면 조동사 도치가 일어납니다.",
+      "relatedItemId": "eng_20260808_sentence_005"
     },
     {
-      "id": "ENG-20260808-Q26",
+      "id": "eng_20260808_quiz_sentence_006",
       "type": "sentence_grammar",
-      "question": "다음 중 regardless of의 의미는?",
+      "prompt": "다음 표현의 의미로 가장 적절한 것은?\n\nregardless of",
       "choices": [
         "~와 관계없이",
         "~때문에",
@@ -567,12 +712,13 @@
         "~에 반대하여"
       ],
       "answer": 0,
-      "explanation": "regardless of = irrespective of."
+      "explanation": "regardless of는 '~와 관계없이'입니다.",
+      "relatedItemId": "eng_20260808_sentence_006"
     },
     {
-      "id": "ENG-20260808-Q27",
+      "id": "eng_20260808_quiz_sentence_007",
       "type": "sentence_grammar",
-      "question": "Choose the best word: Completion of the course is a ___ for promotion.",
+      "prompt": "다음 빈칸에 가장 적절한 것은?\n\nCompletion of the course is a ___ for promotion.",
       "choices": [
         "prerequisite",
         "sanction",
@@ -580,12 +726,13 @@
         "jurisdiction"
       ],
       "answer": 0,
-      "explanation": "prerequisite = 전제 조건."
+      "explanation": "prerequisite는 '전제 조건'입니다.",
+      "relatedItemId": "eng_20260808_sentence_007"
     },
     {
-      "id": "ENG-20260808-Q28",
+      "id": "eng_20260808_quiz_sentence_008",
       "type": "sentence_grammar",
-      "question": "빈칸에 알맞은 것은? The department introduced a procedure ___ complaints can be handled efficiently.",
+      "prompt": "다음 빈칸에 가장 적절한 것은?\n\nThe department introduced a procedure ___ complaints can be handled efficiently.",
       "choices": [
         "so that",
         "even though",
@@ -593,12 +740,13 @@
         "rather than"
       ],
       "answer": 0,
-      "explanation": "so that + can = ~할 수 있도록."
+      "explanation": "so that + can은 '~할 수 있도록'입니다.",
+      "relatedItemId": "eng_20260808_sentence_008"
     },
     {
-      "id": "ENG-20260808-Q29",
+      "id": "eng_20260808_quiz_sentence_009",
       "type": "sentence_grammar",
-      "question": "다음 중 detrimental과 가장 가까운 의미는?",
+      "prompt": "다음 단어와 의미가 가장 가까운 것은?\n\ndetrimental",
       "choices": [
         "harmful",
         "temporary",
@@ -606,12 +754,13 @@
         "official"
       ],
       "answer": 0,
-      "explanation": "detrimental = harmful."
+      "explanation": "detrimental은 harmful과 가깝습니다.",
+      "relatedItemId": "eng_20260808_sentence_009"
     },
     {
-      "id": "ENG-20260808-Q30",
+      "id": "eng_20260808_quiz_sentence_010",
       "type": "sentence_grammar",
-      "question": "가정법 도치 문장으로 알맞은 해석은? Were the budget reduced further, the project would have to be scaled back.",
+      "prompt": "다음 문장의 의미로 가장 적절한 것은?\n\nWere the budget reduced further, the project would have to be scaled back.",
       "choices": [
         "예산이 더 줄어든다면 사업은 축소되어야 할 것이다.",
         "예산이 늘었기 때문에 사업이 확대됐다.",
@@ -619,7 +768,8 @@
         "사업은 예산과 무관하다."
       ],
       "answer": 0,
-      "explanation": "Were + 주어 = If + 주어 + were."
+      "explanation": "Were + 주어는 If + 주어 + were의 도치형입니다.",
+      "relatedItemId": "eng_20260808_sentence_010"
     }
   ]
 }
