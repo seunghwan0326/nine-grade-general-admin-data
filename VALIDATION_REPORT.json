@@ -1,15 +1,40 @@
 {
   "result": "PASS",
-  "sourceBase": "nine-grade-general-admin-data-main (1).zip / site final",
+  "date": "2026-08-10",
+  "sourceBase": "nine-grade-general-admin-data-main (2).zip supplied by user",
+  "checks": {
+    "diagnosticCount40": true,
+    "subjectDistribution8Each": true,
+    "diagnosticIdsUniqueInternal": true,
+    "diagnosticTextsUniqueInternal": true,
+    "diagnosticIdsDuplicateVsExisting0": true,
+    "diagnosticTextsDuplicateVsExisting0": true,
+    "diagnosticRequiredFields": true,
+    "diagnosticAnswersValid": true,
+    "englishVocabulary20": true,
+    "englishSentences10": true,
+    "englishQuiz30": true,
+    "englishIdsUniqueInternal": true,
+    "englishIdsDuplicateVsExisting0": true,
+    "englishWordsDuplicateVsExisting0": true,
+    "englishSentencesDuplicateVsExisting0": true,
+    "englishQuizPromptsDuplicateVsExisting0": true,
+    "englishQuizAnswersAndLinksValid": true,
+    "priorManifestPacksPreserved": true,
+    "todayDiagnosticRegistered": true,
+    "todayEnglishRegistered": true
+  },
   "manifestIntegration": {
-    "packsCount": 9,
+    "previousPackCount": 9,
+    "newPackCount": 11,
     "todayDiagnosticRegistered": true,
     "todayEnglishRegistered": true,
-    "historicalEnglish20260808Preserved": true,
+    "todayEnglishUsesLatestAlias": true,
+    "historicalPacksPreserved": true,
     "missingReferencedFilesAfterUpload": []
   },
   "diagnostic": {
-    "file": "daily_general_admin_2026_08_09.json",
+    "file": "daily_general_admin_2026_08_10.json",
     "questionCount": 40,
     "subjectDistribution": {
       "국어": 8,
@@ -25,7 +50,7 @@
     "answersValid": true
   },
   "english": {
-    "file": "daily_english_2026_08_09.json",
+    "file": "daily_english_2026_08_10.json",
     "latestAlias": "daily_english_latest.json",
     "vocabularyCount": 20,
     "sentenceCount": 10,
@@ -34,16 +59,15 @@
     "sentenceDuplicatesVsExisting": 0,
     "quizPromptDuplicatesVsExisting": 0,
     "idDuplicatesVsExisting": 0,
-    "idsUniqueInternal": true,
-    "quizAnswersValid": true,
-    "quizRelatedIdsValid": true
+    "quizRelatedIdsValid": true,
+    "dateFileAndLatestAliasIdentical": true
   },
   "zip": {
     "integrity": true,
     "entries": [
       "manifest.json",
-      "daily_general_admin_2026_08_09.json",
-      "daily_english_2026_08_09.json",
+      "daily_general_admin_2026_08_10.json",
+      "daily_english_2026_08_10.json",
       "daily_english_latest.json",
       "VALIDATION_REPORT.json",
       "UPLOAD_GUIDE.txt"

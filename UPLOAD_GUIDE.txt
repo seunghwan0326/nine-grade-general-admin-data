@@ -1,8 +1,6 @@
-2026-08-09 9급 일반행정 + 취약 영어 통합 업데이트
-GitHub nine-grade-general-admin-data 저장소 루트에 아래 파일을 모두 업로드/덮어쓰기하세요.
-- manifest.json (덮어쓰기)
-- daily_general_admin_2026_08_09.json (신규)
-- daily_english_2026_08_09.json (신규, 날짜 보관용)
-- daily_english_latest.json (덮어쓰기, 오늘 영어팩)
-VALIDATION_REPORT.json은 검수 확인용입니다.
-핵심: manifest.packs[]에 2026-08-09 diagnostic + english가 둘 다 등록되어 있습니다.
+2026-08-10 9급 일반행정 + 취약 영어 통합 업데이트
+
+1. ZIP의 6개 파일을 GitHub 저장소 루트에 한 번에 업로드합니다.
+2. daily_english_latest.json과 manifest.json은 기존 파일을 교체합니다.
+3. 나머지 오늘 날짜 파일은 새 파일로 추가합니다.
+4. 업로드 후 앱에서 진단 문제와 영어가 모두 2026-08-10으로 표시되는지 확인합니다.
