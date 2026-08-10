@@ -1,7 +1,7 @@
 {
   "result": "PASS",
-  "date": "2026-08-10",
-  "sourceBase": "nine-grade-general-admin-data-main (2).zip supplied by user",
+  "date": "2026-08-11",
+  "sourceBase": "uploaded cumulative baseline plus previously validated output",
   "checks": {
     "diagnosticCount40": true,
     "subjectDistribution8Each": true,
@@ -11,6 +11,7 @@
     "diagnosticTextsDuplicateVsExisting0": true,
     "diagnosticRequiredFields": true,
     "diagnosticAnswersValid": true,
+    "생활영어AtLeast2WithSpeechText": true,
     "englishVocabulary20": true,
     "englishSentences10": true,
     "englishQuiz30": true,
@@ -20,21 +21,30 @@
     "englishSentencesDuplicateVsExisting0": true,
     "englishQuizPromptsDuplicateVsExisting0": true,
     "englishQuizAnswersAndLinksValid": true,
-    "priorManifestPacksPreserved": true,
-    "todayDiagnosticRegistered": true,
-    "todayEnglishRegistered": true
-  },
-  "manifestIntegration": {
-    "previousPackCount": 9,
-    "newPackCount": 11,
+    "dateFileAndLatestAliasIdentical": true,
     "todayDiagnosticRegistered": true,
     "todayEnglishRegistered": true,
     "todayEnglishUsesLatestAlias": true,
+    "historicalEnglishNoLongerUsesMutableAlias": true,
+    "manifestMissingReferencedFiles0": true
+  },
+  "manifestIntegration": {
+    "packCount": 13,
+    "todayDiagnosticRegistered": true,
+    "todayEnglishRegistered": true,
+    "todayEnglishUsesLatestAlias": true,
+    "historicalAliasRewrites": [
+      {
+        "date": "2026-08-10",
+        "from": "daily_english_latest.json",
+        "to": "daily_english_2026_08_10.json"
+      }
+    ],
     "historicalPacksPreserved": true,
     "missingReferencedFilesAfterUpload": []
   },
   "diagnostic": {
-    "file": "daily_general_admin_2026_08_10.json",
+    "file": "daily_general_admin_2026_08_11.json",
     "questionCount": 40,
     "subjectDistribution": {
       "국어": 8,
@@ -43,6 +53,7 @@
       "행정법총론": 8,
       "행정학개론": 8
     },
+    "생활영어QuestionCount": 8,
     "idDuplicatesInternal": 0,
     "textDuplicatesInternal": 0,
     "idDuplicatesVsExisting": 0,
@@ -50,7 +61,7 @@
     "answersValid": true
   },
   "english": {
-    "file": "daily_english_2026_08_10.json",
+    "file": "daily_english_2026_08_11.json",
     "latestAlias": "daily_english_latest.json",
     "vocabularyCount": 20,
     "sentenceCount": 10,
@@ -62,15 +73,17 @@
     "quizRelatedIdsValid": true,
     "dateFileAndLatestAliasIdentical": true
   },
-  "zip": {
-    "integrity": true,
-    "entries": [
-      "manifest.json",
-      "daily_general_admin_2026_08_10.json",
-      "daily_english_2026_08_10.json",
-      "daily_english_latest.json",
-      "VALIDATION_REPORT.json",
-      "UPLOAD_GUIDE.txt"
+  "lawVerification": {
+    "checkedAt": "2026-08-11T06:12:12+09:00",
+    "sources": [
+      "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=269955",
+      "https://www.law.go.kr/LSW/lsSideInfoP.do?joNo=0023&lsiSeq=239291",
+      "https://www.law.go.kr/LSW/lsInfoP.do?lsId=001218"
+    ],
+    "verifiedTopics": [
+      "행정기본법 비례원칙·제재처분 제척기간·자동적 처분",
+      "행정절차법 처분 이유 제시",
+      "행정소송법 집행부정지원칙·집행정지"
     ]
   }
 }
