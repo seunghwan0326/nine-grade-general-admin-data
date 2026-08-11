@@ -1,17 +1,11 @@
-9급 일반행정 진단루프 + 취약 영어 통합 업데이트
+2026-08-12 9급 일반행정 + 취약 영어 통합 업로드 안내
 
-기준일: 2026-08-11
-
-GitHub 저장소 루트에 ZIP 안의 6개 파일을 한 번에 업로드하세요.
+이 ZIP의 파일 6개를 저장소 루트에 한 번에 업로드하세요.
 - manifest.json
-- daily_general_admin_2026_08_11.json
-- daily_english_2026_08_11.json
+- daily_general_admin_2026_08_12.json
+- daily_english_2026_08_12.json
 - daily_english_latest.json
 - VALIDATION_REPORT.json
 - UPLOAD_GUIDE.txt
 
-중요:
-- 오늘 진단은 packType=diagnostic으로 등록되어 있습니다.
-- 오늘 영어는 packType=english이며 latest alias를 참조합니다.
-- 이전 영어 pack은 날짜 파일을 참조하도록 고정해 latest 갱신으로 과거 내용이 바뀌지 않습니다.
-- 검증 결과가 PASS인 경우에만 업로드하세요.
+manifest의 과거 영어 latest 참조는 날짜 파일로 고정했고, 오늘 영어 항목만 latest alias를 참조합니다.
