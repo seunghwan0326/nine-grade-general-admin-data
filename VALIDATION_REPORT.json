@@ -1,89 +1,53 @@
 {
-  "result": "PASS",
-  "date": "2026-08-11",
-  "sourceBase": "uploaded cumulative baseline plus previously validated output",
-  "checks": {
-    "diagnosticCount40": true,
-    "subjectDistribution8Each": true,
-    "diagnosticIdsUniqueInternal": true,
-    "diagnosticTextsUniqueInternal": true,
-    "diagnosticIdsDuplicateVsExisting0": true,
-    "diagnosticTextsDuplicateVsExisting0": true,
-    "diagnosticRequiredFields": true,
-    "diagnosticAnswersValid": true,
-    "생활영어AtLeast2WithSpeechText": true,
-    "englishVocabulary20": true,
-    "englishSentences10": true,
-    "englishQuiz30": true,
-    "englishIdsUniqueInternal": true,
-    "englishIdsDuplicateVsExisting0": true,
-    "englishWordsDuplicateVsExisting0": true,
-    "englishSentencesDuplicateVsExisting0": true,
-    "englishQuizPromptsDuplicateVsExisting0": true,
-    "englishQuizAnswersAndLinksValid": true,
-    "dateFileAndLatestAliasIdentical": true,
-    "todayDiagnosticRegistered": true,
-    "todayEnglishRegistered": true,
-    "todayEnglishUsesLatestAlias": true,
-    "historicalEnglishNoLongerUsesMutableAlias": true,
-    "manifestMissingReferencedFiles0": true
-  },
-  "manifestIntegration": {
-    "packCount": 13,
-    "todayDiagnosticRegistered": true,
-    "todayEnglishRegistered": true,
-    "todayEnglishUsesLatestAlias": true,
-    "historicalAliasRewrites": [
-      {
-        "date": "2026-08-10",
-        "from": "daily_english_latest.json",
-        "to": "daily_english_2026_08_10.json"
-      }
-    ],
-    "historicalPacksPreserved": true,
-    "missingReferencedFilesAfterUpload": []
-  },
-  "diagnostic": {
-    "file": "daily_general_admin_2026_08_11.json",
+  "date": "2026-08-13",
+  "status": "PASS_WITH_REPAIR",
+  "diagnosticToday": {
     "questionCount": 40,
-    "subjectDistribution": {
+    "subjects": {
       "국어": 8,
       "영어": 8,
       "한국사": 8,
       "행정법총론": 8,
       "행정학개론": 8
     },
-    "생활영어QuestionCount": 8,
-    "idDuplicatesInternal": 0,
-    "textDuplicatesInternal": 0,
-    "idDuplicatesVsExisting": 0,
-    "textDuplicatesVsExisting": 0,
+    "idDuplicates": 0,
+    "questionDuplicatesWithinToday": 0,
+    "jsonParse": true,
+    "choicesExactly4": true,
     "answersValid": true
   },
-  "english": {
-    "file": "daily_english_2026_08_11.json",
-    "latestAlias": "daily_english_latest.json",
-    "vocabularyCount": 20,
-    "sentenceCount": 10,
-    "quizQuestionCount": 30,
-    "wordDuplicatesVsExisting": 0,
-    "sentenceDuplicatesVsExisting": 0,
-    "quizPromptDuplicatesVsExisting": 0,
-    "idDuplicatesVsExisting": 0,
-    "quizRelatedIdsValid": true,
-    "dateFileAndLatestAliasIdentical": true
+  "englishToday": {
+    "vocabulary": 20,
+    "sentences": 10,
+    "quizQuestions": 30,
+    "idDuplicates": 0,
+    "internalWordDuplicates": 0,
+    "internalSentenceDuplicates": 0,
+    "internalQuizPromptDuplicates": 0,
+    "latestAliasByteIdentical": true
   },
-  "lawVerification": {
-    "checkedAt": "2026-08-11T06:12:12+09:00",
+  "manifest": {
+    "todayDiagnosticRegistered": true,
+    "todayEnglishRegistered": true,
+    "previousEnglishAliasFrozenToDatedFile": true,
+    "historicalPacksPreserved": true
+  },
+  "repair": {
+    "missingReferenceDetected": "daily_general_admin_2026_08_12.json",
+    "repairFileIncluded": true,
+    "reason": "2026-08-12 GitHub manifest referenced the file but GitHub contents lookup returned Not Found; recovery ZIP includes a structurally valid 40-question replacement under the existing date/pack ID."
+  },
+  "lawCheck": {
+    "asOf": "2026-08-13",
     "sources": [
-      "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=269955",
-      "https://www.law.go.kr/LSW/lsSideInfoP.do?joNo=0023&lsiSeq=239291",
-      "https://www.law.go.kr/LSW/lsInfoP.do?lsId=001218"
-    ],
-    "verifiedTopics": [
-      "행정기본법 비례원칙·제재처분 제척기간·자동적 처분",
-      "행정절차법 처분 이유 제시",
-      "행정소송법 집행부정지원칙·집행정지"
+      "국가법령정보센터 행정소송법 제20조",
+      "국가법령정보센터 행정절차법 제22조",
+      "국가법령정보센터 정보공개법 제11조"
     ]
-  }
+  },
+  "historicalContentDuplicateReplay": {
+    "status": "NOT_FULLY_REPLAYED",
+    "reason": "Connector-based recovery did not materialize every historical data file into the local runtime. Today IDs are date-namespaced and today content has zero internal duplicates."
+  },
+  "zipIntegrity": true
 }

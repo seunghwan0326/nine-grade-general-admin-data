@@ -1,11 +1,11 @@
-2026-08-12 9급 일반행정 + 취약 영어 통합 업로드 안내
+2026-08-13 06:00 recovery pack
 
-이 ZIP의 파일 6개를 저장소 루트에 한 번에 업로드하세요.
-- manifest.json
-- daily_general_admin_2026_08_12.json
-- daily_english_2026_08_12.json
-- daily_english_latest.json
-- VALIDATION_REPORT.json
-- UPLOAD_GUIDE.txt
+Upload every file in this ZIP to the repository root.
+- manifest.json: replacement manifest
+- daily_general_admin_2026_08_12.json: repairs a manifest reference that existed but whose file was missing in GitHub lookup
+- daily_general_admin_2026_08_13.json: today diagnostic 40 questions
+- daily_english_2026_08_13.json: today dated English source
+- daily_english_latest.json: byte-identical alias for today
+- VALIDATION_REPORT.json: validation/repair notes
 
-manifest의 과거 영어 latest 참조는 날짜 파일로 고정했고, 오늘 영어 항목만 latest alias를 참조합니다.
+Important: existing historical files must remain in the repository. Do not delete them.
