@@ -1,0 +1,66 @@
+name: Daily 06:00 NinePass pack v2
+
+on:
+  workflow_dispatch:
+    inputs:
+      target_date:
+        description: "Optional KST target date (YYYY-MM-DD). Empty = today in Korea."
+        required: false
+        type: string
+  schedule:
+    - cron: '0 6 * * *'
+      timezone: 'Asia/Seoul'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-ninepass-pack-v2
+  cancel-in-progress: false
+
+jobs:
+  generate-validate-push:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      INPUT_TARGET_DATE: ${{ github.event.inputs.target_date }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Resolve KST target date
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ -n "${INPUT_TARGET_DATE:-}" ]; then
+            TARGET="$INPUT_TARGET_DATE"
+          else
+            TARGET="$(TZ=Asia/Seoul date +%F)"
+          fi
+          python3 -c "import datetime; datetime.date.fromisoformat('$TARGET')"
+          echo "TARGET_DATE=$TARGET" >> "$GITHUB_ENV"
+          echo "Target date: $TARGET"
+
+      - name: Generate and validate
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 .github/workflows/NinePass_generate_daily.py --date "$TARGET_DATE" --root .
+
+      - name: Commit and push verified data
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add manifest.json daily_general_admin_*.json daily_english_*.json daily_english_latest.json AUTO_VALIDATION_REPORT.json
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+            exit 0
+          fi
+          git commit -m "data: auto update NinePass $TARGET_DATE"
+          git pull --rebase origin main
+          git push origin HEAD:main
