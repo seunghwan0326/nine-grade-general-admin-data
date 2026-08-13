@@ -1,0 +1,27 @@
+name: Write permission test
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  test-write:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Create test file
+        run: |
+          echo "GitHub Actions write test: $(date -u '+%Y-%m-%dT%H:%M:%SZ')" > action_write_test.txt
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add action_write_test.txt
+          git commit -m "test: verify Actions write permission"
+          git push
