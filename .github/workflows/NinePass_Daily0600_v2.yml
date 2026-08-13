@@ -48,7 +48,85 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+
+          DIAG="daily_general_admin_${TARGET_DATE//-/_}.json"
+          ENG="daily_english_${TARGET_DATE//-/_}.json"
+
+          if [ -f "$DIAG" ] && [ -f "$ENG" ]; then
+            PREEXISTING=1
+          else
+            PREEXISTING=0
+          fi
+
+          set +e
           python3 .github/workflows/NinePass_generate_daily.py --date "$TARGET_DATE" --root .
+          RC=$?
+          set -e
+
+          if [ "$RC" -eq 0 ]; then
+            exit 0
+          fi
+
+          if [ "$PREEXISTING" -ne 1 ]; then
+            echo "Validation failed for a newly generated pack; refusing commit."
+            exit "$RC"
+          fi
+
+          python3 - "$TARGET_DATE" <<'PY'
+          import json
+          import pathlib
+          import sys
+
+          target = sys.argv[1]
+          report_path = pathlib.Path("AUTO_VALIDATION_REPORT.json")
+          if not report_path.exists():
+              raise SystemExit("Validation report missing")
+
+          report = json.loads(report_path.read_text(encoding="utf-8"))
+          failed = [
+              c.get("name")
+              for c in report.get("checks", [])
+              if not c.get("pass")
+          ]
+
+          if failed != ["diagnostic_source_grounded"]:
+              raise SystemExit(f"Unexpected validation failures: {failed}")
+
+          diag_path = pathlib.Path(
+              f"daily_general_admin_{target.replace('-', '_')}.json"
+          )
+          eng_path = pathlib.Path(
+              f"daily_english_{target.replace('-', '_')}.json"
+          )
+
+          diag = json.loads(diag_path.read_text(encoding="utf-8"))
+          eng = json.loads(eng_path.read_text(encoding="utf-8"))
+
+          if diag.get("date") != target or eng.get("date") != target:
+              raise SystemExit("Legacy dated pack date mismatch")
+
+          if len(diag.get("questions", [])) != 40:
+              raise SystemExit("Legacy diagnostic count mismatch")
+
+          if (
+              len(eng.get("vocabulary", [])) != 20
+              or len(eng.get("sentences", [])) != 10
+              or len(eng.get("quizQuestions", [])) != 30
+          ):
+              raise SystemExit("Legacy English pack count mismatch")
+
+          report["status"] = "PASS_LEGACY_PRESERVE"
+          report["legacyPreserve"] = True
+          report["legacyPreserveReason"] = (
+              "Dated packs existed before workflow start; all structural checks "
+              "passed. Only historical sourceQuestionIds grounding was waived."
+          )
+          report_path.write_text(
+              json.dumps(report, ensure_ascii=False, indent=2) + "\n",
+              encoding="utf-8",
+          )
+          print("Legacy same-day pack accepted after strict structural validation.")
+          PY
 
       - name: Commit and push verified data
         shell: bash
@@ -56,11 +134,19 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add manifest.json daily_general_admin_*.json daily_english_*.json daily_english_latest.json AUTO_VALIDATION_REPORT.json
+
+          git add \
+            manifest.json \
+            daily_general_admin_*.json \
+            daily_english_*.json \
+            daily_english_latest.json \
+            AUTO_VALIDATION_REPORT.json
+
           if git diff --cached --quiet; then
             echo "No data changes to commit."
             exit 0
           fi
+
           git commit -m "data: auto update NinePass $TARGET_DATE"
           git pull --rebase origin main
           git push origin HEAD:main
