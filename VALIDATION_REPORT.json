@@ -1,53 +1,183 @@
 {
-  "date": "2026-08-13",
-  "status": "PASS_WITH_REPAIR",
-  "diagnosticToday": {
-    "questionCount": 40,
-    "subjects": {
-      "국어": 8,
-      "영어": 8,
-      "한국사": 8,
-      "행정법총론": 8,
-      "행정학개론": 8
+  "schemaVersion": 1,
+  "date": "2026-08-14",
+  "phase": "independent_second_pass",
+  "overallStatus": "PASS",
+  "summary": {
+    "checks": 34,
+    "passed": 34,
+    "failed": 0
+  },
+  "checks": [
+    {
+      "name": "nine JSON",
+      "status": "PASS",
+      "detail": ""
     },
-    "idDuplicates": 0,
-    "questionDuplicatesWithinToday": 0,
-    "jsonParse": true,
-    "choicesExactly4": true,
-    "answersValid": true
-  },
-  "englishToday": {
-    "vocabulary": 20,
-    "sentences": 10,
-    "quizQuestions": 30,
-    "idDuplicates": 0,
-    "internalWordDuplicates": 0,
-    "internalSentenceDuplicates": 0,
-    "internalQuizPromptDuplicates": 0,
-    "latestAliasByteIdentical": true
-  },
-  "manifest": {
-    "todayDiagnosticRegistered": true,
-    "todayEnglishRegistered": true,
-    "previousEnglishAliasFrozenToDatedFile": true,
-    "historicalPacksPreserved": true
-  },
-  "repair": {
-    "missingReferenceDetected": "daily_general_admin_2026_08_12.json",
-    "repairFileIncluded": true,
-    "reason": "2026-08-12 GitHub manifest referenced the file but GitHub contents lookup returned Not Found; recovery ZIP includes a structurally valid 40-question replacement under the existing date/pack ID."
-  },
-  "lawCheck": {
-    "asOf": "2026-08-13",
-    "sources": [
-      "국가법령정보센터 행정소송법 제20조",
-      "국가법령정보센터 행정절차법 제22조",
-      "국가법령정보센터 정보공개법 제11조"
-    ]
-  },
-  "historicalContentDuplicateReplay": {
-    "status": "NOT_FULLY_REPLAYED",
-    "reason": "Connector-based recovery did not materialize every historical data file into the local runtime. Today IDs are date-namespaced and today content has zero internal duplicates."
-  },
-  "zipIntegrity": true
+    {
+      "name": "today two entries",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "only today latest",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "all nine refs",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "dated/latest bytes",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "40 distribution",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "diagnostic fields",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "diagnostic answers",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "life passages",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "English counts",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "quiz links",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "quiz answer grounding",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "nine IDs unique/no history",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "diagnostic prompt duplicate zero",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "word duplicate zero",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "sentence duplicate zero",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "quiz prompt duplicate zero",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "knowledge JSON",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "cumulative",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "single today manifest",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "all knowledge refs",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "2700/180x15",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "knowledge fields",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "knowledge answers",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "knowledge IDs duplicate zero",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "knowledge prompts duplicate zero",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "no meta template",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "source grounding all 2700",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "work rate correct",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "thermal equilibrium correct",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "ZIP CRC nine-grade-general-admin-github-backup-2026-08-14.zip",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "ZIP members nine-grade-general-admin-github-backup-2026-08-14.zip",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "ZIP CRC knowledge-combo-github-backup-2026-08-14.zip",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "ZIP members knowledge-combo-github-backup-2026-08-14.zip",
+      "status": "PASS",
+      "detail": ""
+    }
+  ]
 }
