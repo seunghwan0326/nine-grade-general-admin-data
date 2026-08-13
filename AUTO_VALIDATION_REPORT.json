@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-14",
+  "generator": "nine-grade-source-grounded-auto-v1",
+  "status": "PASS_LEGACY_PRESERVE",
+  "passed": 14,
+  "total": 15,
+  "checks": [
+    {
+      "name": "diagnostic_total_40",
+      "pass": true,
+      "detail": 40
+    },
+    {
+      "name": "diagnostic_5_subjects_x8",
+      "pass": true,
+      "detail": {
+        "국어": 8,
+        "영어": 8,
+        "한국사": 8,
+        "행정법총론": 8,
+        "행정학개론": 8
+      }
+    },
+    {
+      "name": "diagnostic_unique_ids",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "diagnostic_unique_questions",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "diagnostic_choices_answer_valid",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "diagnostic_source_grounded",
+      "pass": false,
+      "detail": null
+    },
+    {
+      "name": "english_vocab_20",
+      "pass": true,
+      "detail": 20
+    },
+    {
+      "name": "english_sentences_10",
+      "pass": true,
+      "detail": 10
+    },
+    {
+      "name": "english_quiz_30",
+      "pass": true,
+      "detail": 30
+    },
+    {
+      "name": "english_vocab_unique",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "english_sentence_unique",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "english_quiz_answers_valid",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "manifest_updated_date",
+      "pass": true,
+      "detail": "2026-08-14T06:00:00+09:00"
+    },
+    {
+      "name": "manifest_has_diagnostic",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "manifest_has_english",
+      "pass": true,
+      "detail": null
+    }
+  ],
+  "englishGenerationMode": null,
+  "newVocabularyCount": null,
+  "newSentenceCount": null,
+  "legacyPreserve": true,
+  "legacyPreserveReason": "Dated packs existed before workflow start; all structural checks passed. Only historical sourceQuestionIds grounding was waived."
+}

@@ -161,7 +161,7 @@
     },
     {
       "id": "daily-english-2026-08-14",
-      "file": "daily_english_latest.json",
+      "file": "daily_english_2026_08_14.json",
       "packType": "english",
       "enabled": true,
       "questionCount": 30,
