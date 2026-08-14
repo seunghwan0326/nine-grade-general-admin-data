@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "generator": "nine-grade-source-grounded-auto-v1",
-  "status": "PASS_LEGACY_PRESERVE",
-  "passed": 14,
+  "status": "PASS",
+  "passed": 15,
   "total": 15,
   "checks": [
     {
@@ -39,7 +39,7 @@
     },
     {
       "name": "diagnostic_source_grounded",
-      "pass": false,
+      "pass": true,
       "detail": null
     },
     {
@@ -75,7 +75,7 @@
     {
       "name": "manifest_updated_date",
       "pass": true,
-      "detail": "2026-08-14T06:00:00+09:00"
+      "detail": "2026-08-15T06:00:00+09:00"
     },
     {
       "name": "manifest_has_diagnostic",
@@ -88,9 +88,7 @@
       "detail": null
     }
   ],
-  "englishGenerationMode": null,
-  "newVocabularyCount": null,
-  "newSentenceCount": null,
-  "legacyPreserve": true,
-  "legacyPreserveReason": "Dated packs existed before workflow start; all structural checks passed. Only historical sourceQuestionIds grounding was waived."
+  "englishGenerationMode": "verified_bank_spaced_review",
+  "newVocabularyCount": 20,
+  "newSentenceCount": 0
 }
