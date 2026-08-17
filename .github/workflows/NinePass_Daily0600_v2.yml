@@ -8,6 +8,16 @@ on:
         required: false
         type: string
   schedule:
+    - cron: '10 5 * * *'
+      timezone: 'Asia/Seoul'
+    - cron: '20 5 * * *'
+      timezone: 'Asia/Seoul'
+    - cron: '30 5 * * *'
+      timezone: 'Asia/Seoul'
+    - cron: '40 5 * * *'
+      timezone: 'Asia/Seoul'
+    - cron: '50 5 * * *'
+      timezone: 'Asia/Seoul'
     - cron: '0 6 * * *'
       timezone: 'Asia/Seoul'
 
