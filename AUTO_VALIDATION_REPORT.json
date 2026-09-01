@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "generator": "nine-grade-source-grounded-auto-v1",
   "status": "PASS",
   "passed": 15,
@@ -75,7 +75,7 @@
     {
       "name": "manifest_updated_date",
       "pass": true,
-      "detail": "2026-09-01T06:00:00+09:00"
+      "detail": "2026-09-02T06:00:00+09:00"
     },
     {
       "name": "manifest_has_diagnostic",
