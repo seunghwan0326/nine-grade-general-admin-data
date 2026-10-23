@@ -1,0 +1,1081 @@
+{
+  "schemaVersion": 1,
+  "packId": "daily_general_admin_2026_10_24",
+  "date": "2026-10-24",
+  "title": "2026-10-24 9급 일반행정 균형 진단 40문제",
+  "description": "국어·영어·한국사·행정법총론·행정학개론 각 8문항",
+  "track": "general_admin_9grade",
+  "personalizationStatus": "daily_balanced_source_grounded_auto",
+  "personalization": {
+    "subjects": [
+      "국어",
+      "영어",
+      "한국사",
+      "행정법총론",
+      "행정학개론"
+    ],
+    "questionsPerSubject": 8
+  },
+  "questions": [
+    {
+      "id": "nga_20261024_001",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "국어",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "중",
+      "question": "[국어 복합 진단] 다음 2개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 글의 중심 생각을 파악할 때 가장 우선적으로 살펴볼 요소는?\n(나) 공공기관이 안내문을 간결하게 바꾸었더니 민원인의 이해도가 높아졌다. 이 사례가 보여 주는 것은?",
+      "choices": [
+        "사례가 하나뿐이고 다른 요인을 통제하지 않았다. / 명확한 표현은 정보 전달을 돕는다.",
+        "문단마다 반복되거나 강조되는 핵심 내용 / 일정 기간 미룸",
+        "문단마다 반복되거나 강조되는 핵심 내용 / 명확한 표현은 정보 전달을 돕는다.",
+        "새로운 / 명확한 표현은 정보 전달을 돕는다."
+      ],
+      "answer": 2,
+      "explanation": "정답 대응은 (가) 문단마다 반복되거나 강조되는 핵심 내용, (나) 명확한 표현은 정보 전달을 돕는다.이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 100,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260809_004",
+        "exp002_001"
+      ]
+    },
+    {
+      "id": "nga_20261024_002",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "국어",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "중",
+      "question": "[국어 복합 진단] 다음 2개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 다음 중 능력이나 상황상의 불가능을 나타내는 것은?\n(나) 모든 A는 B이다. 어떤 B도 C가 아니다. 반드시 참인 것은?",
+      "choices": [
+        "문단마다 반복되거나 강조되는 핵심 내용 / A와 C는 겹치지 않는다.",
+        "회의는 세 시부터 시작한다. / A와 C는 겹치지 않는다.",
+        "못 갔다 / A와 C는 겹치지 않는다.",
+        "비록 예산은 줄었지만 핵심 사업은 유지되었다. / A와 C는 겹치지 않는다."
+      ],
+      "answer": 2,
+      "explanation": "정답 대응은 (가) 못 갔다, (나) A와 C는 겹치지 않는다.이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 100,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260808_002",
+        "starter_ko_010"
+      ]
+    },
+    {
+      "id": "nga_20261024_003",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "국어",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "중",
+      "question": "[국어 복합 진단] 다음 2개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 다음 글에서 추론할 수 있는 내용으로 가장 적절한 것은?\n\n민원 처리 시간을 줄이기 위해 단순 업무는 자동화할 수 있다. 하지만 예외 사유가 다양하거나 권리 침해 가능성이 큰 사안까지 같은 방식으로 처리하면 오류가 누적될 수 있다. 그러므로 자동화의 범위는 업무의 반복성뿐 아니라 판단의 재량성과 오류의 파급 효과를 함께 고려해 정해야 한다.\n(나) [복구형 4] 다음 중 띄어쓰기가 바른 것은?",
+      "choices": [
+        "자동화 범위는 업무 특성과 오류의 영향까지 고려해 정해야 한다. / 할 수밖에 없다.",
+        "자동화 범위는 업무 특성과 오류의 영향까지 고려해 정해야 한다. / 문이 바람에 열렸다",
+        "낭중지추 / 할 수밖에 없다.",
+        "자동화 범위는 업무 특성과 오류의 영향까지 고려해 정해야 한다. / 온라인으로 물품 대금을 결재했다."
+      ],
+      "answer": 0,
+      "explanation": "정답 대응은 (가) 자동화 범위는 업무 특성과 오류의 영향까지 고려해 정해야 한다., (나) 할 수밖에 없다.이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 100,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260811_007",
+        "nga_20260812_004"
+      ]
+    },
+    {
+      "id": "nga_20261024_004",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "국어",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "중",
+      "question": "[국어 복합 진단] 다음 2개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 다음 중 피동 표현이 사용된 문장은?\n(나) '청사 내 안내 표지를 늘리면 민원인의 이동 시간이 줄어든다.'에 필요한 전제는?",
+      "choices": [
+        "설레다, 웃어른 / 이동 지연 원인 중 하나가 안내 부족이다.",
+        "문이 바람에 닫혔다. / 이동 지연 원인 중 하나가 안내 부족이다.",
+        "문이 바람에 닫혔다. / A와 C는 겹치지 않는다.",
+        "각주구검 / 이동 지연 원인 중 하나가 안내 부족이다."
+      ],
+      "answer": 1,
+      "explanation": "정답 대응은 (가) 문이 바람에 닫혔다., (나) 이동 지연 원인 중 하나가 안내 부족이다.이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 100,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260809_001",
+        "starter_ko_015"
+      ]
+    },
+    {
+      "id": "nga_20261024_005",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "국어",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "상",
+      "question": "[국어 복합 진단] 다음 3개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) '유예'의 뜻은?\n(나) 다음 중 사동 표현이 사용된 문장은?\n(다) 다음 네 묶음 중 두 단어가 모두 표준어인 것은?",
+      "choices": [
+        "일정 기간 미룸 / 되레 / 으레, 웃어른",
+        "일정 기간 미룸 / 어머니가 아이에게 약을 먹였다. / 으레, 웃어른",
+        "일정 기간 미룸 / 책임 전가 / 으레, 웃어른",
+        "일정 기간 미룸 / 문이 바람에 닫혔다. / 속도는 항상 낮춰야 한다."
+      ],
+      "answer": 1,
+      "explanation": "정답 대응은 (가) 일정 기간 미룸, (나) 어머니가 아이에게 약을 먹였다., (다) 으레, 웃어른이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 130,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260808_004",
+        "nga_20260809_002",
+        "nga_20260811_003"
+      ]
+    },
+    {
+      "id": "nga_20261024_006",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "국어",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "상",
+      "question": "[국어 복합 진단] 다음 3개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 다음 주장에 대한 가장 적절한 비판은?\n\n'A시가 민원 처리 시간을 줄인 뒤 주민 만족도 1위를 기록했다. 따라서 모든 지방자치단체가 민원 처리 시간만 줄이면 만족도 1위를 할 수 있다.'\n(나) 다음 중 띄어쓰기가 바른 문장은?\n(다) [복구형 2] 다음 중 호응이 가장 자연스러운 문장은?",
+      "choices": [
+        "사례가 하나뿐이고 다른 요인을 통제하지 않았다. / 그 일은 할 수밖에 없었다. / 비록 예산은 줄었지만 핵심 사업은 유지되었다.",
+        "사례가 하나뿐이고 다른 요인을 통제하지 않았다. / 회의 결과가 게시판에 공지되었다. / 중요한 부분을 정확히 가려내다",
+        "사례가 하나뿐이고 다른 요인을 통제하지 않았다. / 그 일은 할 수밖에 없었다. / 문단마다 반복되거나 강조되는 핵심 내용",
+        "사례가 하나뿐이고 다른 요인을 통제하지 않았다. / 그 일은 할 수밖에 없었다. / 담당자가 회의 결과를 보고했다."
+      ],
+      "answer": 0,
+      "explanation": "정답 대응은 (가) 사례가 하나뿐이고 다른 요인을 통제하지 않았다., (나) 그 일은 할 수밖에 없었다., (다) 비록 예산은 줄었지만 핵심 사업은 유지되었다.이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 130,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga-2026-08-03-006",
+        "nga_20260811_002",
+        "nga_20260812_002"
+      ]
+    },
+    {
+      "id": "nga_20261024_007",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "국어",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "상",
+      "question": "[국어 복합 진단] 다음 3개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 다음 상황을 가장 정확하게 나타내는 말은?\n\n여러 부서가 서로 책임을 미루는 바람에 간단한 민원조차 처리되지 않았다.\n(나) 글의 중심 생각을 파악할 때 가장 우선적으로 살펴볼 요소는?\n(다) 밑줄 친 의미에 맞는 어휘를 사용한 문장은?",
+      "choices": [
+        "책임 전가 / 이동 지연 원인 중 하나가 안내 부족이다. / 어머니가 아이에게 약을 먹였다.",
+        "자동화 범위는 업무 특성과 오류의 영향까지 고려해 정해야 한다. / 문단마다 반복되거나 강조되는 핵심 내용 / 온라인으로 물품 대금을 결재했다.",
+        "책임 전가 / 못 갔다 / 온라인으로 물품 대금을 결재했다.",
+        "책임 전가 / 문단마다 반복되거나 강조되는 핵심 내용 / 온라인으로 물품 대금을 결재했다."
+      ],
+      "answer": 3,
+      "explanation": "정답 대응은 (가) 책임 전가, (나) 문단마다 반복되거나 강조되는 핵심 내용, (다) 온라인으로 물품 대금을 결재했다.이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 130,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "ga-2026-08-02-kor-003",
+        "nga_20260809_004",
+        "nga_20260810_003"
+      ]
+    },
+    {
+      "id": "nga_20261024_008",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "국어",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "상",
+      "question": "[국어 복합 진단] 다음 3개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 민원 처리 속도는 빨라졌지만 설명 부족으로 재문의가 늘었다. 가장 적절한 추론은?\n(나) 밑줄 친 말의 문맥적 의미와 가장 가까운 것은? '그는 회의가 길어지자 핵심만 짚어 달라고 요청했다.'\n(다) 다음 글의 중심 생각으로 가장 적절한 것은?\n\n공공서비스의 디지털화는 처리 속도를 높일 수 있지만, 정보 접근이 어려운 사람을 위한 대면 안내도 함께 마련되어야 한다.",
+      "choices": [
+        "웬일인지 그는 며칠째 연락이 없다. / 디지털 행정 확대에는 다양한 이용자의 접근성을 보장하는 장치가 필요하다. / 디지털화는 접근성 보완과 함께 추진해야 한다.",
+        "속도는 항상 낮춰야 한다. / 중요한 부분을 정확히 가려내다 / 디지털화는 접근성 보완과 함께 추진해야 한다.",
+        "속도는 항상 낮춰야 한다. / ④ / 디지털화는 접근성 보완과 함께 추진해야 한다.",
+        "속도는 항상 낮춰야 한다. / 중요한 부분을 정확히 가려내다 / 정책 평가는 실제 성과와 부작용을 함께 살펴야 한다."
+      ],
+      "answer": 1,
+      "explanation": "정답 대응은 (가) 속도는 항상 낮춰야 한다., (나) 중요한 부분을 정확히 가려내다, (다) 디지털화는 접근성 보완과 함께 추진해야 한다.이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 130,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260808_006",
+        "ga-2026-08-01-kor-002",
+        "starter_ko_001"
+      ]
+    },
+    {
+      "id": "nga_20261024_009",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "영어",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "중",
+      "question": "[영어 복합 진단] 다음 2개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) [복구형 3] Which word is closest in meaning to “mitigate”?\n(나) Yuna: I will be on leave this Friday.\nMin: I can monitor the shared inbox.\nYuna: Please flag any complaint marked urgent.\nMin: I will also record the response time.\n\nWhat should Min flag?",
+      "choices": [
+        "together with / Any urgent complaint",
+        "alleviate / on",
+        "alleviate / Any urgent complaint",
+        "eliminate / Any urgent complaint"
+      ],
+      "answer": 2,
+      "explanation": "정답 대응은 (가) alleviate, (나) Any urgent complaint이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 100,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260812_011",
+        "nga_20260814_016"
+      ]
+    },
+    {
+      "id": "nga_20261024_010",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "영어",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "중",
+      "question": "[영어 복합 진단] 다음 2개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) A: Would you mind closing the window? B: ____\n(나) The library will open one hour earlier during the exam period. Weekend closing times will remain unchanged. Which is true?",
+      "choices": [
+        "Not at all. / It will open earlier during the exam period.",
+        "공사 기간에도 정문은 계속 개방된다. / It will open earlier during the exam period.",
+        "Not at all. / reduce",
+        "eliminate / It will open earlier during the exam period."
+      ],
+      "answer": 0,
+      "explanation": "정답 대응은 (가) Not at all., (나) It will open earlier during the exam period.이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 100,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260809_013",
+        "starter_en_005"
+      ]
+    },
+    {
+      "id": "nga_20261024_011",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "영어",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "중",
+      "question": "[영어 복합 진단] 다음 2개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 다음 문장의 요지로 가장 적절한 것은? Regular feedback helps employees identify weaknesses and improve performance.\n(나) Which word is closest in meaning to “mitigate”?",
+      "choices": [
+        "정기적 피드백은 개선에 도움을 준다. / were",
+        "정기적 피드백은 개선에 도움을 준다. / alleviate",
+        "A photo ID / alleviate",
+        "check / alleviate"
+      ],
+      "answer": 1,
+      "explanation": "정답 대응은 (가) 정기적 피드백은 개선에 도움을 준다., (나) alleviate이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 100,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260809_016",
+        "nga_20260813_014"
+      ]
+    },
+    {
+      "id": "nga_20261024_012",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "영어",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "중",
+      "question": "[영어 복합 진단] 다음 2개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 다음 문장의 빈칸에 가장 적절한 단어는?\n\nThe agency decided to ______ additional staff during the busy application period.\n(나) 다음 이메일의 목적으로 가장 적절한 것은?\nSubject: Change of Meeting Room\nThe project meeting will be held in Room 402 instead of Room 305.\nThe starting time remains 2:00 p.m.\nPlease bring the revised schedule.",
+      "choices": [
+        "become valid / 회의 장소 변경을 알리려고",
+        "assign / The main entrance is closed for inspections.",
+        "Neither the manager nor the employees were available. / 회의 장소 변경을 알리려고",
+        "assign / 회의 장소 변경을 알리려고"
+      ],
+      "answer": 3,
+      "explanation": "정답 대응은 (가) assign, (나) 회의 장소 변경을 알리려고이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 100,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "ga-2026-08-02-eng-002",
+        "ga-2026-08-01-eng-002"
+      ]
+    },
+    {
+      "id": "nga_20261024_013",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "영어",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "상",
+      "question": "[영어 복합 진단] 다음 3개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) Read the following exchange and answer the question.\n\nCaller: I'm calling about my permit consultation on Wednesday morning.\nStaff: Would you like to reschedule it?\nCaller: Yes. Is Thursday afternoon available?\nStaff: I can book you for 2:30 p.m. on Thursday.\n\nWhy did the caller phone the office?\n(나) The report ______ was published yesterday includes the latest statistics.\n(다) Choose the opposite of 'increase'.",
+      "choices": [
+        "whose / which / reduce",
+        "To request a refund / which / reduce",
+        "To request a refund / which / Thursday at 2 p.m.",
+        "corroborate / which / reduce"
+      ],
+      "answer": 1,
+      "explanation": "정답 대응은 (가) To request a refund, (나) which, (다) reduce이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 130,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260811_010",
+        "starter_en_013",
+        "starter_en_017"
+      ]
+    },
+    {
+      "id": "nga_20261024_014",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "영어",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "상",
+      "question": "[영어 복합 진단] 다음 3개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) Choose the word closest in meaning to 'rapid'.\n(나) Read the following exchange and answer the question.\n\nCitizen: I'd like to report a broken streetlight near 24 Maple Road.\nClerk: I'll create a service request and give you its tracking number.\nCitizen: How long will the repair take?\nClerk: The maintenance team usually responds within three business days.\n\nWhat will the clerk most likely do next?\n(다) The library will open one hour earlier during the exam period. Weekend closing times will remain unchanged. Which is true?",
+      "choices": [
+        "To remind employees of a deadline / Issue a tracking number / Each가 단수 취급되어 단수동사 has가 필요하기 때문에",
+        "quick / become valid / Usability matters for public websites.",
+        "quick / They need prior approval. / It will open earlier during the exam period.",
+        "quick / Issue a tracking number / It will open earlier during the exam period."
+      ],
+      "answer": 3,
+      "explanation": "정답 대응은 (가) quick, (나) Issue a tracking number, (다) It will open earlier during the exam period.이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 130,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260804_eng_015",
+        "nga_20260811_009",
+        "starter_en_005"
+      ]
+    },
+    {
+      "id": "nga_20261024_015",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "영어",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "상",
+      "question": "[영어 복합 진단] 다음 3개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 다음 문장의 빈칸에 가장 적절한 단어는?\n\nThe agency decided to ______ additional staff during the busy application period.\n(나) Dae: The fourth-floor meeting room is being repaired.\nSora: Should we move the briefing online?\nDae: Room 205 is available, so I reserved it for 3 p.m.\nSora: I will notify the rest of the team.\n\nWhere will the briefing take place?\n(다) Choose the opposite of 'increase'.",
+      "choices": [
+        "In the north lot / In Room 205 / reduce",
+        "conduct / In Room 205 / on",
+        "assign / In Room 205 / reduce",
+        "conduct / In Room 205 / change"
+      ],
+      "answer": 2,
+      "explanation": "정답 대응은 (가) assign, (나) In Room 205, (다) reduce이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 130,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "ga-2026-08-02-eng-002",
+        "nga_20260814_013",
+        "starter_en_017"
+      ]
+    },
+    {
+      "id": "nga_20261024_016",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "영어",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "상",
+      "question": "[영어 복합 진단] 다음 3개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) Choose the word closest in meaning to the underlined word.\n\nThe committee decided to defer the vote until additional evidence was available.\n(나) Read the following exchange and answer the question.\n\nCaller: I'm calling about my permit consultation on Wednesday morning.\nStaff: Would you like to reschedule it?\nCaller: Yes. Is Thursday afternoon available?\nStaff: I can book you for 2:30 p.m. on Thursday.\n\nWhy did the caller phone the office?\n(다) Choose the synonym of 'reliable'.",
+      "choices": [
+        "correct / Usability matters for public websites. / dependable",
+        "postpone / To request a refund / Online membership payments remain available.",
+        "postpone / assign / dependable",
+        "postpone / To request a refund / dependable"
+      ],
+      "answer": 3,
+      "explanation": "정답 대응은 (가) postpone, (나) To request a refund, (다) dependable이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 130,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260810_010",
+        "nga_20260811_010",
+        "exp002_017"
+      ]
+    },
+    {
+      "id": "nga_20261024_017",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "한국사",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "중",
+      "question": "[한국사 복합 진단] 다음 2개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) [복구형 4] 대한민국 정부가 수립된 해는?\n(나) 광복이 이루어진 해는?",
+      "choices": [
+        "1948년 / 1945년",
+        "문화 통치 / 1945년",
+        "세종 / 1945년",
+        "상서성 / 1945년"
+      ],
+      "answer": 0,
+      "explanation": "정답 대응은 (가) 1948년, (나) 1945년이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 100,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260812_020",
+        "nga_20260813_022"
+      ]
+    },
+    {
+      "id": "nga_20261024_018",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "한국사",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "중",
+      "question": "[한국사 복합 진단] 다음 2개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) [복구형 8] 갑오개혁이 시작된 해는?\n(나) 고려를 건국한 인물은?",
+      "choices": [
+        "3·15 부정선거 / 왕건",
+        "1894년 / 전라도 각지에 집강소를 설치해 폐정 개혁을 추진하였다.",
+        "1894년 / 왕건",
+        "1950년 / 왕건"
+      ],
+      "answer": 2,
+      "explanation": "정답 대응은 (가) 1894년, (나) 왕건이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 100,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260812_024",
+        "nga_20260813_017"
+      ]
+    },
+    {
+      "id": "nga_20261024_019",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "한국사",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "중",
+      "question": "[한국사 복합 진단] 다음 2개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 갑신정변이 일어난 연도는?\n(나) [복구형 5] 6·25 전쟁이 발발한 해는?",
+      "choices": [
+        "1884년 / 훈련도감",
+        "1884년 / 1950년",
+        "세종 / 1950년",
+        "1884년 / 상하이"
+      ],
+      "answer": 1,
+      "explanation": "정답 대응은 (가) 1884년, (나) 1950년이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 100,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260809_020",
+        "nga_20260812_021"
+      ]
+    },
+    {
+      "id": "nga_20261024_020",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "한국사",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "중",
+      "question": "[한국사 복합 진단] 다음 2개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 임진왜란 중 설치되어 포수·사수·살수의 삼수병을 훈련한 중앙 군영은?\n(나) [복구형 1] 3·1 운동이 일어난 해는?",
+      "choices": [
+        "훈련도감 / 1884년",
+        "훈련도감 / 집현전을 중심으로 학문을 진흥하고 4군 6진을 개척하였다.",
+        "훈련도감 / 1919년",
+        "전국의 서원을 대폭 정리하였다. / 1919년"
+      ],
+      "answer": 2,
+      "explanation": "정답 대응은 (가) 훈련도감, (나) 1919년이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 100,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260811_022",
+        "nga_20260812_017"
+      ]
+    },
+    {
+      "id": "nga_20261024_021",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "한국사",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "상",
+      "question": "[한국사 복합 진단] 다음 3개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 고려에서 6부를 관장한 기관은?\n(나) 갑오개혁이 시작된 해는?\n(다) 6·25 전쟁이 발발한 해는?",
+      "choices": [
+        "상서성 / 1894년 / 1950년",
+        "전라도 각지에 집강소를 설치해 폐정 개혁을 추진하였다. / 쌀·포·동전 등 / 1950년",
+        "상서성 / 촌락별 인구·토지·가축과 유실수 / 1919년",
+        "상서성 / 세종 / 7세기 후반"
+      ],
+      "answer": 0,
+      "explanation": "정답 대응은 (가) 상서성, (나) 1894년, (다) 1950년이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 130,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260808_018",
+        "nga_20260813_019",
+        "nga_20260813_024"
+      ]
+    },
+    {
+      "id": "nga_20261024_022",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "한국사",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "상",
+      "question": "[한국사 복합 진단] 다음 3개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 4·19 혁명의 직접적인 계기가 된 사건은?\n(나) 임진왜란 중 설치되어 포수·사수·살수의 삼수병을 훈련한 중앙 군영은?\n(다) [복구형 1] 3·1 운동이 일어난 해는?",
+      "choices": [
+        "3·15 부정선거 / 훈련도감 / 1876",
+        "왕건 / 훈련도감 / 전라도 각지에 집강소를 설치해 폐정 개혁을 추진하였다.",
+        "3·15 부정선거 / 훈련도감 / 1919년",
+        "12목을 설치하고 지방관을 파견하였다. / 훈련도감 / 성종"
+      ],
+      "answer": 2,
+      "explanation": "정답 대응은 (가) 3·15 부정선거, (나) 훈련도감, (다) 1919년이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 130,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260810_024",
+        "nga_20260811_022",
+        "nga_20260812_017"
+      ]
+    },
+    {
+      "id": "nga_20261024_023",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "한국사",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "상",
+      "question": "[한국사 복합 진단] 다음 3개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 나당전쟁이 전개된 시기는?\n(나) [복구형 3] 광복이 이루어진 해는?\n(다) 갑오개혁이 시작된 해는?",
+      "choices": [
+        "집현전을 중심으로 학문을 진흥하고 4군 6진을 개척하였다. / 붕당 간 균형을 도모했다. / 1894년",
+        "문화 통치 / 1945년 / 1894년",
+        "7세기 후반 / 1945년 / 1894년",
+        "전라도 각지에 집강소를 설치해 폐정 개혁을 추진하였다. / 1945년 / 1894년"
+      ],
+      "answer": 2,
+      "explanation": "정답 대응은 (가) 7세기 후반, (나) 1945년, (다) 1894년이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 130,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260808_017",
+        "nga_20260812_019",
+        "nga_20260813_019"
+      ]
+    },
+    {
+      "id": "nga_20261024_024",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "한국사",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "상",
+      "question": "[한국사 복합 진단] 다음 3개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 고려에서 6부를 관장한 기관은?\n(나) 갑신정변이 일어난 연도는?\n(다) 대한민국 임시정부가 처음 수립된 도시는?",
+      "choices": [
+        "상서성 / 폐정개혁 / 7세기 후반",
+        "훈련도감 / 1884년 / 상하이",
+        "상서성 / 성종 / 상하이",
+        "상서성 / 1884년 / 상하이"
+      ],
+      "answer": 3,
+      "explanation": "정답 대응은 (가) 상서성, (나) 1884년, (다) 상하이이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 130,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260808_018",
+        "nga_20260809_020",
+        "nga_20260813_021"
+      ]
+    },
+    {
+      "id": "nga_20261024_025",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "행정법총론",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "중",
+      "question": "[행정법총론 복합 진단] 다음 2개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 행정대집행의 대상이 되는 의무는 원칙적으로 무엇인가?\n(나) 행정상 대집행의 대상이 되기 위한 의무의 성격으로 가장 적절한 것은?",
+      "choices": [
+        "대체적 작위의무 / 의견 제출 기회를 보장하기 위해",
+        "대체적 작위의무 / 타인이 대신 이행할 수 있는 작위 의무",
+        "처분 등을 한 행정청 / 타인이 대신 이행할 수 있는 작위 의무",
+        "청문 / 타인이 대신 이행할 수 있는 작위 의무"
+      ],
+      "answer": 1,
+      "explanation": "정답 대응은 (가) 대체적 작위의무, (나) 타인이 대신 이행할 수 있는 작위 의무이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 100,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260809_028",
+        "ga-2026-08-01-law-004"
+      ]
+    },
+    {
+      "id": "nga_20261024_026",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "행정법총론",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "중",
+      "question": "[행정법총론 복합 진단] 다음 2개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 행정기본법 제20조상 완전히 자동화된 시스템을 이용한 처분에 관한 설명으로 옳은 것은?\n(나) 행정소송법상 취소소송은 원칙적으로 처분 등이 있음을 안 날부터 얼마 이내에 제기해야 하는가?",
+      "choices": [
+        "거짓이나 그 밖의 부정한 방법으로 인허가를 받은 경우 / 90일",
+        "처분 등을 한 행정청 / 90일",
+        "법률로 정하는 바에 따라 가능하지만 재량이 있는 처분에는 허용되지 않는다. / 90일",
+        "법률로 정하는 바에 따라 가능하지만 재량이 있는 처분에는 허용되지 않는다. / 중대한 불이익 처분 전에 의견과 증거를 듣는 절차"
+      ],
+      "answer": 2,
+      "explanation": "정답 대응은 (가) 법률로 정하는 바에 따라 가능하지만 재량이 있는 처분에는 허용되지 않는다., (나) 90일이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 100,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260811_026",
+        "nga_20260813_025"
+      ]
+    },
+    {
+      "id": "nga_20261024_027",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "행정법총론",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "중",
+      "question": "[행정법총론 복합 진단] 다음 2개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 행정소송법 제23조상 취소소송과 집행정지에 관한 설명으로 옳은 것은?\n(나) 행정행위가 취소되기 전까지 유효한 것으로 통용되는 힘은?",
+      "choices": [
+        "90일 / 공정력",
+        "공공복리에 중대한 영향을 미칠 우려가 있어도 반드시 집행정지해야 한다. / 공정력",
+        "공공복리에 중대한 영향을 미칠 우려가 있어도 반드시 집행정지해야 한다. / 절차적 권리 보장",
+        "공공복리에 중대한 영향을 미칠 우려가 있어도 반드시 집행정지해야 한다. / 청사 외벽 색상"
+      ],
+      "answer": 1,
+      "explanation": "정답 대응은 (가) 공공복리에 중대한 영향을 미칠 우려가 있어도 반드시 집행정지해야 한다., (나) 공정력이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 100,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260811_032",
+        "starter_law_012"
+      ]
+    },
+    {
+      "id": "nga_20261024_028",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "행정법총론",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "중",
+      "question": "[행정법총론 복합 진단] 다음 2개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 취소소송에서 원고적격 판단의 핵심은 무엇인가?\n(나) 행정청의 공적 견해표명을 신뢰한 개인의 정당한 신뢰를 일정 요건 아래 보호하는 원칙은?",
+      "choices": [
+        "법률상 이익 / 신뢰보호원칙",
+        "법률상 보호되는 이익의 침해 여부 / 행정편의를 위해 가장 강한 수단을 우선 선택할 것",
+        "법률상 보호되는 이익의 침해 여부 / 신뢰보호원칙",
+        "국민의 권리 제한이나 의무 부과에는 법률상 근거가 요구된다. / 신뢰보호원칙"
+      ],
+      "answer": 2,
+      "explanation": "정답 대응은 (가) 법률상 보호되는 이익의 침해 여부, (나) 신뢰보호원칙이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 100,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260809_030",
+        "nga_20260813_032"
+      ]
+    },
+    {
+      "id": "nga_20261024_029",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "행정법총론",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "상",
+      "question": "[행정법총론 복합 진단] 다음 3개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 취소소송에서 일반적으로 요구되는 것은?\n(나) 정보공개법상 공공기관은 원칙적으로 정보공개 청구를 받은 날부터 몇 일 이내 공개 여부를 결정해야 하는가?\n(다) 불이익 처분의 사전통지가 중요한 이유는?",
+      "choices": [
+        "법률상 이익 / 10일 / 의견 제출 기회를 보장하기 위해",
+        "법률에 신고의 수리가 필요하다고 명시된 경우 행정청이 수리하여야 효력이 발생한다. / 10일 / 행정청의 무제한 재량",
+        "법률상 이익 / 10일 / 공공복리에 중대한 영향을 미칠 우려가 있어도 반드시 집행정지해야 한다.",
+        "위법·부당한 처분의 취소는 원칙적으로 소급하고, 적법한 처분의 철회는 장래를 향해 효력을 잃게 한다. / 10일 / 의견 제출 기회를 보장하기 위해"
+      ],
+      "answer": 0,
+      "explanation": "정답 대응은 (가) 법률상 이익, (나) 10일, (다) 의견 제출 기회를 보장하기 위해이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 130,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260808_028",
+        "nga_20260813_029",
+        "starter_law_014"
+      ]
+    },
+    {
+      "id": "nga_20261024_030",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "행정법총론",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "상",
+      "question": "[행정법총론 복합 진단] 다음 3개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 행정행위의 부관에 관한 설명으로 가장 적절한 것은?\n(나) 적법하게 성립한 행정행위의 효력을 장래를 향해 소멸시키는 것은?\n(다) 적법한 공권력 행사로 특정인에게 특별한 희생이 발생한 경우 문제되는 제도는?",
+      "choices": [
+        "자의성을 통제하고 불복 판단을 돕기 위해 / 형사 유죄판결 확정 / 손실보상",
+        "기한은 장래에 발생할 것이 확실한 사실에 효력의 발생 또는 소멸을 의존시킨다. / 처분의 근거와 판단 과정을 알게 하여 권리구제를 돕는다. / 손실보상",
+        "기한은 장래에 발생할 것이 확실한 사실에 효력의 발생 또는 소멸을 의존시킨다. / 철회 / 손실보상",
+        "법률로 정하는 바에 따라 가능하지만 재량이 있는 처분에는 허용되지 않는다. / 위법한 처분의 취소 또는 변경 / 손실보상"
+      ],
+      "answer": 2,
+      "explanation": "정답 대응은 (가) 기한은 장래에 발생할 것이 확실한 사실에 효력의 발생 또는 소멸을 의존시킨다., (나) 철회, (다) 손실보상이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 130,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "hw9_20260801_012",
+        "starter_law_013",
+        "starter_law_022"
+      ]
+    },
+    {
+      "id": "nga_20261024_031",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "행정법총론",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "상",
+      "question": "[행정법총론 복합 진단] 다음 3개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 비례원칙과 가장 관련 깊은 것은?\n(나) [복구형 4] 행정목적 달성을 위해 필요한 정도를 넘어 과도한 불이익을 주지 않아야 한다는 원칙은?\n(다) 행정대집행의 대상이 되는 의무는?",
+      "choices": [
+        "목적과 수단의 적정한 균형 / 비례원칙 / 국민의 알 권리와 행정 투명성 보장",
+        "목적과 수단의 적정한 균형 / 비례원칙 / 대체적 작위의무",
+        "목적과 수단의 적정한 균형 / 비례원칙 / 공정력",
+        "손실보상 / 비례원칙 / 대체적 작위의무"
+      ],
+      "answer": 1,
+      "explanation": "정답 대응은 (가) 목적과 수단의 적정한 균형, (나) 비례원칙, (다) 대체적 작위의무이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 130,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260808_030",
+        "nga_20260812_028",
+        "starter_law_005"
+      ]
+    },
+    {
+      "id": "nga_20261024_032",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "행정법총론",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "상",
+      "question": "[행정법총론 복합 진단] 다음 3개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 침익적 처분의 사전통지 취지로 가장 적절한 것은?\n(나) 법률유보 원칙의 설명으로 옳은 것은?\n(다) 행정규칙의 일반적 성격은?",
+      "choices": [
+        "처분의 근거와 이유를 제시해야 한다. / 권리 제한이나 의무 부과에는 법률 근거가 필요하다 / 행정조직 내부의 사무처리 기준",
+        "당사자에게 의견 제출과 방어 기회 부여 / 무효등확인소송 / 행정조직 내부의 사무처리 기준",
+        "당사자에게 의견 제출과 방어 기회 부여 / 권리 제한이나 의무 부과에는 법률 근거가 필요하다 / 행정조직 내부의 사무처리 기준",
+        "당사자에게 의견 제출과 방어 기회 부여 / 권리 제한이나 의무 부과에는 법률 근거가 필요하다 / 5년"
+      ],
+      "answer": 2,
+      "explanation": "정답 대응은 (가) 당사자에게 의견 제출과 방어 기회 부여, (나) 권리 제한이나 의무 부과에는 법률 근거가 필요하다, (다) 행정조직 내부의 사무처리 기준이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 130,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga-2026-08-03-021",
+        "nga_20260804_law_028",
+        "starter_law_010"
+      ]
+    },
+    {
+      "id": "nga_20261024_033",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "행정학개론",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "중",
+      "question": "[행정학개론 복합 진단] 다음 2개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 대표관료제가 기대하는 효과로 가장 적절한 것은?\n(나) 정부 활동의 결정과 결과를 설명하고 책임지도록 요구하는 개념은?",
+      "choices": [
+        "사회 집단의 구성이 관료제에 반영되어 다양한 요구에 대한 대응성이 높아지는 것 / 책임성",
+        "주인과 대리인의 목표 차이를 의도적으로 확대한다. / 책임성",
+        "사업의 업무량과 성과를 예산과 연결하기 쉽다. / 책임성",
+        "조직이 여러 목표를 동시에 달성하는 현상이다. / 책임성"
+      ],
+      "answer": 0,
+      "explanation": "정답 대응은 (가) 사회 집단의 구성이 관료제에 반영되어 다양한 요구에 대한 대응성이 높아지는 것, (나) 책임성이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 100,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260811_039",
+        "nga_20260813_039"
+      ]
+    },
+    {
+      "id": "nga_20261024_034",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "행정학개론",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "중",
+      "question": "[행정학개론 복합 진단] 다음 2개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 중기재정계획의 장점은?\n(나) 행정책임성을 높이는 장치는?",
+      "choices": [
+        "책임성 / 정보공개와 감사, 의회 통제",
+        "여러 연도에 걸친 재정 운용의 일관성 확보 / 정보공개와 감사, 의회 통제",
+        "기능별 구조와 사업별 구조를 결합해 이중 권한관계가 나타날 수 있다. / 정보공개와 감사, 의회 통제",
+        "지역 주민의 참여와 통제 / 정보공개와 감사, 의회 통제"
+      ],
+      "answer": 1,
+      "explanation": "정답 대응은 (가) 여러 연도에 걸친 재정 운용의 일관성 확보, (나) 정보공개와 감사, 의회 통제이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 100,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "exp002_034",
+        "starter_adm_023"
+      ]
+    },
+    {
+      "id": "nga_20261024_035",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "행정학개론",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "중",
+      "question": "[행정학개론 복합 진단] 다음 2개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 사이먼의 만족모형이 전제하는 인간의 합리성은?\n(나) 계획예산제도(PPBS)에 대한 설명으로 가장 적절한 것은?",
+      "choices": [
+        "제한된 합리성 / 장기 계획과 사업 구조, 대안 분석을 예산 결정과 연계한다.",
+        "서로 중첩되는 여러 의사결정 중심이 자율적으로 협력·경쟁하며 문제를 해결한다. / 장기 계획과 사업 구조, 대안 분석을 예산 결정과 연계한다.",
+        "제한된 합리성 / 공직의 전문성과 계속성 향상",
+        "제한된 합리성 / 선정 효과로 인한 집단 간 사전 차이를 줄이기 위해"
+      ],
+      "answer": 0,
+      "explanation": "정답 대응은 (가) 제한된 합리성, (나) 장기 계획과 사업 구조, 대안 분석을 예산 결정과 연계한다.이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 100,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260809_039",
+        "nga_20260810_039"
+      ]
+    },
+    {
+      "id": "nga_20261024_036",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "행정학개론",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "중",
+      "question": "[행정학개론 복합 진단] 다음 2개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) [복구형 3] 중앙정부의 권한과 기능을 지방으로 이양하는 방향을 가리키는 말은?\n(나) 조직의 공식화 수준이 높다는 의미는?",
+      "choices": [
+        "기회와 자원의 공정한 배분 / 업무 절차와 행동 기준이 규칙과 문서로 구체화됨",
+        "정책결정에서 이해관계자의 타협을 배제한다. / 업무 절차와 행동 기준이 규칙과 문서로 구체화됨",
+        "지방분권 / 업무 절차와 행동 기준이 규칙과 문서로 구체화됨",
+        "기존 정책에서 소폭 조정된 대안을 중심으로 선택한다. / 업무 절차와 행동 기준이 규칙과 문서로 구체화됨"
+      ],
+      "answer": 2,
+      "explanation": "정답 대응은 (가) 지방분권, (나) 업무 절차와 행동 기준이 규칙과 문서로 구체화됨이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 100,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260812_035",
+        "starter_adm_007"
+      ]
+    },
+    {
+      "id": "nga_20261024_037",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "행정학개론",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "상",
+      "question": "[행정학개론 복합 진단] 다음 3개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 점증모형에 대한 설명으로 옳은 것은?\n(나) 기능별 조직의 장점은?\n(다) 정책수단의 선택에 관한 설명으로 가장 적절한 것은?",
+      "choices": [
+        "기존 정책에서 소폭 조정한다 / 기능별 전문성을 높이기 쉽다. / 기회와 자원의 공정한 배분",
+        "기존 정책에서 소폭 조정한다 / 기능별 전문성을 높이기 쉽다. / 기존 사업도 원점에서 필요성과 우선순위를 재검토",
+        "기존 정책에서 소폭 조정한다 / 기능별 전문성을 높이기 쉽다. / 정보 제공, 경제적 유인, 직접 규제는 대상과 상황에 따라 효과가 달라질 수 있다.",
+        "서로 중첩되는 여러 의사결정 중심이 자율적으로 협력·경쟁하며 문제를 해결한다. / 기능별 전문성을 높이기 쉽다. / 조직이 여러 목표를 동시에 달성하는 현상이다."
+      ],
+      "answer": 2,
+      "explanation": "정답 대응은 (가) 기존 정책에서 소폭 조정한다, (나) 기능별 전문성을 높이기 쉽다., (다) 정보 제공, 경제적 유인, 직접 규제는 대상과 상황에 따라 효과가 달라질 수 있다.이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 130,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260804_adm_037",
+        "nga_20260808_034",
+        "hw9_20260801_020"
+      ]
+    },
+    {
+      "id": "nga_20261024_038",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "행정학개론",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "상",
+      "question": "[행정학개론 복합 진단] 다음 3개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 베버 관료제의 특징으로 보기 어려운 것은?\n(나) 맥그리거의 Y이론에 부합하는 인간관은?\n(다) 점증주의적 의사결정의 특징은?",
+      "choices": [
+        "전문성 / 조직이 여러 목표를 동시에 달성하는 현상이다. / 여러 연도에 걸친 재정 운용의 일관성 확보",
+        "제한된 합리성 / 조직 구성원은 책임을 언제나 회피한다. / 명확한 계층제와 규칙",
+        "전문성 / 조직 구성원은 책임을 언제나 회피한다. / 기존 정책에서 소폭 조정하며 대안을 비교",
+        "기능 부서와 사업 부서의 이중 권한 구조를 활용한다. / 승인된 목적과 범위에 맞는 지출을 보장하기 위해 / 기존 정책에서 소폭 조정하며 대안을 비교"
+      ],
+      "answer": 2,
+      "explanation": "정답 대응은 (가) 전문성, (나) 조직 구성원은 책임을 언제나 회피한다., (다) 기존 정책에서 소폭 조정하며 대안을 비교이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 130,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260804_adm_031",
+        "nga_20260810_034",
+        "starter_adm_012"
+      ]
+    },
+    {
+      "id": "nga_20261024_039",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "행정학개론",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "상",
+      "question": "[행정학개론 복합 진단] 다음 3개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 정책 목표가 실제로 달성되었는지를 판단하는 기준은?\n(나) 지방자치의 주민자치 요소와 가장 관련이 깊은 것은?\n(다) 중앙정부의 권한과 기능을 지방으로 이양하는 방향을 가리키는 말은?",
+      "choices": [
+        "효과성 / 지역 주민의 참여와 통제 / 정치·행정 행위자도 자기이익을 추구할 수 있다고 본다.",
+        "효과성 / 지역 주민의 참여와 통제 / 지방분권",
+        "조직 구성원은 책임을 언제나 회피한다. / 지역 주민의 참여와 통제 / 지방분권",
+        "효과성 / 선정 효과로 인한 집단 간 사전 차이를 줄이기 위해 / 지방분권"
+      ],
+      "answer": 1,
+      "explanation": "정답 대응은 (가) 효과성, (나) 지역 주민의 참여와 통제, (다) 지방분권이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 130,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga-2026-08-03-027",
+        "nga_20260809_037",
+        "nga_20260813_038"
+      ]
+    },
+    {
+      "id": "nga_20261024_040",
+      "examType": "9급 일반행정",
+      "stage": "balanced_daily",
+      "subject": "행정학개론",
+      "domain": "복합 진단",
+      "subdomain": "원천 검증형",
+      "difficulty": "상",
+      "question": "[행정학개론 복합 진단] 다음 3개 물음의 답을 (가)부터 순서대로 바르게 짝지은 것은?\n\n(가) 주인-대리인 관계에서 대리인의 도덕적 해이를 줄이는 방안으로 가장 적절한 것은?\n(나) 예산을 정책·사업 중심으로 편성하고 성과와 연결하려는 접근은?\n(다) 매트릭스 조직의 특징은?",
+      "choices": [
+        "주인과 대리인의 목표 차이를 의도적으로 확대한다. / 성과주의 예산 / 기능별 구조와 사업별 구조를 결합해 이중 권한관계가 나타날 수 있다.",
+        "주인과 대리인의 목표 차이를 의도적으로 확대한다. / 부처별 지출한도를 먼저 정하고 그 범위에서 부처의 자율적 편성을 확대한다. / 관료 구성에 사회의 다양한 집단을 반영해 대응성과 정당성을 높인다.",
+        "정책결정에서 이해관계자의 타협을 배제한다. / 정책대안의 비용과 편익을 비교해 경제적 타당성 검토 / 기능별 구조와 사업별 구조를 결합해 이중 권한관계가 나타날 수 있다.",
+        "공통 목표를 확인하고 협상한다. / 성과주의 예산 / 개인적 친분에 따른 탄력적 인사"
+      ],
+      "answer": 0,
+      "explanation": "정답 대응은 (가) 주인과 대리인의 목표 차이를 의도적으로 확대한다., (나) 성과주의 예산, (다) 기능별 구조와 사업별 구조를 결합해 이중 권한관계가 나타날 수 있다.이다.",
+      "sourceBasis": "설명-정답 교차검증을 통과한 원본 단일 문항만 재조합한 source-grounded 복합 진단 문항",
+      "estimatedTimeSec": 130,
+      "date": "2026-10-24",
+      "packId": "daily_general_admin_2026_10_24",
+      "sourceQuestionIds": [
+        "nga_20260811_036",
+        "nga_20260813_036",
+        "starter_adm_014"
+      ]
+    }
+  ]
+}
