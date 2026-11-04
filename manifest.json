@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "app": "NinePass",
   "track": "general_admin_9grade",
-  "updatedAt": "2026-11-04T06:00:00+09:00",
+  "updatedAt": "2026-11-05T06:00:00+09:00",
   "replacePacks": false,
   "packs": [
     {
@@ -1727,6 +1727,25 @@
       "sentenceCount": 10,
       "quizQuestionCount": 30,
       "date": "2026-11-04"
+    },
+    {
+      "id": "daily_general_admin_2026_11_05",
+      "file": "daily_general_admin_2026_11_05.json",
+      "packType": "diagnostic",
+      "enabled": true,
+      "questionCount": 40,
+      "date": "2026-11-05"
+    },
+    {
+      "id": "daily-english-2026-11-05",
+      "file": "daily_english_2026_11_05.json",
+      "packType": "english",
+      "enabled": true,
+      "questionCount": 30,
+      "vocabularyCount": 20,
+      "sentenceCount": 10,
+      "quizQuestionCount": 30,
+      "date": "2026-11-05"
     }
   ]
 }
