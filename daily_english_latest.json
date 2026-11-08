@@ -1,738 +1,748 @@
 {
   "schemaVersion": 1,
-  "packId": "daily_english_2026_11_08",
-  "date": "2026-11-08",
-  "title": "2026-11-08 취약 영어 자동 학습·퀴즈팩",
+  "packId": "daily_english_2026_11_09",
+  "date": "2026-11-09",
+  "title": "2026-11-09 취약 영어 자동 학습·퀴즈팩",
   "description": "검증 어휘 20개, 문장 10개, 연계 퀴즈 30개 · mode=verified_bank_spaced_review",
   "generationMode": "verified_bank_spaced_review",
   "newVocabularyCount": 0,
   "newSentenceCount": 0,
   "vocabulary": [
     {
-      "id": "eng_vocab_20261108_001",
-      "word": "preliminary",
-      "meaning": "예비의, 초기의",
+      "id": "eng_vocab_20261109_001",
+      "word": "consecutive",
+      "meaning": "연속적인",
       "partOfSpeech": "adjective",
-      "pronunciationText": "preliminary",
-      "example": "The preliminary report will be reviewed before publication.",
-      "translation": "예비 보고서는 공개 전에 검토될 것이다.",
-      "memoryTip": "preliminary = 예비의, 초기의; 뜻→예문→소리 내어 3회 반복",
+      "pronunciationText": "consecutive",
+      "example": "The city recorded three consecutive days of heavy rain.",
+      "translation": "그 도시는 사흘 연속 폭우를 기록했다.",
+      "memoryTip": "consecutive = 연속적인; 뜻→예문→소리 내어 3회 반복",
       "priority": "A",
       "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_vocab_20261108_002",
-      "word": "confidential",
-      "meaning": "기밀의",
-      "example": "The document contains confidential information.",
-      "translation": "그 문서에는 기밀 정보가 포함되어 있다.",
-      "memoryTip": "confide와 연결해 남에게 함부로 말하지 않는 정보로 기억하세요.",
-      "priority": "A",
-      "pronunciationText": "confidential",
-      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
-    },
-    {
-      "id": "eng_vocab_20261108_003",
-      "word": "incumbent",
-      "meaning": "현직의",
-      "example": "The incumbent mayor will finish the term in December.",
-      "translation": "현직 시장은 12월에 임기를 마친다.",
-      "memoryTip": "현재 그 직위에 있는 사람을 뜻합니다.",
+      "id": "eng_vocab_20261109_002",
+      "word": "impair",
+      "meaning": "저해하다",
+      "example": "The outage impaired online services.",
+      "translation": "장애는 온라인 서비스를 저해했다.",
+      "memoryTip": "impair = weaken/damage.",
       "priority": "A",
       "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_vocab_20261108_004",
-      "word": "obsolete",
-      "meaning": "구식의",
-      "example": "The office replaced its obsolete software.",
-      "translation": "사무소는 구식 소프트웨어를 교체했다.",
-      "memoryTip": "더 이상 쓸모없는.",
+      "id": "eng_vocab_20261109_003",
+      "word": "promulgate",
+      "meaning": "공포하다",
+      "example": "The ministry promulgated the revised regulation.",
+      "translation": "부처는 개정 규정을 공포했다.",
+      "memoryTip": "법령을 공식적으로 널리 알리는 장면을 떠올리세요.",
+      "priority": "A",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261109_004",
+      "word": "negligible",
+      "meaning": "무시해도 될 정도의",
+      "partOfSpeech": "adjective",
+      "pronunciationText": "negligible",
+      "example": "The change had a negligible effect on the total budget.",
+      "translation": "그 변화가 총예산에 미친 영향은 무시해도 될 정도였다.",
+      "memoryTip": "negligible amount = 무시할 만큼 적은 양",
       "priority": "B",
       "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_vocab_20261108_005",
-      "word": "alleviate",
-      "meaning": "완화하다",
-      "example": "The measure may alleviate traffic congestion.",
-      "translation": "그 조치는 교통 혼잡을 완화할 수 있다.",
-      "memoryTip": "alleviate = ease.",
+      "id": "eng_vocab_20261109_005",
+      "word": "inherent",
+      "meaning": "내재된, 고유한",
+      "partOfSpeech": "adjective",
+      "pronunciationText": "inherent",
+      "example": "Every forecasting method has inherent limitations.",
+      "translation": "모든 예측 방법에는 고유한 한계가 있다.",
+      "memoryTip": "inherent = 내재된, 고유한; 뜻→예문→소리 내어 3회 반복",
       "priority": "A",
       "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_vocab_20261108_006",
-      "word": "adhere",
-      "meaning": "준수하다",
-      "partOfSpeech": "verb",
-      "pronunciationText": "adhere",
-      "example": "Officials must adhere to the established safety rules.",
-      "translation": "공무원은 정해진 안전 규칙을 준수해야 한다.",
-      "memoryTip": "adhere = 준수하다; 뜻→예문→소리 내어 3회 반복",
+      "id": "eng_vocab_20261109_006",
+      "word": "ambiguous",
+      "meaning": "모호한",
+      "partOfSpeech": "adjective",
+      "pronunciationText": "ambiguous",
+      "example": "The ambiguous wording caused different interpretations.",
+      "translation": "모호한 문구는 서로 다른 해석을 낳았다.",
+      "memoryTip": "ambiguous = 모호한; 뜻→예문→소리 내어 3회 반복",
       "priority": "A",
       "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_vocab_20261108_007",
-      "word": "reimburse",
-      "meaning": "상환하다",
-      "example": "The agency will reimburse approved travel expenses.",
-      "translation": "기관은 승인된 출장비를 상환할 것이다.",
-      "memoryTip": "re + imburse를 '다시 돈을 돌려주다'로 기억하세요.",
-      "priority": "B",
-      "pronunciationText": "reimburse",
-      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
-    },
-    {
-      "id": "eng_vocab_20261108_008",
-      "word": "inadvertently",
-      "meaning": "의도치 않게",
-      "example": "The notice was inadvertently sent twice.",
-      "translation": "통지가 의도치 않게 두 번 발송되었다.",
-      "memoryTip": "실수로, 의도 없이.",
+      "id": "eng_vocab_20261109_007",
+      "word": "convene",
+      "meaning": "소집하다",
+      "example": "The chairperson convened an emergency meeting.",
+      "translation": "의장은 긴급 회의를 소집했다.",
+      "memoryTip": "convene a meeting을 한 덩어리로 기억하세요.",
       "priority": "A",
       "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_vocab_20261108_009",
-      "word": "levy",
-      "meaning": "부과하다",
-      "example": "The city may levy an additional fee.",
-      "translation": "시는 추가 수수료를 부과할 수 있다.",
-      "memoryTip": "levy a tax/fee를 통째로 기억.",
+      "id": "eng_vocab_20261109_008",
+      "word": "viable",
+      "meaning": "실현 가능한",
+      "example": "The revised plan provides a viable alternative.",
+      "translation": "개정 계획은 실현 가능한 대안을 제시한다.",
+      "memoryTip": "viable = workable.",
       "priority": "B",
       "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_vocab_20261108_010",
-      "word": "exacerbate",
-      "meaning": "악화시키다",
-      "partOfSpeech": "verb",
-      "pronunciationText": "exacerbate",
-      "example": "Poor communication can exacerbate public confusion.",
-      "translation": "부실한 의사소통은 대중의 혼란을 악화시킬 수 있다.",
-      "memoryTip": "exacerbate = 악화시키다; 뜻→예문→소리 내어 3회 반복",
+      "id": "eng_vocab_20261109_009",
+      "word": "contingent",
+      "meaning": "~에 달려 있는, 조건부의",
+      "partOfSpeech": "adjective",
+      "pronunciationText": "contingent",
+      "example": "Final approval is contingent on the completion of a safety review.",
+      "translation": "최종 승인은 안전 검토의 완료에 달려 있다.",
+      "memoryTip": "be contingent on = ~에 달려 있다",
       "priority": "A",
       "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_vocab_20261108_011",
-      "word": "discrepancy",
-      "meaning": "불일치, 차이",
+      "id": "eng_vocab_20261109_010",
+      "word": "dormant",
+      "meaning": "활동하지 않는, 잠재한",
+      "partOfSpeech": "adjective",
+      "pronunciationText": "dormant",
+      "example": "The account remained dormant until the investigation reopened.",
+      "translation": "그 계정은 조사가 재개될 때까지 활동이 없었다.",
+      "memoryTip": "dormant volcano = 휴화산",
+      "priority": "B",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261109_011",
+      "word": "indispensable",
+      "meaning": "필수적인",
+      "partOfSpeech": "adjective",
+      "pronunciationText": "indispensable",
+      "example": "Public trust is indispensable to effective administration.",
+      "translation": "공공의 신뢰는 효과적인 행정에 필수적이다.",
+      "memoryTip": "in(아닌)+dispensable(없어도 되는)→없어서는 안 되는",
+      "priority": "B",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261109_012",
+      "word": "stringent",
+      "meaning": "엄격한, 엄중한",
+      "partOfSpeech": "adjective",
+      "pronunciationText": "stringent",
+      "example": "The agency introduced stringent controls to protect personal data.",
+      "translation": "그 기관은 개인정보를 보호하기 위해 엄격한 통제 조치를 도입했다.",
+      "memoryTip": "stringent = 엄격한, 엄중한; strict보다 강한 규제·기준을 떠올리기",
+      "priority": "A",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261109_013",
+      "word": "discretion",
+      "meaning": "재량",
       "partOfSpeech": "noun",
-      "pronunciationText": "discrepancy",
-      "example": "Auditors found a discrepancy between the receipt and the payment record.",
-      "translation": "감사관들은 영수증과 지급 기록 사이의 불일치를 발견했다.",
-      "memoryTip": "두 기록이 어긋날 때 discrepancy",
+      "pronunciationText": "discretion",
+      "example": "Managers were given discretion to adjust work schedules.",
+      "translation": "관리자들은 근무 일정을 조정할 재량을 부여받았다.",
+      "memoryTip": "discretion = 재량; 뜻→예문→소리 내어 3회 반복",
       "priority": "A",
       "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_vocab_20261108_012",
-      "word": "defer",
-      "meaning": "연기하다",
-      "partOfSpeech": "verb",
-      "pronunciationText": "defer",
-      "example": "The committee chose to defer the decision until more evidence was available.",
-      "translation": "위원회는 더 많은 근거가 확보될 때까지 결정을 연기하기로 했다.",
-      "memoryTip": "defer = 연기하다; 뜻→예문→소리 내어 3회 반복",
-      "priority": "A",
-      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
-    },
-    {
-      "id": "eng_vocab_20261108_013",
-      "word": "remuneration",
-      "meaning": "보수",
-      "example": "The post offers remuneration based on experience.",
-      "translation": "그 직위는 경력에 따른 보수를 제공한다.",
-      "memoryTip": "remunerate=보수를 지급하다.",
-      "priority": "B",
-      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
-    },
-    {
-      "id": "eng_vocab_20261108_014",
-      "word": "hamper",
-      "meaning": "방해하다",
-      "partOfSpeech": "verb",
-      "pronunciationText": "hamper",
-      "example": "Unclear instructions can hamper an effective response.",
-      "translation": "불명확한 지시는 효과적인 대응을 방해할 수 있다.",
-      "memoryTip": "hamper progress = 진전을 방해하다",
-      "priority": "B",
-      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
-    },
-    {
-      "id": "eng_vocab_20261108_015",
-      "word": "plausible",
-      "meaning": "그럴듯한, 타당해 보이는",
+      "id": "eng_vocab_20261109_014",
+      "word": "empirical",
+      "meaning": "경험적, 실증적인",
       "partOfSpeech": "adjective",
-      "pronunciationText": "plausible",
-      "example": "The investigator considered several plausible explanations for the discrepancy.",
-      "translation": "조사관은 그 불일치에 대해 몇 가지 타당해 보이는 설명을 검토했다.",
-      "memoryTip": "plausible = 그럴듯한; 사실로 확정되진 않았지만 말이 되는 상태",
+      "pronunciationText": "empirical",
+      "example": "The claim should be supported by empirical evidence.",
+      "translation": "그 주장은 실증적 근거로 뒷받침되어야 한다.",
+      "memoryTip": "empirical = 경험적, 실증적인; 뜻→예문→소리 내어 3회 반복",
       "priority": "A",
       "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_vocab_20261108_016",
-      "word": "subsequent",
-      "meaning": "이후의",
+      "id": "eng_vocab_20261109_015",
+      "word": "concomitant",
+      "meaning": "수반되는, 동시에 일어나는",
       "partOfSpeech": "adjective",
-      "pronunciationText": "subsequent",
-      "example": "Subsequent studies produced similar results.",
-      "translation": "이후의 연구들도 비슷한 결과를 냈다.",
-      "memoryTip": "subsequent = 이후의; 뜻→예문→소리 내어 3회 반복",
+      "pronunciationText": "concomitant",
+      "example": "Rapid growth brought a concomitant increase in housing demand.",
+      "translation": "급속한 성장은 그에 수반되는 주택 수요 증가를 가져왔다.",
+      "memoryTip": "concomitant: 수반되는",
       "priority": "A",
       "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_vocab_20261108_017",
-      "word": "scrutinize",
-      "meaning": "면밀히 조사하다",
+      "id": "eng_vocab_20261109_016",
+      "word": "adverse",
+      "meaning": "불리한, 부정적인",
+      "partOfSpeech": "adjective",
+      "pronunciationText": "adverse",
+      "example": "The new measure had an adverse effect on small businesses.",
+      "translation": "새 조치는 소규모 사업체에 부정적인 영향을 미쳤다.",
+      "memoryTip": "adverse = 불리한, 부정적인; 뜻→예문→소리 내어 3회 반복",
+      "priority": "A",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261109_017",
+      "word": "conspicuous",
+      "meaning": "눈에 잘 띄는",
+      "partOfSpeech": "adjective",
+      "pronunciationText": "conspicuous",
+      "example": "Emergency exits should be marked with conspicuous signs.",
+      "translation": "비상구는 눈에 잘 띄는 표지로 표시해야 한다.",
+      "memoryTip": "conspicuous sign = 눈에 띄는 표지",
+      "priority": "A",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261109_018",
+      "word": "germane",
+      "meaning": "밀접한 관련이 있는",
+      "partOfSpeech": "adjective",
+      "pronunciationText": "germane",
+      "example": "Please limit your comments to issues germane to the proposal.",
+      "translation": "의견을 그 제안과 밀접한 관련이 있는 쟁점으로 한정해 주세요.",
+      "memoryTip": "germane: 밀접한 관련이 있는",
+      "priority": "B",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261109_019",
+      "word": "credible",
+      "meaning": "신뢰할 수 있는",
+      "partOfSpeech": "adjective",
+      "pronunciationText": "credible",
+      "example": "A credible estimate must be supported by transparent data.",
+      "translation": "신뢰할 수 있는 추정치는 투명한 자료로 뒷받침되어야 한다.",
+      "memoryTip": "credit(신뢰)과 연결",
+      "priority": "A",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261109_020",
+      "word": "rectify",
+      "meaning": "바로잡다, 시정하다",
       "partOfSpeech": "verb",
-      "pronunciationText": "scrutinize",
-      "example": "Auditors scrutinized the records for unusual transactions.",
-      "translation": "감사관들은 비정상 거래가 있는지 기록을 면밀히 조사했다.",
-      "memoryTip": "scrutinize = 면밀히 조사하다; 뜻→예문→소리 내어 3회 반복",
+      "pronunciationText": "rectify",
+      "example": "The agency acted quickly to rectify the reporting error.",
+      "translation": "그 기관은 보고 오류를 바로잡기 위해 신속히 조치했다.",
+      "memoryTip": "rectify = 바로잡다, 시정하다; 뜻→예문→소리 내어 3회 반복",
       "priority": "A",
-      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
-    },
-    {
-      "id": "eng_vocab_20261108_018",
-      "word": "conducive",
-      "meaning": "~에 도움이 되는",
-      "partOfSpeech": "adjective",
-      "pronunciationText": "conducive",
-      "example": "Quiet workspaces are conducive to careful analysis.",
-      "translation": "조용한 업무 공간은 면밀한 분석에 도움이 된다.",
-      "memoryTip": "be conducive to + 명사/-ing",
-      "priority": "A",
-      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
-    },
-    {
-      "id": "eng_vocab_20261108_019",
-      "word": "provisional",
-      "meaning": "잠정적인",
-      "example": "A provisional schedule was announced.",
-      "translation": "잠정 일정이 발표되었다.",
-      "memoryTip": "temporary와 연결.",
-      "priority": "B",
-      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
-    },
-    {
-      "id": "eng_vocab_20261108_020",
-      "word": "unanimous",
-      "meaning": "만장일치의",
-      "example": "The committee reached a unanimous decision.",
-      "translation": "위원회는 만장일치 결정을 내렸다.",
-      "memoryTip": "uni=하나 + anim=마음.",
-      "priority": "B",
       "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
     }
   ],
   "sentences": [
     {
-      "id": "eng_sentence_20261108_001",
-      "text": "The fee will be waived if you meet the eligibility requirements.",
-      "translation": "자격 요건을 충족하면 수수료가 면제됩니다.",
-      "speechText": "The fee will be waived if you meet the eligibility requirements.",
-      "pattern": "실무·생활영어 문장",
+      "id": "eng_sentence_20261109_001",
+      "text": "Keep the confirmation message until the refund reaches your account.",
+      "translation": "환불금이 계좌에 들어올 때까지 확인 메시지를 보관하세요.",
+      "speechText": "Keep the confirmation message until the refund reaches your account.",
+      "pattern": "공공기관·직장·생활영어",
       "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_sentence_20261108_002",
-      "text": "The meeting room has been moved to the third floor.",
-      "translation": "회의실이 3층으로 변경되었습니다.",
-      "speechText": "The meeting room has been moved to the third floor.",
-      "pattern": "실무·생활영어 문장",
+      "id": "eng_sentence_20261109_002",
+      "text": "A replacement card is issued only after the lost card is suspended.",
+      "translation": "분실 카드를 정지한 뒤에만 재발급 카드가 발급됩니다.",
+      "speechText": "A replacement card is issued only after the lost card is suspended.",
+      "pattern": "공공기관·직장·생활영어",
       "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_sentence_20261108_003",
-      "text": "I would like to confirm the deadline for submitting additional evidence.",
-      "translation": "추가 증거 제출 기한을 확인하고 싶습니다.",
-      "speechText": "I would like to confirm the deadline for submitting additional evidence.",
-      "pattern": "실무·생활영어 문장",
+      "id": "eng_sentence_20261109_003",
+      "text": "Would you check whether the attachment opens correctly?",
+      "translation": "첨부 파일이 제대로 열리는지 확인해 주시겠어요?",
+      "speechText": "Would you check whether the attachment opens correctly?",
+      "pattern": "공공기관·직장·생활영어",
       "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_sentence_20261108_004",
-      "text": "The help desk will remain open until six o’clock this evening.",
-      "translation": "안내 데스크는 오늘 저녁 6시까지 운영됩니다.",
-      "speechText": "The help desk will remain open until six o’clock this evening.",
-      "pattern": "실무·생활영어 문장",
+      "id": "eng_sentence_20261109_004",
+      "text": "Residents may submit comments either online or by regular mail.",
+      "translation": "주민들은 온라인이나 일반 우편으로 의견을 제출할 수 있습니다.",
+      "speechText": "Residents may submit comments either online or by regular mail.",
+      "pattern": "공공기관·직장·생활영어",
       "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_sentence_20261108_005",
-      "text": "Could you resend the attachment in a format that I can open?",
-      "translation": "제가 열 수 있는 형식으로 첨부파일을 다시 보내 주시겠어요?",
-      "speechText": "Could you resend the attachment in a format that I can open?",
-      "pattern": "실무·생활영어 문장",
+      "id": "eng_sentence_20261109_005",
+      "text": "Visitors with appointments should arrive ten minutes before their scheduled time.",
+      "translation": "예약한 방문객은 예정 시각 10분 전에 도착해야 합니다.",
+      "speechText": "Visitors with appointments should arrive ten minutes before their scheduled time.",
+      "pattern": "공공기관·직장·생활영어",
       "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_sentence_20261108_006",
-      "text": "Your application has been received and is now under review.",
-      "translation": "신청서가 접수되었으며 현재 검토 중입니다.",
-      "speechText": "Your application has been received and is now under review.",
-      "pattern": "실무·생활영어 문장",
+      "id": "eng_sentence_20261109_006",
+      "text": "Please remove personal information before sharing the document.",
+      "translation": "문서를 공유하기 전에 개인정보를 삭제해 주세요.",
+      "speechText": "Please remove personal information before sharing the document.",
+      "pattern": "공공기관·직장·생활영어",
       "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_sentence_20261108_007",
-      "text": "Please let us know if you need an interpreter for the appointment.",
-      "translation": "예약 시 통역이 필요하면 알려 주세요.",
-      "speechText": "Please let us know if you need an interpreter for the appointment.",
-      "pattern": "실무·생활영어 문장",
+      "id": "eng_sentence_20261109_007",
+      "text": "The revised schedule leaves enough time for a safety review.",
+      "translation": "수정된 일정은 안전 검토를 위한 충분한 시간을 확보합니다.",
+      "speechText": "The revised schedule leaves enough time for a safety review.",
+      "pattern": "공공기관·직장·생활영어",
       "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_sentence_20261108_008",
-      "text": "The maintenance work may cause brief interruptions to the service.",
-      "translation": "유지보수 작업으로 서비스가 잠시 중단될 수 있습니다.",
-      "speechText": "The maintenance work may cause brief interruptions to the service.",
-      "pattern": "실무·생활영어 문장",
+      "id": "eng_sentence_20261109_008",
+      "text": "The maintenance team will inspect the alarm after the building closes.",
+      "translation": "유지보수팀은 건물이 문을 닫은 뒤 경보 장치를 점검할 것입니다.",
+      "speechText": "The maintenance team will inspect the alarm after the building closes.",
+      "pattern": "공공기관·직장·생활영어",
       "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_sentence_20261108_009",
-      "text": "Please verify the document number before submitting the request.",
-      "translation": "요청을 제출하기 전에 문서 번호를 확인해 주세요.",
-      "speechText": "Please verify the document number before submitting the request.",
-      "pattern": "실무·생활영어 문장",
+      "id": "eng_sentence_20261109_009",
+      "text": "The public hearing has been postponed until the following Wednesday.",
+      "translation": "공청회가 다음 주 수요일로 연기되었습니다.",
+      "speechText": "The public hearing has been postponed until the following Wednesday.",
+      "pattern": "공공기관·직장·생활영어",
       "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_sentence_20261108_010",
-      "text": "Visitors must leave a photo ID at the security desk.",
-      "translation": "방문객은 보안 데스크에 사진이 있는 신분증을 맡겨야 합니다.",
-      "speechText": "Visitors must leave a photo ID at the security desk.",
-      "pattern": "실무·생활영어 문장",
+      "id": "eng_sentence_20261109_010",
+      "text": "You can track the application with the number printed on your receipt.",
+      "translation": "영수증에 인쇄된 번호로 신청 진행 상황을 조회할 수 있습니다.",
+      "speechText": "You can track the application with the number printed on your receipt.",
+      "pattern": "공공기관·직장·생활영어",
       "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
     }
   ],
   "quizQuestions": [
     {
-      "id": "eng_quiz_20261108_001",
+      "id": "eng_quiz_20261109_001",
       "type": "vocabulary",
-      "prompt": "다음 문장에서 'preliminary'의 뜻으로 가장 적절한 것은?\nThe preliminary report will be reviewed before publication.",
+      "prompt": "다음 문장에서 'consecutive'의 뜻으로 가장 적절한 것은?\nThe city recorded three consecutive days of heavy rain.",
       "choices": [
-        "예비의, 초기의",
-        "부과하다",
-        "현직의",
-        "연기하다"
-      ],
-      "answer": 0,
-      "explanation": "'preliminary'는 '예비의, 초기의'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261108_001"
-    },
-    {
-      "id": "eng_quiz_20261108_002",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'confidential'의 뜻으로 가장 적절한 것은?\nThe document contains confidential information.",
-      "choices": [
-        "현직의",
-        "기밀의",
-        "방해하다",
-        "만장일치의"
+        "실현 가능한",
+        "연속적인",
+        "재량",
+        "~에 달려 있는, 조건부의"
       ],
       "answer": 1,
-      "explanation": "'confidential'는 '기밀의'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261108_002"
+      "explanation": "'consecutive'는 '연속적인'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261109_001"
     },
     {
-      "id": "eng_quiz_20261108_003",
+      "id": "eng_quiz_20261109_002",
       "type": "vocabulary",
-      "prompt": "다음 문장에서 'incumbent'의 뜻으로 가장 적절한 것은?\nThe incumbent mayor will finish the term in December.",
+      "prompt": "다음 문장에서 'impair'의 뜻으로 가장 적절한 것은?\nThe outage impaired online services.",
       "choices": [
-        "면밀히 조사하다",
-        "~에 도움이 되는",
-        "만장일치의",
-        "현직의"
+        "~에 달려 있는, 조건부의",
+        "내재된, 고유한",
+        "저해하다",
+        "불리한, 부정적인"
+      ],
+      "answer": 2,
+      "explanation": "'impair'는 '저해하다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261109_002"
+    },
+    {
+      "id": "eng_quiz_20261109_003",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'promulgate'의 뜻으로 가장 적절한 것은?\nThe ministry promulgated the revised regulation.",
+      "choices": [
+        "공포하다",
+        "신뢰할 수 있는",
+        "눈에 잘 띄는",
+        "경험적, 실증적인"
+      ],
+      "answer": 0,
+      "explanation": "'promulgate'는 '공포하다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261109_003"
+    },
+    {
+      "id": "eng_quiz_20261109_004",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'negligible'의 뜻으로 가장 적절한 것은?\nThe change had a negligible effect on the total budget.",
+      "choices": [
+        "~에 달려 있는, 조건부의",
+        "무시해도 될 정도의",
+        "필수적인",
+        "연속적인"
+      ],
+      "answer": 1,
+      "explanation": "'negligible'는 '무시해도 될 정도의'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261109_004"
+    },
+    {
+      "id": "eng_quiz_20261109_005",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'inherent'의 뜻으로 가장 적절한 것은?\nEvery forecasting method has inherent limitations.",
+      "choices": [
+        "엄격한, 엄중한",
+        "내재된, 고유한",
+        "모호한",
+        "활동하지 않는, 잠재한"
+      ],
+      "answer": 1,
+      "explanation": "'inherent'는 '내재된, 고유한'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261109_005"
+    },
+    {
+      "id": "eng_quiz_20261109_006",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'ambiguous'의 뜻으로 가장 적절한 것은?\nThe ambiguous wording caused different interpretations.",
+      "choices": [
+        "저해하다",
+        "실현 가능한",
+        "모호한",
+        "필수적인"
+      ],
+      "answer": 2,
+      "explanation": "'ambiguous'는 '모호한'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261109_006"
+    },
+    {
+      "id": "eng_quiz_20261109_007",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'convene'의 뜻으로 가장 적절한 것은?\nThe chairperson convened an emergency meeting.",
+      "choices": [
+        "신뢰할 수 있는",
+        "활동하지 않는, 잠재한",
+        "실현 가능한",
+        "소집하다"
       ],
       "answer": 3,
-      "explanation": "'incumbent'는 '현직의'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261108_003"
+      "explanation": "'convene'는 '소집하다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261109_007"
     },
     {
-      "id": "eng_quiz_20261108_004",
+      "id": "eng_quiz_20261109_008",
       "type": "vocabulary",
-      "prompt": "다음 문장에서 'obsolete'의 뜻으로 가장 적절한 것은?\nThe office replaced its obsolete software.",
+      "prompt": "다음 문장에서 'viable'의 뜻으로 가장 적절한 것은?\nThe revised plan provides a viable alternative.",
       "choices": [
-        "준수하다",
-        "그럴듯한, 타당해 보이는",
-        "완화하다",
-        "구식의"
+        "재량",
+        "불리한, 부정적인",
+        "무시해도 될 정도의",
+        "실현 가능한"
       ],
       "answer": 3,
-      "explanation": "'obsolete'는 '구식의'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261108_004"
+      "explanation": "'viable'는 '실현 가능한'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261109_008"
     },
     {
-      "id": "eng_quiz_20261108_005",
+      "id": "eng_quiz_20261109_009",
       "type": "vocabulary",
-      "prompt": "다음 문장에서 'alleviate'의 뜻으로 가장 적절한 것은?\nThe measure may alleviate traffic congestion.",
+      "prompt": "다음 문장에서 'contingent'의 뜻으로 가장 적절한 것은?\nFinal approval is contingent on the completion of a safety review.",
       "choices": [
-        "그럴듯한, 타당해 보이는",
-        "완화하다",
-        "면밀히 조사하다",
-        "준수하다"
+        "눈에 잘 띄는",
+        "~에 달려 있는, 조건부의",
+        "소집하다",
+        "활동하지 않는, 잠재한"
       ],
       "answer": 1,
-      "explanation": "'alleviate'는 '완화하다'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261108_005"
+      "explanation": "'contingent'는 '~에 달려 있는, 조건부의'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261109_009"
     },
     {
-      "id": "eng_quiz_20261108_006",
+      "id": "eng_quiz_20261109_010",
       "type": "vocabulary",
-      "prompt": "다음 문장에서 'adhere'의 뜻으로 가장 적절한 것은?\nOfficials must adhere to the established safety rules.",
+      "prompt": "다음 문장에서 'dormant'의 뜻으로 가장 적절한 것은?\nThe account remained dormant until the investigation reopened.",
       "choices": [
-        "준수하다",
-        "만장일치의",
-        "이후의",
-        "구식의"
-      ],
-      "answer": 0,
-      "explanation": "'adhere'는 '준수하다'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261108_006"
-    },
-    {
-      "id": "eng_quiz_20261108_007",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'reimburse'의 뜻으로 가장 적절한 것은?\nThe agency will reimburse approved travel expenses.",
-      "choices": [
-        "악화시키다",
-        "상환하다",
-        "그럴듯한, 타당해 보이는",
-        "만장일치의"
-      ],
-      "answer": 1,
-      "explanation": "'reimburse'는 '상환하다'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261108_007"
-    },
-    {
-      "id": "eng_quiz_20261108_008",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'inadvertently'의 뜻으로 가장 적절한 것은?\nThe notice was inadvertently sent twice.",
-      "choices": [
-        "현직의",
-        "의도치 않게",
-        "불일치, 차이",
-        "예비의, 초기의"
-      ],
-      "answer": 1,
-      "explanation": "'inadvertently'는 '의도치 않게'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261108_008"
-    },
-    {
-      "id": "eng_quiz_20261108_009",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'levy'의 뜻으로 가장 적절한 것은?\nThe city may levy an additional fee.",
-      "choices": [
-        "완화하다",
-        "상환하다",
-        "부과하다",
-        "보수"
-      ],
-      "answer": 2,
-      "explanation": "'levy'는 '부과하다'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261108_009"
-    },
-    {
-      "id": "eng_quiz_20261108_010",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'exacerbate'의 뜻으로 가장 적절한 것은?\nPoor communication can exacerbate public confusion.",
-      "choices": [
-        "악화시키다",
-        "의도치 않게",
-        "기밀의",
-        "연기하다"
-      ],
-      "answer": 0,
-      "explanation": "'exacerbate'는 '악화시키다'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261108_010"
-    },
-    {
-      "id": "eng_quiz_20261108_011",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'discrepancy'의 뜻으로 가장 적절한 것은?\nAuditors found a discrepancy between the receipt and the payment record.",
-      "choices": [
-        "불일치, 차이",
-        "완화하다",
-        "이후의",
-        "부과하다"
-      ],
-      "answer": 0,
-      "explanation": "'discrepancy'는 '불일치, 차이'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261108_011"
-    },
-    {
-      "id": "eng_quiz_20261108_012",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'defer'의 뜻으로 가장 적절한 것은?\nThe committee chose to defer the decision until more evidence was available.",
-      "choices": [
-        "상환하다",
-        "~에 도움이 되는",
-        "연기하다",
-        "불일치, 차이"
-      ],
-      "answer": 2,
-      "explanation": "'defer'는 '연기하다'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261108_012"
-    },
-    {
-      "id": "eng_quiz_20261108_013",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'remuneration'의 뜻으로 가장 적절한 것은?\nThe post offers remuneration based on experience.",
-      "choices": [
-        "현직의",
-        "보수",
-        "만장일치의",
-        "부과하다"
-      ],
-      "answer": 1,
-      "explanation": "'remuneration'는 '보수'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261108_013"
-    },
-    {
-      "id": "eng_quiz_20261108_014",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'hamper'의 뜻으로 가장 적절한 것은?\nUnclear instructions can hamper an effective response.",
-      "choices": [
-        "방해하다",
-        "현직의",
-        "그럴듯한, 타당해 보이는",
-        "의도치 않게"
-      ],
-      "answer": 0,
-      "explanation": "'hamper'는 '방해하다'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261108_014"
-    },
-    {
-      "id": "eng_quiz_20261108_015",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'plausible'의 뜻으로 가장 적절한 것은?\nThe investigator considered several plausible explanations for the discrepancy.",
-      "choices": [
-        "악화시키다",
-        "준수하다",
-        "그럴듯한, 타당해 보이는",
-        "이후의"
-      ],
-      "answer": 2,
-      "explanation": "'plausible'는 '그럴듯한, 타당해 보이는'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261108_015"
-    },
-    {
-      "id": "eng_quiz_20261108_016",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'subsequent'의 뜻으로 가장 적절한 것은?\nSubsequent studies produced similar results.",
-      "choices": [
-        "악화시키다",
-        "방해하다",
-        "보수",
-        "이후의"
+        "수반되는, 동시에 일어나는",
+        "불리한, 부정적인",
+        "모호한",
+        "활동하지 않는, 잠재한"
       ],
       "answer": 3,
-      "explanation": "'subsequent'는 '이후의'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261108_016"
+      "explanation": "'dormant'는 '활동하지 않는, 잠재한'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261109_010"
     },
     {
-      "id": "eng_quiz_20261108_017",
+      "id": "eng_quiz_20261109_011",
       "type": "vocabulary",
-      "prompt": "다음 문장에서 'scrutinize'의 뜻으로 가장 적절한 것은?\nAuditors scrutinized the records for unusual transactions.",
+      "prompt": "다음 문장에서 'indispensable'의 뜻으로 가장 적절한 것은?\nPublic trust is indispensable to effective administration.",
       "choices": [
-        "방해하다",
-        "면밀히 조사하다",
-        "이후의",
-        "기밀의"
+        "밀접한 관련이 있는",
+        "필수적인",
+        "경험적, 실증적인",
+        "저해하다"
       ],
       "answer": 1,
-      "explanation": "'scrutinize'는 '면밀히 조사하다'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261108_017"
+      "explanation": "'indispensable'는 '필수적인'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261109_011"
     },
     {
-      "id": "eng_quiz_20261108_018",
+      "id": "eng_quiz_20261109_012",
       "type": "vocabulary",
-      "prompt": "다음 문장에서 'conducive'의 뜻으로 가장 적절한 것은?\nQuiet workspaces are conducive to careful analysis.",
+      "prompt": "다음 문장에서 'stringent'의 뜻으로 가장 적절한 것은?\nThe agency introduced stringent controls to protect personal data.",
       "choices": [
-        "불일치, 차이",
-        "면밀히 조사하다",
-        "~에 도움이 되는",
-        "예비의, 초기의"
-      ],
-      "answer": 2,
-      "explanation": "'conducive'는 '~에 도움이 되는'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261108_018"
-    },
-    {
-      "id": "eng_quiz_20261108_019",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'provisional'의 뜻으로 가장 적절한 것은?\nA provisional schedule was announced.",
-      "choices": [
-        "상환하다",
-        "부과하다",
-        "잠정적인",
-        "준수하다"
-      ],
-      "answer": 2,
-      "explanation": "'provisional'는 '잠정적인'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261108_019"
-    },
-    {
-      "id": "eng_quiz_20261108_020",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'unanimous'의 뜻으로 가장 적절한 것은?\nThe committee reached a unanimous decision.",
-      "choices": [
-        "현직의",
-        "보수",
-        "만장일치의",
-        "준수하다"
-      ],
-      "answer": 2,
-      "explanation": "'unanimous'는 '만장일치의'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261108_020"
-    },
-    {
-      "id": "eng_quiz_20261108_021",
-      "type": "sentence",
-      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nThe fee will be waived if you meet the eligibility requirements.",
-      "choices": [
-        "방문객은 보안 데스크에 사진이 있는 신분증을 맡겨야 합니다.",
-        "자격 요건을 충족하면 수수료가 면제됩니다.",
-        "유지보수 작업으로 서비스가 잠시 중단될 수 있습니다.",
-        "제가 열 수 있는 형식으로 첨부파일을 다시 보내 주시겠어요?"
-      ],
-      "answer": 1,
-      "explanation": "자격 요건을 충족하면 수수료가 면제됩니다.",
-      "relatedItemId": "eng_sentence_20261108_001"
-    },
-    {
-      "id": "eng_quiz_20261108_022",
-      "type": "sentence",
-      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nThe meeting room has been moved to the third floor.",
-      "choices": [
-        "예약 시 통역이 필요하면 알려 주세요.",
-        "회의실이 3층으로 변경되었습니다.",
-        "방문객은 보안 데스크에 사진이 있는 신분증을 맡겨야 합니다.",
-        "제가 열 수 있는 형식으로 첨부파일을 다시 보내 주시겠어요?"
-      ],
-      "answer": 1,
-      "explanation": "회의실이 3층으로 변경되었습니다.",
-      "relatedItemId": "eng_sentence_20261108_002"
-    },
-    {
-      "id": "eng_quiz_20261108_023",
-      "type": "sentence",
-      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nI would like to confirm the deadline for submitting additional evidence.",
-      "choices": [
-        "유지보수 작업으로 서비스가 잠시 중단될 수 있습니다.",
-        "예약 시 통역이 필요하면 알려 주세요.",
-        "추가 증거 제출 기한을 확인하고 싶습니다.",
-        "안내 데스크는 오늘 저녁 6시까지 운영됩니다."
-      ],
-      "answer": 2,
-      "explanation": "추가 증거 제출 기한을 확인하고 싶습니다.",
-      "relatedItemId": "eng_sentence_20261108_003"
-    },
-    {
-      "id": "eng_quiz_20261108_024",
-      "type": "sentence",
-      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nThe help desk will remain open until six o’clock this evening.",
-      "choices": [
-        "자격 요건을 충족하면 수수료가 면제됩니다.",
-        "안내 데스크는 오늘 저녁 6시까지 운영됩니다.",
-        "신청서가 접수되었으며 현재 검토 중입니다.",
-        "요청을 제출하기 전에 문서 번호를 확인해 주세요."
-      ],
-      "answer": 1,
-      "explanation": "안내 데스크는 오늘 저녁 6시까지 운영됩니다.",
-      "relatedItemId": "eng_sentence_20261108_004"
-    },
-    {
-      "id": "eng_quiz_20261108_025",
-      "type": "sentence",
-      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nCould you resend the attachment in a format that I can open?",
-      "choices": [
-        "요청을 제출하기 전에 문서 번호를 확인해 주세요.",
-        "추가 증거 제출 기한을 확인하고 싶습니다.",
-        "방문객은 보안 데스크에 사진이 있는 신분증을 맡겨야 합니다.",
-        "제가 열 수 있는 형식으로 첨부파일을 다시 보내 주시겠어요?"
-      ],
-      "answer": 3,
-      "explanation": "제가 열 수 있는 형식으로 첨부파일을 다시 보내 주시겠어요?",
-      "relatedItemId": "eng_sentence_20261108_005"
-    },
-    {
-      "id": "eng_quiz_20261108_026",
-      "type": "sentence",
-      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nYour application has been received and is now under review.",
-      "choices": [
-        "예약 시 통역이 필요하면 알려 주세요.",
-        "신청서가 접수되었으며 현재 검토 중입니다.",
-        "안내 데스크는 오늘 저녁 6시까지 운영됩니다.",
-        "유지보수 작업으로 서비스가 잠시 중단될 수 있습니다."
-      ],
-      "answer": 1,
-      "explanation": "신청서가 접수되었으며 현재 검토 중입니다.",
-      "relatedItemId": "eng_sentence_20261108_006"
-    },
-    {
-      "id": "eng_quiz_20261108_027",
-      "type": "sentence",
-      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nPlease let us know if you need an interpreter for the appointment.",
-      "choices": [
-        "회의실이 3층으로 변경되었습니다.",
-        "제가 열 수 있는 형식으로 첨부파일을 다시 보내 주시겠어요?",
-        "예약 시 통역이 필요하면 알려 주세요.",
-        "유지보수 작업으로 서비스가 잠시 중단될 수 있습니다."
-      ],
-      "answer": 2,
-      "explanation": "예약 시 통역이 필요하면 알려 주세요.",
-      "relatedItemId": "eng_sentence_20261108_007"
-    },
-    {
-      "id": "eng_quiz_20261108_028",
-      "type": "sentence",
-      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nThe maintenance work may cause brief interruptions to the service.",
-      "choices": [
-        "유지보수 작업으로 서비스가 잠시 중단될 수 있습니다.",
-        "안내 데스크는 오늘 저녁 6시까지 운영됩니다.",
-        "자격 요건을 충족하면 수수료가 면제됩니다.",
-        "요청을 제출하기 전에 문서 번호를 확인해 주세요."
+        "엄격한, 엄중한",
+        "내재된, 고유한",
+        "재량",
+        "활동하지 않는, 잠재한"
       ],
       "answer": 0,
-      "explanation": "유지보수 작업으로 서비스가 잠시 중단될 수 있습니다.",
-      "relatedItemId": "eng_sentence_20261108_008"
+      "explanation": "'stringent'는 '엄격한, 엄중한'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261109_012"
     },
     {
-      "id": "eng_quiz_20261108_029",
-      "type": "sentence",
-      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nPlease verify the document number before submitting the request.",
+      "id": "eng_quiz_20261109_013",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'discretion'의 뜻으로 가장 적절한 것은?\nManagers were given discretion to adjust work schedules.",
       "choices": [
-        "신청서가 접수되었으며 현재 검토 중입니다.",
-        "회의실이 3층으로 변경되었습니다.",
-        "요청을 제출하기 전에 문서 번호를 확인해 주세요.",
-        "방문객은 보안 데스크에 사진이 있는 신분증을 맡겨야 합니다."
+        "무시해도 될 정도의",
+        "저해하다",
+        "재량",
+        "실현 가능한"
       ],
       "answer": 2,
-      "explanation": "요청을 제출하기 전에 문서 번호를 확인해 주세요.",
-      "relatedItemId": "eng_sentence_20261108_009"
+      "explanation": "'discretion'는 '재량'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261109_013"
     },
     {
-      "id": "eng_quiz_20261108_030",
-      "type": "sentence",
-      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nVisitors must leave a photo ID at the security desk.",
+      "id": "eng_quiz_20261109_014",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'empirical'의 뜻으로 가장 적절한 것은?\nThe claim should be supported by empirical evidence.",
       "choices": [
-        "추가 증거 제출 기한을 확인하고 싶습니다.",
-        "안내 데스크는 오늘 저녁 6시까지 운영됩니다.",
-        "방문객은 보안 데스크에 사진이 있는 신분증을 맡겨야 합니다.",
-        "회의실이 3층으로 변경되었습니다."
+        "경험적, 실증적인",
+        "밀접한 관련이 있는",
+        "신뢰할 수 있는",
+        "~에 달려 있는, 조건부의"
+      ],
+      "answer": 0,
+      "explanation": "'empirical'는 '경험적, 실증적인'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261109_014"
+    },
+    {
+      "id": "eng_quiz_20261109_015",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'concomitant'의 뜻으로 가장 적절한 것은?\nRapid growth brought a concomitant increase in housing demand.",
+      "choices": [
+        "~에 달려 있는, 조건부의",
+        "저해하다",
+        "바로잡다, 시정하다",
+        "수반되는, 동시에 일어나는"
+      ],
+      "answer": 3,
+      "explanation": "'concomitant'는 '수반되는, 동시에 일어나는'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261109_015"
+    },
+    {
+      "id": "eng_quiz_20261109_016",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'adverse'의 뜻으로 가장 적절한 것은?\nThe new measure had an adverse effect on small businesses.",
+      "choices": [
+        "눈에 잘 띄는",
+        "무시해도 될 정도의",
+        "내재된, 고유한",
+        "불리한, 부정적인"
+      ],
+      "answer": 3,
+      "explanation": "'adverse'는 '불리한, 부정적인'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261109_016"
+    },
+    {
+      "id": "eng_quiz_20261109_017",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'conspicuous'의 뜻으로 가장 적절한 것은?\nEmergency exits should be marked with conspicuous signs.",
+      "choices": [
+        "내재된, 고유한",
+        "실현 가능한",
+        "눈에 잘 띄는",
+        "모호한"
       ],
       "answer": 2,
-      "explanation": "방문객은 보안 데스크에 사진이 있는 신분증을 맡겨야 합니다.",
-      "relatedItemId": "eng_sentence_20261108_010"
+      "explanation": "'conspicuous'는 '눈에 잘 띄는'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261109_017"
+    },
+    {
+      "id": "eng_quiz_20261109_018",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'germane'의 뜻으로 가장 적절한 것은?\nPlease limit your comments to issues germane to the proposal.",
+      "choices": [
+        "모호한",
+        "무시해도 될 정도의",
+        "밀접한 관련이 있는",
+        "바로잡다, 시정하다"
+      ],
+      "answer": 2,
+      "explanation": "'germane'는 '밀접한 관련이 있는'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261109_018"
+    },
+    {
+      "id": "eng_quiz_20261109_019",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'credible'의 뜻으로 가장 적절한 것은?\nA credible estimate must be supported by transparent data.",
+      "choices": [
+        "신뢰할 수 있는",
+        "엄격한, 엄중한",
+        "눈에 잘 띄는",
+        "경험적, 실증적인"
+      ],
+      "answer": 0,
+      "explanation": "'credible'는 '신뢰할 수 있는'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261109_019"
+    },
+    {
+      "id": "eng_quiz_20261109_020",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'rectify'의 뜻으로 가장 적절한 것은?\nThe agency acted quickly to rectify the reporting error.",
+      "choices": [
+        "불리한, 부정적인",
+        "소집하다",
+        "재량",
+        "바로잡다, 시정하다"
+      ],
+      "answer": 3,
+      "explanation": "'rectify'는 '바로잡다, 시정하다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261109_020"
+    },
+    {
+      "id": "eng_quiz_20261109_021",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nKeep the confirmation message until the refund reaches your account.",
+      "choices": [
+        "문서를 공유하기 전에 개인정보를 삭제해 주세요.",
+        "예약한 방문객은 예정 시각 10분 전에 도착해야 합니다.",
+        "환불금이 계좌에 들어올 때까지 확인 메시지를 보관하세요.",
+        "영수증에 인쇄된 번호로 신청 진행 상황을 조회할 수 있습니다."
+      ],
+      "answer": 2,
+      "explanation": "환불금이 계좌에 들어올 때까지 확인 메시지를 보관하세요.",
+      "relatedItemId": "eng_sentence_20261109_001"
+    },
+    {
+      "id": "eng_quiz_20261109_022",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nA replacement card is issued only after the lost card is suspended.",
+      "choices": [
+        "분실 카드를 정지한 뒤에만 재발급 카드가 발급됩니다.",
+        "공청회가 다음 주 수요일로 연기되었습니다.",
+        "첨부 파일이 제대로 열리는지 확인해 주시겠어요?",
+        "문서를 공유하기 전에 개인정보를 삭제해 주세요."
+      ],
+      "answer": 0,
+      "explanation": "분실 카드를 정지한 뒤에만 재발급 카드가 발급됩니다.",
+      "relatedItemId": "eng_sentence_20261109_002"
+    },
+    {
+      "id": "eng_quiz_20261109_023",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nWould you check whether the attachment opens correctly?",
+      "choices": [
+        "수정된 일정은 안전 검토를 위한 충분한 시간을 확보합니다.",
+        "분실 카드를 정지한 뒤에만 재발급 카드가 발급됩니다.",
+        "예약한 방문객은 예정 시각 10분 전에 도착해야 합니다.",
+        "첨부 파일이 제대로 열리는지 확인해 주시겠어요?"
+      ],
+      "answer": 3,
+      "explanation": "첨부 파일이 제대로 열리는지 확인해 주시겠어요?",
+      "relatedItemId": "eng_sentence_20261109_003"
+    },
+    {
+      "id": "eng_quiz_20261109_024",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nResidents may submit comments either online or by regular mail.",
+      "choices": [
+        "예약한 방문객은 예정 시각 10분 전에 도착해야 합니다.",
+        "공청회가 다음 주 수요일로 연기되었습니다.",
+        "수정된 일정은 안전 검토를 위한 충분한 시간을 확보합니다.",
+        "주민들은 온라인이나 일반 우편으로 의견을 제출할 수 있습니다."
+      ],
+      "answer": 3,
+      "explanation": "주민들은 온라인이나 일반 우편으로 의견을 제출할 수 있습니다.",
+      "relatedItemId": "eng_sentence_20261109_004"
+    },
+    {
+      "id": "eng_quiz_20261109_025",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nVisitors with appointments should arrive ten minutes before their scheduled time.",
+      "choices": [
+        "유지보수팀은 건물이 문을 닫은 뒤 경보 장치를 점검할 것입니다.",
+        "예약한 방문객은 예정 시각 10분 전에 도착해야 합니다.",
+        "공청회가 다음 주 수요일로 연기되었습니다.",
+        "첨부 파일이 제대로 열리는지 확인해 주시겠어요?"
+      ],
+      "answer": 1,
+      "explanation": "예약한 방문객은 예정 시각 10분 전에 도착해야 합니다.",
+      "relatedItemId": "eng_sentence_20261109_005"
+    },
+    {
+      "id": "eng_quiz_20261109_026",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nPlease remove personal information before sharing the document.",
+      "choices": [
+        "예약한 방문객은 예정 시각 10분 전에 도착해야 합니다.",
+        "공청회가 다음 주 수요일로 연기되었습니다.",
+        "문서를 공유하기 전에 개인정보를 삭제해 주세요.",
+        "주민들은 온라인이나 일반 우편으로 의견을 제출할 수 있습니다."
+      ],
+      "answer": 2,
+      "explanation": "문서를 공유하기 전에 개인정보를 삭제해 주세요.",
+      "relatedItemId": "eng_sentence_20261109_006"
+    },
+    {
+      "id": "eng_quiz_20261109_027",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nThe revised schedule leaves enough time for a safety review.",
+      "choices": [
+        "영수증에 인쇄된 번호로 신청 진행 상황을 조회할 수 있습니다.",
+        "문서를 공유하기 전에 개인정보를 삭제해 주세요.",
+        "공청회가 다음 주 수요일로 연기되었습니다.",
+        "수정된 일정은 안전 검토를 위한 충분한 시간을 확보합니다."
+      ],
+      "answer": 3,
+      "explanation": "수정된 일정은 안전 검토를 위한 충분한 시간을 확보합니다.",
+      "relatedItemId": "eng_sentence_20261109_007"
+    },
+    {
+      "id": "eng_quiz_20261109_028",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nThe maintenance team will inspect the alarm after the building closes.",
+      "choices": [
+        "주민들은 온라인이나 일반 우편으로 의견을 제출할 수 있습니다.",
+        "유지보수팀은 건물이 문을 닫은 뒤 경보 장치를 점검할 것입니다.",
+        "분실 카드를 정지한 뒤에만 재발급 카드가 발급됩니다.",
+        "환불금이 계좌에 들어올 때까지 확인 메시지를 보관하세요."
+      ],
+      "answer": 1,
+      "explanation": "유지보수팀은 건물이 문을 닫은 뒤 경보 장치를 점검할 것입니다.",
+      "relatedItemId": "eng_sentence_20261109_008"
+    },
+    {
+      "id": "eng_quiz_20261109_029",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nThe public hearing has been postponed until the following Wednesday.",
+      "choices": [
+        "공청회가 다음 주 수요일로 연기되었습니다.",
+        "수정된 일정은 안전 검토를 위한 충분한 시간을 확보합니다.",
+        "문서를 공유하기 전에 개인정보를 삭제해 주세요.",
+        "유지보수팀은 건물이 문을 닫은 뒤 경보 장치를 점검할 것입니다."
+      ],
+      "answer": 0,
+      "explanation": "공청회가 다음 주 수요일로 연기되었습니다.",
+      "relatedItemId": "eng_sentence_20261109_009"
+    },
+    {
+      "id": "eng_quiz_20261109_030",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nYou can track the application with the number printed on your receipt.",
+      "choices": [
+        "영수증에 인쇄된 번호로 신청 진행 상황을 조회할 수 있습니다.",
+        "분실 카드를 정지한 뒤에만 재발급 카드가 발급됩니다.",
+        "공청회가 다음 주 수요일로 연기되었습니다.",
+        "수정된 일정은 안전 검토를 위한 충분한 시간을 확보합니다."
+      ],
+      "answer": 0,
+      "explanation": "영수증에 인쇄된 번호로 신청 진행 상황을 조회할 수 있습니다.",
+      "relatedItemId": "eng_sentence_20261109_010"
     }
   ]
 }
