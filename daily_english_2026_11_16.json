@@ -1,0 +1,776 @@
+{
+  "schemaVersion": 1,
+  "packId": "daily_english_2026_11_16",
+  "date": "2026-11-16",
+  "title": "2026-11-16 취약 영어 자동 학습·퀴즈팩",
+  "description": "검증 어휘 20개, 문장 10개, 연계 퀴즈 30개 · mode=verified_bank_spaced_review",
+  "generationMode": "verified_bank_spaced_review",
+  "newVocabularyCount": 0,
+  "newSentenceCount": 0,
+  "vocabulary": [
+    {
+      "id": "eng_vocab_20261116_001",
+      "word": "start",
+      "meaning": "시작하다",
+      "partOfSpeech": "verb",
+      "pronunciationText": "start",
+      "example": "Students should start the meaning of the word through a simple example.",
+      "translation": "학생들은 간단한 예문을 통해 그 단어의 의미를 시작하다.",
+      "memoryTip": "start = 시작하다; 뜻→발음→짧은 예문 순서로 3회 반복",
+      "priority": "F",
+      "level": "중학교 필수",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)",
+      "sourceType": "foundation_curriculum_adapted"
+    },
+    {
+      "id": "eng_vocab_20261116_002",
+      "word": "wonder",
+      "meaning": "궁금해하다",
+      "partOfSpeech": "verb",
+      "pronunciationText": "wonder",
+      "example": "Students should wonder the meaning of the word through a simple example.",
+      "translation": "학생들은 간단한 예문을 통해 그 단어의 의미를 궁금해하다.",
+      "memoryTip": "wonder = 궁금해하다; 뜻→발음→짧은 예문 순서로 3회 반복",
+      "priority": "F",
+      "level": "중학교 필수",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)",
+      "sourceType": "foundation_curriculum_adapted"
+    },
+    {
+      "id": "eng_vocab_20261116_003",
+      "word": "help",
+      "meaning": "돕다",
+      "partOfSpeech": "verb",
+      "pronunciationText": "help",
+      "example": "Students should help the meaning of the word through a simple example.",
+      "translation": "학생들은 간단한 예문을 통해 그 단어의 의미를 돕다.",
+      "memoryTip": "help = 돕다; 뜻→발음→짧은 예문 순서로 3회 반복",
+      "priority": "F",
+      "level": "중학교 필수",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)",
+      "sourceType": "foundation_curriculum_adapted"
+    },
+    {
+      "id": "eng_vocab_20261116_004",
+      "word": "gradual",
+      "meaning": "점진적인",
+      "partOfSpeech": "adjective",
+      "pronunciationText": "gradual",
+      "example": "The committee considered the measure gradual under the current circumstances.",
+      "translation": "위원회는 현재 상황에서 그 조치가 점진적인고 판단했다.",
+      "memoryTip": "gradual = 점진적인; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
+      "priority": "C",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261116_005",
+      "word": "register",
+      "meaning": "등록하다",
+      "partOfSpeech": "verb",
+      "pronunciationText": "register",
+      "example": "The agency decided to register the policy after reviewing the available evidence.",
+      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 등록하다기로 결정했다.",
+      "memoryTip": "register = 등록하다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
+      "priority": "B",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261116_006",
+      "word": "classify",
+      "meaning": "분류하다",
+      "partOfSpeech": "verb",
+      "pronunciationText": "classify",
+      "example": "The agency decided to classify the policy after reviewing the available evidence.",
+      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 분류하다기로 결정했다.",
+      "memoryTip": "classify = 분류하다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
+      "priority": "A",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261116_007",
+      "word": "return",
+      "meaning": "돌아오다",
+      "partOfSpeech": "verb",
+      "pronunciationText": "return",
+      "example": "Students should return the meaning of the word through a simple example.",
+      "translation": "학생들은 간단한 예문을 통해 그 단어의 의미를 돌아오다.",
+      "memoryTip": "return = 돌아오다; 뜻→발음→짧은 예문 순서로 3회 반복",
+      "priority": "F",
+      "level": "중학교 필수",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)",
+      "sourceType": "foundation_curriculum_adapted"
+    },
+    {
+      "id": "eng_vocab_20261116_008",
+      "word": "claim",
+      "meaning": "주장하다",
+      "partOfSpeech": "verb",
+      "pronunciationText": "claim",
+      "example": "The agency decided to claim the policy after reviewing the available evidence.",
+      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 주장하다기로 결정했다.",
+      "memoryTip": "claim = 주장하다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
+      "priority": "A",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261116_009",
+      "word": "engage",
+      "meaning": "참여시키다",
+      "partOfSpeech": "verb",
+      "pronunciationText": "engage",
+      "example": "The agency decided to engage the policy after reviewing the available evidence.",
+      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 참여시키다기로 결정했다.",
+      "memoryTip": "engage = 참여시키다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
+      "priority": "B",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261116_010",
+      "word": "annual",
+      "meaning": "연간의",
+      "partOfSpeech": "adjective",
+      "pronunciationText": "annual",
+      "example": "The passage suggests that we should consider the annual aspect of the issue.",
+      "translation": "그 글은 우리가 그 문제의 연간의 측면을 고려해야 한다고 시사한다.",
+      "memoryTip": "annual = 연간의; 뜻→발음→짧은 예문 순서로 3회 반복",
+      "priority": "F",
+      "level": "고등·수능 필수",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)",
+      "sourceType": "foundation_curriculum_adapted"
+    },
+    {
+      "id": "eng_vocab_20261116_011",
+      "word": "because",
+      "meaning": "~이기 때문에",
+      "partOfSpeech": "connector/adverb",
+      "pronunciationText": "because",
+      "example": "Students should because the meaning of the word through a simple example.",
+      "translation": "학생들은 간단한 예문을 통해 그 단어의 의미를 ~이기 때문에.",
+      "memoryTip": "because = ~이기 때문에; 뜻→발음→짧은 예문 순서로 3회 반복",
+      "priority": "F",
+      "level": "중학교 필수",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)",
+      "sourceType": "foundation_curriculum_adapted"
+    },
+    {
+      "id": "eng_vocab_20261116_012",
+      "word": "recover",
+      "meaning": "회복하다",
+      "partOfSpeech": "verb",
+      "pronunciationText": "recover",
+      "example": "The agency decided to recover the policy after reviewing the available evidence.",
+      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 회복하다기로 결정했다.",
+      "memoryTip": "recover = 회복하다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
+      "priority": "A",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261116_013",
+      "word": "permanent",
+      "meaning": "영구적인",
+      "partOfSpeech": "adjective",
+      "pronunciationText": "permanent",
+      "example": "The committee considered the measure permanent under the current circumstances.",
+      "translation": "위원회는 현재 상황에서 그 조치가 영구적인고 판단했다.",
+      "memoryTip": "permanent = 영구적인; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
+      "priority": "C",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261116_014",
+      "word": "listen",
+      "meaning": "듣다",
+      "partOfSpeech": "verb",
+      "pronunciationText": "listen",
+      "example": "Students should listen the meaning of the word through a simple example.",
+      "translation": "학생들은 간단한 예문을 통해 그 단어의 의미를 듣다.",
+      "memoryTip": "listen = 듣다; 뜻→발음→짧은 예문 순서로 3회 반복",
+      "priority": "F",
+      "level": "중학교 필수",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)",
+      "sourceType": "foundation_curriculum_adapted"
+    },
+    {
+      "id": "eng_vocab_20261116_015",
+      "word": "audit",
+      "meaning": "감사하다",
+      "partOfSpeech": "verb",
+      "pronunciationText": "audit",
+      "example": "The agency decided to audit the policy after reviewing the available evidence.",
+      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 감사하다기로 결정했다.",
+      "memoryTip": "audit = 감사하다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
+      "priority": "B",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261116_016",
+      "word": "relationship",
+      "meaning": "관계",
+      "partOfSpeech": "noun",
+      "pronunciationText": "relationship",
+      "example": "Students should relationship the meaning of the word through a simple example.",
+      "translation": "학생들은 간단한 예문을 통해 그 단어의 의미를 관계.",
+      "memoryTip": "relationship = 관계; 뜻→발음→짧은 예문 순서로 3회 반복",
+      "priority": "F",
+      "level": "중학교 필수",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)",
+      "sourceType": "foundation_curriculum_adapted"
+    },
+    {
+      "id": "eng_vocab_20261116_017",
+      "word": "substantial",
+      "meaning": "상당한",
+      "partOfSpeech": "adjective",
+      "pronunciationText": "substantial",
+      "example": "The committee considered the measure substantial under the current circumstances.",
+      "translation": "위원회는 현재 상황에서 그 조치가 상당한고 판단했다.",
+      "memoryTip": "substantial = 상당한; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
+      "priority": "C",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261116_018",
+      "word": "feature",
+      "meaning": "특징",
+      "partOfSpeech": "noun",
+      "pronunciationText": "feature",
+      "example": "The passage suggests that we should consider the feature aspect of the issue.",
+      "translation": "그 글은 우리가 그 문제의 특징 측면을 고려해야 한다고 시사한다.",
+      "memoryTip": "feature = 특징; 뜻→발음→짧은 예문 순서로 3회 반복",
+      "priority": "F",
+      "level": "고등·수능 필수",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)",
+      "sourceType": "foundation_curriculum_adapted"
+    },
+    {
+      "id": "eng_vocab_20261116_019",
+      "word": "resilient",
+      "meaning": "회복력 있는",
+      "partOfSpeech": "adjective",
+      "pronunciationText": "resilient",
+      "example": "The committee considered the measure resilient under the current circumstances.",
+      "translation": "위원회는 현재 상황에서 그 조치가 회복력 있는고 판단했다.",
+      "memoryTip": "resilient = 회복력 있는; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
+      "priority": "C",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261116_020",
+      "word": "accompany",
+      "meaning": "동반하다",
+      "partOfSpeech": "verb",
+      "pronunciationText": "accompany",
+      "example": "The passage suggests that we should consider the accompany aspect of the issue.",
+      "translation": "그 글은 우리가 그 문제의 동반하다 측면을 고려해야 한다고 시사한다.",
+      "memoryTip": "accompany = 동반하다; 뜻→발음→짧은 예문 순서로 3회 반복",
+      "priority": "F",
+      "level": "고등·수능 필수",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)",
+      "sourceType": "foundation_curriculum_adapted"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "eng_sentence_20261116_001",
+      "text": "Employees must report lost access cards without delay.",
+      "translation": "직원들은 출입 카드를 분실하면 지체 없이 신고해야 합니다.",
+      "speechText": "Employees must report lost access cards without delay.",
+      "pattern": "실무·생활영어 문장",
+      "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_sentence_20261116_002",
+      "text": "Would you mind forwarding this message to the facilities manager?",
+      "translation": "이 메시지를 시설 관리자에게 전달해 주시겠어요?",
+      "speechText": "Would you mind forwarding this message to the facilities manager?",
+      "pattern": "실무·생활영어 문장",
+      "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_sentence_20261116_003",
+      "text": "Please keep the receipt until your request has been processed.",
+      "translation": "요청이 처리될 때까지 영수증을 보관해 주세요.",
+      "speechText": "Please keep the receipt until your request has been processed.",
+      "pattern": "실무·생활영어 문장",
+      "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_sentence_20261116_004",
+      "text": "The service counter closes thirty minutes earlier on Fridays.",
+      "translation": "민원 창구는 금요일마다 30분 일찍 닫습니다.",
+      "speechText": "The service counter closes thirty minutes earlier on Fridays.",
+      "pattern": "실무·생활영어 문장",
+      "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_sentence_20261116_005",
+      "text": "The refund will be deposited within five business days.",
+      "translation": "환불금은 영업일 기준 5일 이내에 입금됩니다.",
+      "speechText": "The refund will be deposited within five business days.",
+      "pattern": "실무·생활영어 문장",
+      "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_sentence_20261116_006",
+      "text": "We will notify you as soon as the inspection is complete.",
+      "translation": "점검이 완료되는 즉시 알려 드리겠습니다.",
+      "speechText": "We will notify you as soon as the inspection is complete.",
+      "pattern": "실무·생활영어 문장",
+      "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_sentence_20261116_007",
+      "text": "Could you confirm whether my reservation was changed?",
+      "translation": "제 예약이 변경되었는지 확인해 주시겠어요?",
+      "speechText": "Could you confirm whether my reservation was changed?",
+      "pattern": "실무·생활영어 문장",
+      "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_sentence_20261116_008",
+      "text": "Please attach a copy of your identification to the application.",
+      "translation": "신청서에 신분증 사본을 첨부해 주세요.",
+      "speechText": "Please attach a copy of your identification to the application.",
+      "pattern": "실무·생활영어 문장",
+      "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_sentence_20261116_009",
+      "text": "The elevator is unavailable while the safety test is in progress.",
+      "translation": "안전 검사가 진행되는 동안 엘리베이터를 이용할 수 없습니다.",
+      "speechText": "The elevator is unavailable while the safety test is in progress.",
+      "pattern": "실무·생활영어 문장",
+      "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_sentence_20261116_010",
+      "text": "Applicants who miss the deadline must submit a new form.",
+      "translation": "기한을 놓친 신청자는 새 양식을 제출해야 합니다.",
+      "speechText": "Applicants who miss the deadline must submit a new form.",
+      "pattern": "실무·생활영어 문장",
+      "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    }
+  ],
+  "quizQuestions": [
+    {
+      "id": "eng_quiz_20261116_001",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'start'의 뜻으로 가장 적절한 것은?\nStudents should start the meaning of the word through a simple example.",
+      "choices": [
+        "영구적인",
+        "시작하다",
+        "특징",
+        "주장하다"
+      ],
+      "answer": 1,
+      "explanation": "'start'는 '시작하다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261116_001"
+    },
+    {
+      "id": "eng_quiz_20261116_002",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'wonder'의 뜻으로 가장 적절한 것은?\nStudents should wonder the meaning of the word through a simple example.",
+      "choices": [
+        "동반하다",
+        "등록하다",
+        "궁금해하다",
+        "회복력 있는"
+      ],
+      "answer": 2,
+      "explanation": "'wonder'는 '궁금해하다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261116_002"
+    },
+    {
+      "id": "eng_quiz_20261116_003",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'help'의 뜻으로 가장 적절한 것은?\nStudents should help the meaning of the word through a simple example.",
+      "choices": [
+        "상당한",
+        "등록하다",
+        "돕다",
+        "회복하다"
+      ],
+      "answer": 2,
+      "explanation": "'help'는 '돕다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261116_003"
+    },
+    {
+      "id": "eng_quiz_20261116_004",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'gradual'의 뜻으로 가장 적절한 것은?\nThe committee considered the measure gradual under the current circumstances.",
+      "choices": [
+        "영구적인",
+        "궁금해하다",
+        "점진적인",
+        "~이기 때문에"
+      ],
+      "answer": 2,
+      "explanation": "'gradual'는 '점진적인'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261116_004"
+    },
+    {
+      "id": "eng_quiz_20261116_005",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'register'의 뜻으로 가장 적절한 것은?\nThe agency decided to register the policy after reviewing the available evidence.",
+      "choices": [
+        "등록하다",
+        "분류하다",
+        "참여시키다",
+        "연간의"
+      ],
+      "answer": 0,
+      "explanation": "'register'는 '등록하다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261116_005"
+    },
+    {
+      "id": "eng_quiz_20261116_006",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'classify'의 뜻으로 가장 적절한 것은?\nThe agency decided to classify the policy after reviewing the available evidence.",
+      "choices": [
+        "영구적인",
+        "돌아오다",
+        "주장하다",
+        "분류하다"
+      ],
+      "answer": 3,
+      "explanation": "'classify'는 '분류하다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261116_006"
+    },
+    {
+      "id": "eng_quiz_20261116_007",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'return'의 뜻으로 가장 적절한 것은?\nStudents should return the meaning of the word through a simple example.",
+      "choices": [
+        "시작하다",
+        "점진적인",
+        "돌아오다",
+        "등록하다"
+      ],
+      "answer": 2,
+      "explanation": "'return'는 '돌아오다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261116_007"
+    },
+    {
+      "id": "eng_quiz_20261116_008",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'claim'의 뜻으로 가장 적절한 것은?\nThe agency decided to claim the policy after reviewing the available evidence.",
+      "choices": [
+        "시작하다",
+        "~이기 때문에",
+        "주장하다",
+        "돌아오다"
+      ],
+      "answer": 2,
+      "explanation": "'claim'는 '주장하다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261116_008"
+    },
+    {
+      "id": "eng_quiz_20261116_009",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'engage'의 뜻으로 가장 적절한 것은?\nThe agency decided to engage the policy after reviewing the available evidence.",
+      "choices": [
+        "점진적인",
+        "참여시키다",
+        "동반하다",
+        "등록하다"
+      ],
+      "answer": 1,
+      "explanation": "'engage'는 '참여시키다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261116_009"
+    },
+    {
+      "id": "eng_quiz_20261116_010",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'annual'의 뜻으로 가장 적절한 것은?\nThe passage suggests that we should consider the annual aspect of the issue.",
+      "choices": [
+        "회복하다",
+        "연간의",
+        "등록하다",
+        "주장하다"
+      ],
+      "answer": 1,
+      "explanation": "'annual'는 '연간의'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261116_010"
+    },
+    {
+      "id": "eng_quiz_20261116_011",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'because'의 뜻으로 가장 적절한 것은?\nStudents should because the meaning of the word through a simple example.",
+      "choices": [
+        "~이기 때문에",
+        "특징",
+        "관계",
+        "연간의"
+      ],
+      "answer": 0,
+      "explanation": "'because'는 '~이기 때문에'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261116_011"
+    },
+    {
+      "id": "eng_quiz_20261116_012",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'recover'의 뜻으로 가장 적절한 것은?\nThe agency decided to recover the policy after reviewing the available evidence.",
+      "choices": [
+        "등록하다",
+        "회복하다",
+        "특징",
+        "~이기 때문에"
+      ],
+      "answer": 1,
+      "explanation": "'recover'는 '회복하다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261116_012"
+    },
+    {
+      "id": "eng_quiz_20261116_013",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'permanent'의 뜻으로 가장 적절한 것은?\nThe committee considered the measure permanent under the current circumstances.",
+      "choices": [
+        "시작하다",
+        "동반하다",
+        "듣다",
+        "영구적인"
+      ],
+      "answer": 3,
+      "explanation": "'permanent'는 '영구적인'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261116_013"
+    },
+    {
+      "id": "eng_quiz_20261116_014",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'listen'의 뜻으로 가장 적절한 것은?\nStudents should listen the meaning of the word through a simple example.",
+      "choices": [
+        "상당한",
+        "듣다",
+        "연간의",
+        "특징"
+      ],
+      "answer": 1,
+      "explanation": "'listen'는 '듣다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261116_014"
+    },
+    {
+      "id": "eng_quiz_20261116_015",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'audit'의 뜻으로 가장 적절한 것은?\nThe agency decided to audit the policy after reviewing the available evidence.",
+      "choices": [
+        "상당한",
+        "회복하다",
+        "감사하다",
+        "시작하다"
+      ],
+      "answer": 2,
+      "explanation": "'audit'는 '감사하다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261116_015"
+    },
+    {
+      "id": "eng_quiz_20261116_016",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'relationship'의 뜻으로 가장 적절한 것은?\nStudents should relationship the meaning of the word through a simple example.",
+      "choices": [
+        "분류하다",
+        "관계",
+        "상당한",
+        "돌아오다"
+      ],
+      "answer": 1,
+      "explanation": "'relationship'는 '관계'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261116_016"
+    },
+    {
+      "id": "eng_quiz_20261116_017",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'substantial'의 뜻으로 가장 적절한 것은?\nThe committee considered the measure substantial under the current circumstances.",
+      "choices": [
+        "상당한",
+        "~이기 때문에",
+        "특징",
+        "등록하다"
+      ],
+      "answer": 0,
+      "explanation": "'substantial'는 '상당한'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261116_017"
+    },
+    {
+      "id": "eng_quiz_20261116_018",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'feature'의 뜻으로 가장 적절한 것은?\nThe passage suggests that we should consider the feature aspect of the issue.",
+      "choices": [
+        "영구적인",
+        "특징",
+        "궁금해하다",
+        "등록하다"
+      ],
+      "answer": 1,
+      "explanation": "'feature'는 '특징'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261116_018"
+    },
+    {
+      "id": "eng_quiz_20261116_019",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'resilient'의 뜻으로 가장 적절한 것은?\nThe committee considered the measure resilient under the current circumstances.",
+      "choices": [
+        "감사하다",
+        "듣다",
+        "회복력 있는",
+        "시작하다"
+      ],
+      "answer": 2,
+      "explanation": "'resilient'는 '회복력 있는'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261116_019"
+    },
+    {
+      "id": "eng_quiz_20261116_020",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'accompany'의 뜻으로 가장 적절한 것은?\nThe passage suggests that we should consider the accompany aspect of the issue.",
+      "choices": [
+        "관계",
+        "영구적인",
+        "특징",
+        "동반하다"
+      ],
+      "answer": 3,
+      "explanation": "'accompany'는 '동반하다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261116_020"
+    },
+    {
+      "id": "eng_quiz_20261116_021",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nEmployees must report lost access cards without delay.",
+      "choices": [
+        "직원들은 출입 카드를 분실하면 지체 없이 신고해야 합니다.",
+        "요청이 처리될 때까지 영수증을 보관해 주세요.",
+        "안전 검사가 진행되는 동안 엘리베이터를 이용할 수 없습니다.",
+        "제 예약이 변경되었는지 확인해 주시겠어요?"
+      ],
+      "answer": 0,
+      "explanation": "직원들은 출입 카드를 분실하면 지체 없이 신고해야 합니다.",
+      "relatedItemId": "eng_sentence_20261116_001"
+    },
+    {
+      "id": "eng_quiz_20261116_022",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nWould you mind forwarding this message to the facilities manager?",
+      "choices": [
+        "이 메시지를 시설 관리자에게 전달해 주시겠어요?",
+        "점검이 완료되는 즉시 알려 드리겠습니다.",
+        "직원들은 출입 카드를 분실하면 지체 없이 신고해야 합니다.",
+        "기한을 놓친 신청자는 새 양식을 제출해야 합니다."
+      ],
+      "answer": 0,
+      "explanation": "이 메시지를 시설 관리자에게 전달해 주시겠어요?",
+      "relatedItemId": "eng_sentence_20261116_002"
+    },
+    {
+      "id": "eng_quiz_20261116_023",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nPlease keep the receipt until your request has been processed.",
+      "choices": [
+        "점검이 완료되는 즉시 알려 드리겠습니다.",
+        "이 메시지를 시설 관리자에게 전달해 주시겠어요?",
+        "요청이 처리될 때까지 영수증을 보관해 주세요.",
+        "직원들은 출입 카드를 분실하면 지체 없이 신고해야 합니다."
+      ],
+      "answer": 2,
+      "explanation": "요청이 처리될 때까지 영수증을 보관해 주세요.",
+      "relatedItemId": "eng_sentence_20261116_003"
+    },
+    {
+      "id": "eng_quiz_20261116_024",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nThe service counter closes thirty minutes earlier on Fridays.",
+      "choices": [
+        "민원 창구는 금요일마다 30분 일찍 닫습니다.",
+        "제 예약이 변경되었는지 확인해 주시겠어요?",
+        "신청서에 신분증 사본을 첨부해 주세요.",
+        "직원들은 출입 카드를 분실하면 지체 없이 신고해야 합니다."
+      ],
+      "answer": 0,
+      "explanation": "민원 창구는 금요일마다 30분 일찍 닫습니다.",
+      "relatedItemId": "eng_sentence_20261116_004"
+    },
+    {
+      "id": "eng_quiz_20261116_025",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nThe refund will be deposited within five business days.",
+      "choices": [
+        "점검이 완료되는 즉시 알려 드리겠습니다.",
+        "이 메시지를 시설 관리자에게 전달해 주시겠어요?",
+        "기한을 놓친 신청자는 새 양식을 제출해야 합니다.",
+        "환불금은 영업일 기준 5일 이내에 입금됩니다."
+      ],
+      "answer": 3,
+      "explanation": "환불금은 영업일 기준 5일 이내에 입금됩니다.",
+      "relatedItemId": "eng_sentence_20261116_005"
+    },
+    {
+      "id": "eng_quiz_20261116_026",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nWe will notify you as soon as the inspection is complete.",
+      "choices": [
+        "이 메시지를 시설 관리자에게 전달해 주시겠어요?",
+        "점검이 완료되는 즉시 알려 드리겠습니다.",
+        "안전 검사가 진행되는 동안 엘리베이터를 이용할 수 없습니다.",
+        "요청이 처리될 때까지 영수증을 보관해 주세요."
+      ],
+      "answer": 1,
+      "explanation": "점검이 완료되는 즉시 알려 드리겠습니다.",
+      "relatedItemId": "eng_sentence_20261116_006"
+    },
+    {
+      "id": "eng_quiz_20261116_027",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nCould you confirm whether my reservation was changed?",
+      "choices": [
+        "이 메시지를 시설 관리자에게 전달해 주시겠어요?",
+        "안전 검사가 진행되는 동안 엘리베이터를 이용할 수 없습니다.",
+        "제 예약이 변경되었는지 확인해 주시겠어요?",
+        "민원 창구는 금요일마다 30분 일찍 닫습니다."
+      ],
+      "answer": 2,
+      "explanation": "제 예약이 변경되었는지 확인해 주시겠어요?",
+      "relatedItemId": "eng_sentence_20261116_007"
+    },
+    {
+      "id": "eng_quiz_20261116_028",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nPlease attach a copy of your identification to the application.",
+      "choices": [
+        "요청이 처리될 때까지 영수증을 보관해 주세요.",
+        "민원 창구는 금요일마다 30분 일찍 닫습니다.",
+        "신청서에 신분증 사본을 첨부해 주세요.",
+        "점검이 완료되는 즉시 알려 드리겠습니다."
+      ],
+      "answer": 2,
+      "explanation": "신청서에 신분증 사본을 첨부해 주세요.",
+      "relatedItemId": "eng_sentence_20261116_008"
+    },
+    {
+      "id": "eng_quiz_20261116_029",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nThe elevator is unavailable while the safety test is in progress.",
+      "choices": [
+        "안전 검사가 진행되는 동안 엘리베이터를 이용할 수 없습니다.",
+        "제 예약이 변경되었는지 확인해 주시겠어요?",
+        "직원들은 출입 카드를 분실하면 지체 없이 신고해야 합니다.",
+        "이 메시지를 시설 관리자에게 전달해 주시겠어요?"
+      ],
+      "answer": 0,
+      "explanation": "안전 검사가 진행되는 동안 엘리베이터를 이용할 수 없습니다.",
+      "relatedItemId": "eng_sentence_20261116_009"
+    },
+    {
+      "id": "eng_quiz_20261116_030",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nApplicants who miss the deadline must submit a new form.",
+      "choices": [
+        "민원 창구는 금요일마다 30분 일찍 닫습니다.",
+        "신청서에 신분증 사본을 첨부해 주세요.",
+        "기한을 놓친 신청자는 새 양식을 제출해야 합니다.",
+        "이 메시지를 시설 관리자에게 전달해 주시겠어요?"
+      ],
+      "answer": 2,
+      "explanation": "기한을 놓친 신청자는 새 양식을 제출해야 합니다.",
+      "relatedItemId": "eng_sentence_20261116_010"
+    }
+  ]
+}
