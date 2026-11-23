@@ -1,766 +1,766 @@
 {
   "schemaVersion": 1,
-  "packId": "daily_english_2026_11_22",
-  "date": "2026-11-22",
-  "title": "2026-11-22 취약 영어 자동 학습·퀴즈팩",
+  "packId": "daily_english_2026_11_23",
+  "date": "2026-11-23",
+  "title": "2026-11-23 취약 영어 자동 학습·퀴즈팩",
   "description": "검증 어휘 20개, 문장 10개, 연계 퀴즈 30개 · mode=verified_bank_spaced_review",
   "generationMode": "verified_bank_spaced_review",
   "newVocabularyCount": 0,
   "newSentenceCount": 0,
   "vocabulary": [
     {
-      "id": "eng_vocab_20261122_001",
-      "word": "convince",
-      "meaning": "확신시키다",
-      "partOfSpeech": "verb",
-      "pronunciationText": "convince",
-      "example": "The agency decided to convince the policy after reviewing the available evidence.",
-      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 확신시키다기로 결정했다.",
-      "memoryTip": "convince = 확신시키다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
-      "priority": "B",
-      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
-    },
-    {
-      "id": "eng_vocab_20261122_002",
-      "word": "confirm",
-      "meaning": "확인하다",
-      "partOfSpeech": "verb",
-      "pronunciationText": "confirm",
-      "example": "The agency decided to confirm the policy after reviewing the available evidence.",
-      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 확인하다기로 결정했다.",
-      "memoryTip": "confirm = 확인하다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
-      "priority": "A",
-      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
-    },
-    {
-      "id": "eng_vocab_20261122_003",
-      "word": "investigate",
-      "meaning": "조사하다",
-      "partOfSpeech": "verb",
-      "pronunciationText": "investigate",
-      "example": "The agency decided to investigate the policy after reviewing the available evidence.",
-      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 조사하다기로 결정했다.",
-      "memoryTip": "investigate = 조사하다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
-      "priority": "A",
-      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
-    },
-    {
-      "id": "eng_vocab_20261122_004",
-      "word": "distinguish",
-      "meaning": "구별하다",
-      "partOfSpeech": "verb",
-      "pronunciationText": "distinguish",
-      "example": "The agency decided to distinguish the policy after reviewing the available evidence.",
-      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 구별하다기로 결정했다.",
-      "memoryTip": "distinguish = 구별하다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
-      "priority": "A",
-      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
-    },
-    {
-      "id": "eng_vocab_20261122_005",
-      "word": "accessible",
-      "meaning": "접근 가능한",
-      "partOfSpeech": "adjective",
-      "pronunciationText": "accessible",
-      "example": "The committee considered the measure accessible under the current circumstances.",
-      "translation": "위원회는 현재 상황에서 그 조치가 접근 가능한고 판단했다.",
-      "memoryTip": "accessible = 접근 가능한; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
-      "priority": "C",
-      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
-    },
-    {
-      "id": "eng_vocab_20261122_006",
-      "word": "withhold",
-      "meaning": "보류하다",
-      "partOfSpeech": "verb",
-      "pronunciationText": "withhold",
-      "example": "The agency decided to withhold the policy after reviewing the available evidence.",
-      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 보류하다기로 결정했다.",
-      "memoryTip": "withhold = 보류하다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
-      "priority": "A",
-      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
-    },
-    {
-      "id": "eng_vocab_20261122_007",
-      "word": "persuade",
-      "meaning": "설득하다",
-      "partOfSpeech": "verb",
-      "pronunciationText": "persuade",
-      "example": "The agency decided to persuade the policy after reviewing the available evidence.",
-      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 설득하다기로 결정했다.",
-      "memoryTip": "persuade = 설득하다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
-      "priority": "B",
-      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
-    },
-    {
-      "id": "eng_vocab_20261122_008",
-      "word": "serve",
-      "meaning": "제공하다",
-      "partOfSpeech": "verb",
-      "pronunciationText": "serve",
-      "example": "The agency decided to serve the policy after reviewing the available evidence.",
-      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 제공하다기로 결정했다.",
-      "memoryTip": "serve = 제공하다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
-      "priority": "B",
-      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
-    },
-    {
-      "id": "eng_vocab_20261122_009",
-      "word": "reasonable",
-      "meaning": "합리적인",
-      "partOfSpeech": "adjective",
-      "pronunciationText": "reasonable",
-      "example": "The committee considered the measure reasonable under the current circumstances.",
-      "translation": "위원회는 현재 상황에서 그 조치가 합리적인고 판단했다.",
-      "memoryTip": "reasonable = 합리적인; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
-      "priority": "C",
-      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
-    },
-    {
-      "id": "eng_vocab_20261122_010",
-      "word": "information",
-      "meaning": "정보",
+      "id": "eng_vocab_20261123_001",
+      "word": "structure",
+      "meaning": "구조",
       "partOfSpeech": "noun",
-      "pronunciationText": "information",
-      "example": "Students should information the meaning of the word through a simple example.",
-      "translation": "학생들은 간단한 예문을 통해 그 단어의 의미를 정보.",
-      "memoryTip": "information = 정보; 뜻→발음→짧은 예문 순서로 3회 반복",
-      "priority": "F",
-      "level": "중학교 필수",
-      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)",
-      "sourceType": "foundation_curriculum_adapted"
-    },
-    {
-      "id": "eng_vocab_20261122_011",
-      "word": "finance",
-      "meaning": "자금을 조달하다",
-      "partOfSpeech": "verb",
-      "pronunciationText": "finance",
-      "example": "The agency decided to finance the policy after reviewing the available evidence.",
-      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 자금을 조달하다기로 결정했다.",
-      "memoryTip": "finance = 자금을 조달하다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
-      "priority": "B",
-      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
-    },
-    {
-      "id": "eng_vocab_20261122_012",
-      "word": "concern",
-      "meaning": "우려, 관련되다",
-      "partOfSpeech": "noun",
-      "pronunciationText": "concern",
-      "example": "The passage suggests that we should consider the concern aspect of the issue.",
-      "translation": "그 글은 우리가 그 문제의 우려, 관련되다 측면을 고려해야 한다고 시사한다.",
-      "memoryTip": "concern = 우려, 관련되다; 뜻→발음→짧은 예문 순서로 3회 반복",
+      "pronunciationText": "structure",
+      "example": "The passage suggests that we should consider the structure aspect of the issue.",
+      "translation": "그 글은 우리가 그 문제의 구조 측면을 고려해야 한다고 시사한다.",
+      "memoryTip": "structure = 구조; 뜻→발음→짧은 예문 순서로 3회 반복",
       "priority": "F",
       "level": "고등·수능 필수",
       "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)",
       "sourceType": "foundation_curriculum_adapted"
     },
     {
-      "id": "eng_vocab_20261122_013",
-      "word": "equal",
-      "meaning": "동등한",
-      "partOfSpeech": "adjective",
-      "pronunciationText": "equal",
-      "example": "The committee considered the measure equal under the current circumstances.",
-      "translation": "위원회는 현재 상황에서 그 조치가 동등한고 판단했다.",
-      "memoryTip": "equal = 동등한; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
-      "priority": "C",
+      "id": "eng_vocab_20261123_002",
+      "word": "motivate",
+      "meaning": "동기를 부여하다",
+      "partOfSpeech": "verb",
+      "pronunciationText": "motivate",
+      "example": "The agency decided to motivate the policy after reviewing the available evidence.",
+      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 동기를 부여하다기로 결정했다.",
+      "memoryTip": "motivate = 동기를 부여하다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
+      "priority": "B",
       "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_vocab_20261122_014",
-      "word": "solve",
-      "meaning": "해결하다",
+      "id": "eng_vocab_20261123_003",
+      "word": "prioritize",
+      "meaning": "우선시하다",
       "partOfSpeech": "verb",
-      "pronunciationText": "solve",
-      "example": "Students should solve the meaning of the word through a simple example.",
-      "translation": "학생들은 간단한 예문을 통해 그 단어의 의미를 해결하다.",
-      "memoryTip": "solve = 해결하다; 뜻→발음→짧은 예문 순서로 3회 반복",
+      "pronunciationText": "prioritize",
+      "example": "The agency decided to prioritize the policy after reviewing the available evidence.",
+      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 우선시하다기로 결정했다.",
+      "memoryTip": "prioritize = 우선시하다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
+      "priority": "B",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261123_004",
+      "word": "possible",
+      "meaning": "가능한",
+      "partOfSpeech": "adjective",
+      "pronunciationText": "possible",
+      "example": "Students should possible the meaning of the word through a simple example.",
+      "translation": "학생들은 간단한 예문을 통해 그 단어의 의미를 가능한.",
+      "memoryTip": "possible = 가능한; 뜻→발음→짧은 예문 순서로 3회 반복",
       "priority": "F",
       "level": "중학교 필수",
       "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)",
       "sourceType": "foundation_curriculum_adapted"
     },
     {
-      "id": "eng_vocab_20261122_015",
-      "word": "national",
-      "meaning": "국가의",
-      "partOfSpeech": "adjective",
-      "pronunciationText": "national",
-      "example": "The committee considered the measure national under the current circumstances.",
-      "translation": "위원회는 현재 상황에서 그 조치가 국가의고 판단했다.",
-      "memoryTip": "national = 국가의; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
-      "priority": "C",
-      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
-    },
-    {
-      "id": "eng_vocab_20261122_016",
-      "word": "potential",
-      "meaning": "잠재적인",
-      "partOfSpeech": "adjective",
-      "pronunciationText": "potential",
-      "example": "The passage suggests that we should consider the potential aspect of the issue.",
-      "translation": "그 글은 우리가 그 문제의 잠재적인 측면을 고려해야 한다고 시사한다.",
-      "memoryTip": "potential = 잠재적인; 뜻→발음→짧은 예문 순서로 3회 반복",
-      "priority": "F",
-      "level": "고등·수능 필수",
-      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)",
-      "sourceType": "foundation_curriculum_adapted"
-    },
-    {
-      "id": "eng_vocab_20261122_017",
-      "word": "record",
-      "meaning": "기록하다",
+      "id": "eng_vocab_20261123_005",
+      "word": "regulate",
+      "meaning": "규제하다",
       "partOfSpeech": "verb",
-      "pronunciationText": "record",
-      "example": "The agency decided to record the policy after reviewing the available evidence.",
-      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 기록하다기로 결정했다.",
-      "memoryTip": "record = 기록하다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
-      "priority": "B",
-      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
-    },
-    {
-      "id": "eng_vocab_20261122_018",
-      "word": "resume",
-      "meaning": "재개하다",
-      "partOfSpeech": "verb",
-      "pronunciationText": "resume",
-      "example": "The agency decided to resume the policy after reviewing the available evidence.",
-      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 재개하다기로 결정했다.",
-      "memoryTip": "resume = 재개하다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
-      "priority": "B",
-      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
-    },
-    {
-      "id": "eng_vocab_20261122_019",
-      "word": "wait",
-      "meaning": "기다리다",
-      "partOfSpeech": "verb",
-      "pronunciationText": "wait",
-      "example": "Students should wait the meaning of the word through a simple example.",
-      "translation": "학생들은 간단한 예문을 통해 그 단어의 의미를 기다리다.",
-      "memoryTip": "wait = 기다리다; 뜻→발음→짧은 예문 순서로 3회 반복",
-      "priority": "F",
-      "level": "중학교 필수",
-      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)",
-      "sourceType": "foundation_curriculum_adapted"
-    },
-    {
-      "id": "eng_vocab_20261122_020",
-      "word": "exclude",
-      "meaning": "제외하다",
-      "partOfSpeech": "verb",
-      "pronunciationText": "exclude",
-      "example": "The agency decided to exclude the policy after reviewing the available evidence.",
-      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 제외하다기로 결정했다.",
-      "memoryTip": "exclude = 제외하다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
+      "pronunciationText": "regulate",
+      "example": "The agency decided to regulate the policy after reviewing the available evidence.",
+      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 규제하다기로 결정했다.",
+      "memoryTip": "regulate = 규제하다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
       "priority": "A",
       "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261123_006",
+      "word": "qualify",
+      "meaning": "자격을 갖추다",
+      "partOfSpeech": "verb",
+      "pronunciationText": "qualify",
+      "example": "The agency decided to qualify the policy after reviewing the available evidence.",
+      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 자격을 갖추다기로 결정했다.",
+      "memoryTip": "qualify = 자격을 갖추다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
+      "priority": "B",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261123_007",
+      "word": "significant",
+      "meaning": "중요한",
+      "partOfSpeech": "adjective",
+      "pronunciationText": "significant",
+      "example": "The committee considered the measure significant under the current circumstances.",
+      "translation": "위원회는 현재 상황에서 그 조치가 중요한고 판단했다.",
+      "memoryTip": "significant = 중요한; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
+      "priority": "C",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261123_008",
+      "word": "famous",
+      "meaning": "유명한",
+      "partOfSpeech": "adjective",
+      "pronunciationText": "famous",
+      "example": "Students should famous the meaning of the word through a simple example.",
+      "translation": "학생들은 간단한 예문을 통해 그 단어의 의미를 유명한.",
+      "memoryTip": "famous = 유명한; 뜻→발음→짧은 예문 순서로 3회 반복",
+      "priority": "F",
+      "level": "중학교 필수",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)",
+      "sourceType": "foundation_curriculum_adapted"
+    },
+    {
+      "id": "eng_vocab_20261123_009",
+      "word": "public",
+      "meaning": "공공의",
+      "partOfSpeech": "adjective",
+      "pronunciationText": "public",
+      "example": "The committee considered the measure public under the current circumstances.",
+      "translation": "위원회는 현재 상황에서 그 조치가 공공의고 판단했다.",
+      "memoryTip": "public = 공공의; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
+      "priority": "C",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261123_010",
+      "word": "complete",
+      "meaning": "완료하다",
+      "partOfSpeech": "verb",
+      "pronunciationText": "complete",
+      "example": "The agency decided to complete the policy after reviewing the available evidence.",
+      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 완료하다기로 결정했다.",
+      "memoryTip": "complete = 완료하다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
+      "priority": "B",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261123_011",
+      "word": "educate",
+      "meaning": "교육하다",
+      "partOfSpeech": "verb",
+      "pronunciationText": "educate",
+      "example": "The agency decided to educate the policy after reviewing the available evidence.",
+      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 교육하다기로 결정했다.",
+      "memoryTip": "educate = 교육하다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
+      "priority": "B",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261123_012",
+      "word": "state",
+      "meaning": "진술하다",
+      "partOfSpeech": "verb",
+      "pronunciationText": "state",
+      "example": "The agency decided to state the policy after reviewing the available evidence.",
+      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 진술하다기로 결정했다.",
+      "memoryTip": "state = 진술하다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
+      "priority": "A",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261123_013",
+      "word": "temporary",
+      "meaning": "일시적인",
+      "partOfSpeech": "adjective",
+      "pronunciationText": "temporary",
+      "example": "The committee considered the measure temporary under the current circumstances.",
+      "translation": "위원회는 현재 상황에서 그 조치가 일시적인고 판단했다.",
+      "memoryTip": "temporary = 일시적인; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
+      "priority": "C",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261123_014",
+      "word": "restrict",
+      "meaning": "제한하다",
+      "partOfSpeech": "verb",
+      "pronunciationText": "restrict",
+      "example": "The agency decided to restrict the policy after reviewing the available evidence.",
+      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 제한하다기로 결정했다.",
+      "memoryTip": "restrict = 제한하다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
+      "priority": "A",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261123_015",
+      "word": "reject",
+      "meaning": "거부하다",
+      "partOfSpeech": "verb",
+      "pronunciationText": "reject",
+      "example": "The agency decided to reject the policy after reviewing the available evidence.",
+      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 거부하다기로 결정했다.",
+      "memoryTip": "reject = 거부하다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
+      "priority": "A",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261123_016",
+      "word": "cease",
+      "meaning": "중단하다",
+      "partOfSpeech": "verb",
+      "pronunciationText": "cease",
+      "example": "The agency decided to cease the policy after reviewing the available evidence.",
+      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 중단하다기로 결정했다.",
+      "memoryTip": "cease = 중단하다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
+      "priority": "B",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261123_017",
+      "word": "explain",
+      "meaning": "설명하다",
+      "partOfSpeech": "verb",
+      "pronunciationText": "explain",
+      "example": "Students should explain the meaning of the word through a simple example.",
+      "translation": "학생들은 간단한 예문을 통해 그 단어의 의미를 설명하다.",
+      "memoryTip": "explain = 설명하다; 뜻→발음→짧은 예문 순서로 3회 반복",
+      "priority": "F",
+      "level": "중학교 필수",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)",
+      "sourceType": "foundation_curriculum_adapted"
+    },
+    {
+      "id": "eng_vocab_20261123_018",
+      "word": "specific",
+      "meaning": "구체적인",
+      "partOfSpeech": "adjective",
+      "pronunciationText": "specific",
+      "example": "The committee considered the measure specific under the current circumstances.",
+      "translation": "위원회는 현재 상황에서 그 조치가 구체적인고 판단했다.",
+      "memoryTip": "specific = 구체적인; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
+      "priority": "C",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261123_019",
+      "word": "measure",
+      "meaning": "측정하다",
+      "partOfSpeech": "verb",
+      "pronunciationText": "measure",
+      "example": "The agency decided to measure the policy after reviewing the available evidence.",
+      "translation": "그 기관은 이용 가능한 근거를 검토한 뒤 정책을 측정하다기로 결정했다.",
+      "memoryTip": "measure = 측정하다; 행정·정책 문맥의 예문과 함께 소리 내어 3회 반복",
+      "priority": "A",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)"
+    },
+    {
+      "id": "eng_vocab_20261123_020",
+      "word": "decision",
+      "meaning": "결정",
+      "partOfSpeech": "noun",
+      "pronunciationText": "decision",
+      "example": "Students should decision the meaning of the word through a simple example.",
+      "translation": "학생들은 간단한 예문을 통해 그 단어의 의미를 결정.",
+      "memoryTip": "decision = 결정; 뜻→발음→짧은 예문 순서로 3회 반복",
+      "priority": "F",
+      "level": "중학교 필수",
+      "sourceBasis": "저장소 누적 검증 어휘 기반 자동 선택(미사용 우선·이후 간격 복습)",
+      "sourceType": "foundation_curriculum_adapted"
     }
   ],
   "sentences": [
     {
-      "id": "eng_sentence_20261122_001",
-      "text": "Could you confirm whether my reservation was changed?",
-      "translation": "제 예약이 변경되었는지 확인해 주시겠어요?",
-      "speechText": "Could you confirm whether my reservation was changed?",
+      "id": "eng_sentence_20261123_001",
+      "text": "Could you resend the attachment in a format that I can open?",
+      "translation": "제가 열 수 있는 형식으로 첨부파일을 다시 보내 주시겠어요?",
+      "speechText": "Could you resend the attachment in a format that I can open?",
       "pattern": "실무·생활영어 문장",
       "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_sentence_20261122_002",
-      "text": "Please attach a copy of your identification to the application.",
-      "translation": "신청서에 신분증 사본을 첨부해 주세요.",
-      "speechText": "Please attach a copy of your identification to the application.",
+      "id": "eng_sentence_20261123_002",
+      "text": "Visitors must leave a photo ID at the security desk.",
+      "translation": "방문객은 보안 데스크에 사진이 있는 신분증을 맡겨야 합니다.",
+      "speechText": "Visitors must leave a photo ID at the security desk.",
       "pattern": "실무·생활영어 문장",
       "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_sentence_20261122_003",
-      "text": "The refund will be deposited within five business days.",
-      "translation": "환불금은 영업일 기준 5일 이내에 입금됩니다.",
-      "speechText": "The refund will be deposited within five business days.",
+      "id": "eng_sentence_20261123_003",
+      "text": "I would like to confirm the deadline for submitting additional evidence.",
+      "translation": "추가 증거 제출 기한을 확인하고 싶습니다.",
+      "speechText": "I would like to confirm the deadline for submitting additional evidence.",
       "pattern": "실무·생활영어 문장",
       "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_sentence_20261122_004",
-      "text": "Applicants who miss the deadline must submit a new form.",
-      "translation": "기한을 놓친 신청자는 새 양식을 제출해야 합니다.",
-      "speechText": "Applicants who miss the deadline must submit a new form.",
+      "id": "eng_sentence_20261123_004",
+      "text": "Please let us know if you need an interpreter for the appointment.",
+      "translation": "예약 시 통역이 필요하면 알려 주세요.",
+      "speechText": "Please let us know if you need an interpreter for the appointment.",
       "pattern": "실무·생활영어 문장",
       "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_sentence_20261122_005",
-      "text": "The service counter closes thirty minutes earlier on Fridays.",
-      "translation": "민원 창구는 금요일마다 30분 일찍 닫습니다.",
-      "speechText": "The service counter closes thirty minutes earlier on Fridays.",
+      "id": "eng_sentence_20261123_005",
+      "text": "Please verify the document number before submitting the request.",
+      "translation": "요청을 제출하기 전에 문서 번호를 확인해 주세요.",
+      "speechText": "Please verify the document number before submitting the request.",
       "pattern": "실무·생활영어 문장",
       "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_sentence_20261122_006",
-      "text": "Please keep the receipt until your request has been processed.",
-      "translation": "요청이 처리될 때까지 영수증을 보관해 주세요.",
-      "speechText": "Please keep the receipt until your request has been processed.",
+      "id": "eng_sentence_20261123_006",
+      "text": "The fee will be waived if you meet the eligibility requirements.",
+      "translation": "자격 요건을 충족하면 수수료가 면제됩니다.",
+      "speechText": "The fee will be waived if you meet the eligibility requirements.",
       "pattern": "실무·생활영어 문장",
       "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_sentence_20261122_007",
-      "text": "Employees must report lost access cards without delay.",
-      "translation": "직원들은 출입 카드를 분실하면 지체 없이 신고해야 합니다.",
-      "speechText": "Employees must report lost access cards without delay.",
+      "id": "eng_sentence_20261123_007",
+      "text": "The maintenance work may cause brief interruptions to the service.",
+      "translation": "유지보수 작업으로 서비스가 잠시 중단될 수 있습니다.",
+      "speechText": "The maintenance work may cause brief interruptions to the service.",
       "pattern": "실무·생활영어 문장",
       "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_sentence_20261122_008",
-      "text": "Would you mind forwarding this message to the facilities manager?",
-      "translation": "이 메시지를 시설 관리자에게 전달해 주시겠어요?",
-      "speechText": "Would you mind forwarding this message to the facilities manager?",
+      "id": "eng_sentence_20261123_008",
+      "text": "Your application has been received and is now under review.",
+      "translation": "신청서가 접수되었으며 현재 검토 중입니다.",
+      "speechText": "Your application has been received and is now under review.",
       "pattern": "실무·생활영어 문장",
       "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_sentence_20261122_009",
-      "text": "We will notify you as soon as the inspection is complete.",
-      "translation": "점검이 완료되는 즉시 알려 드리겠습니다.",
-      "speechText": "We will notify you as soon as the inspection is complete.",
+      "id": "eng_sentence_20261123_009",
+      "text": "The help desk will remain open until six o’clock this evening.",
+      "translation": "안내 데스크는 오늘 저녁 6시까지 운영됩니다.",
+      "speechText": "The help desk will remain open until six o’clock this evening.",
       "pattern": "실무·생활영어 문장",
       "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
     },
     {
-      "id": "eng_sentence_20261122_010",
-      "text": "The elevator is unavailable while the safety test is in progress.",
-      "translation": "안전 검사가 진행되는 동안 엘리베이터를 이용할 수 없습니다.",
-      "speechText": "The elevator is unavailable while the safety test is in progress.",
+      "id": "eng_sentence_20261123_010",
+      "text": "The meeting room has been moved to the third floor.",
+      "translation": "회의실이 3층으로 변경되었습니다.",
+      "speechText": "The meeting room has been moved to the third floor.",
       "pattern": "실무·생활영어 문장",
       "sourceBasis": "저장소 누적 검증 문장 기반 자동 선택(미사용 우선·이후 간격 복습)"
     }
   ],
   "quizQuestions": [
     {
-      "id": "eng_quiz_20261122_001",
+      "id": "eng_quiz_20261123_001",
       "type": "vocabulary",
-      "prompt": "다음 문장에서 'convince'의 뜻으로 가장 적절한 것은?\nThe agency decided to convince the policy after reviewing the available evidence.",
+      "prompt": "다음 문장에서 'structure'의 뜻으로 가장 적절한 것은?\nThe passage suggests that we should consider the structure aspect of the issue.",
       "choices": [
-        "접근 가능한",
-        "확신시키다",
-        "해결하다",
-        "조사하다"
+        "중단하다",
+        "규제하다",
+        "구조",
+        "교육하다"
+      ],
+      "answer": 2,
+      "explanation": "'structure'는 '구조'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261123_001"
+    },
+    {
+      "id": "eng_quiz_20261123_002",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'motivate'의 뜻으로 가장 적절한 것은?\nThe agency decided to motivate the policy after reviewing the available evidence.",
+      "choices": [
+        "교육하다",
+        "동기를 부여하다",
+        "자격을 갖추다",
+        "거부하다"
       ],
       "answer": 1,
-      "explanation": "'convince'는 '확신시키다'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261122_001"
+      "explanation": "'motivate'는 '동기를 부여하다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261123_002"
     },
     {
-      "id": "eng_quiz_20261122_002",
+      "id": "eng_quiz_20261123_003",
       "type": "vocabulary",
-      "prompt": "다음 문장에서 'confirm'의 뜻으로 가장 적절한 것은?\nThe agency decided to confirm the policy after reviewing the available evidence.",
+      "prompt": "다음 문장에서 'prioritize'의 뜻으로 가장 적절한 것은?\nThe agency decided to prioritize the policy after reviewing the available evidence.",
       "choices": [
-        "제공하다",
-        "해결하다",
-        "합리적인",
-        "확인하다"
+        "일시적인",
+        "구조",
+        "진술하다",
+        "우선시하다"
       ],
       "answer": 3,
-      "explanation": "'confirm'는 '확인하다'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261122_002"
+      "explanation": "'prioritize'는 '우선시하다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261123_003"
     },
     {
-      "id": "eng_quiz_20261122_003",
+      "id": "eng_quiz_20261123_004",
       "type": "vocabulary",
-      "prompt": "다음 문장에서 'investigate'의 뜻으로 가장 적절한 것은?\nThe agency decided to investigate the policy after reviewing the available evidence.",
+      "prompt": "다음 문장에서 'possible'의 뜻으로 가장 적절한 것은?\nStudents should possible the meaning of the word through a simple example.",
       "choices": [
-        "정보",
-        "해결하다",
-        "조사하다",
-        "확신시키다"
-      ],
-      "answer": 2,
-      "explanation": "'investigate'는 '조사하다'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261122_003"
-    },
-    {
-      "id": "eng_quiz_20261122_004",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'distinguish'의 뜻으로 가장 적절한 것은?\nThe agency decided to distinguish the policy after reviewing the available evidence.",
-      "choices": [
-        "기다리다",
-        "조사하다",
-        "자금을 조달하다",
-        "구별하다"
-      ],
-      "answer": 3,
-      "explanation": "'distinguish'는 '구별하다'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261122_004"
-    },
-    {
-      "id": "eng_quiz_20261122_005",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'accessible'의 뜻으로 가장 적절한 것은?\nThe committee considered the measure accessible under the current circumstances.",
-      "choices": [
-        "설득하다",
-        "기다리다",
-        "접근 가능한",
-        "해결하다"
-      ],
-      "answer": 2,
-      "explanation": "'accessible'는 '접근 가능한'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261122_005"
-    },
-    {
-      "id": "eng_quiz_20261122_006",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'withhold'의 뜻으로 가장 적절한 것은?\nThe agency decided to withhold the policy after reviewing the available evidence.",
-      "choices": [
-        "자금을 조달하다",
-        "재개하다",
-        "보류하다",
-        "합리적인"
-      ],
-      "answer": 2,
-      "explanation": "'withhold'는 '보류하다'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261122_006"
-    },
-    {
-      "id": "eng_quiz_20261122_007",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'persuade'의 뜻으로 가장 적절한 것은?\nThe agency decided to persuade the policy after reviewing the available evidence.",
-      "choices": [
-        "동등한",
-        "접근 가능한",
-        "설득하다",
-        "확인하다"
-      ],
-      "answer": 2,
-      "explanation": "'persuade'는 '설득하다'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261122_007"
-    },
-    {
-      "id": "eng_quiz_20261122_008",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'serve'의 뜻으로 가장 적절한 것은?\nThe agency decided to serve the policy after reviewing the available evidence.",
-      "choices": [
-        "제외하다",
-        "제공하다",
-        "확인하다",
-        "재개하다"
+        "동기를 부여하다",
+        "가능한",
+        "결정",
+        "거부하다"
       ],
       "answer": 1,
-      "explanation": "'serve'는 '제공하다'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261122_008"
+      "explanation": "'possible'는 '가능한'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261123_004"
     },
     {
-      "id": "eng_quiz_20261122_009",
+      "id": "eng_quiz_20261123_005",
       "type": "vocabulary",
-      "prompt": "다음 문장에서 'reasonable'의 뜻으로 가장 적절한 것은?\nThe committee considered the measure reasonable under the current circumstances.",
+      "prompt": "다음 문장에서 'regulate'의 뜻으로 가장 적절한 것은?\nThe agency decided to regulate the policy after reviewing the available evidence.",
       "choices": [
-        "조사하다",
-        "제공하다",
-        "합리적인",
-        "국가의"
-      ],
-      "answer": 2,
-      "explanation": "'reasonable'는 '합리적인'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261122_009"
-    },
-    {
-      "id": "eng_quiz_20261122_010",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'information'의 뜻으로 가장 적절한 것은?\nStudents should information the meaning of the word through a simple example.",
-      "choices": [
-        "정보",
-        "기록하다",
-        "합리적인",
-        "기다리다"
-      ],
-      "answer": 0,
-      "explanation": "'information'는 '정보'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261122_010"
-    },
-    {
-      "id": "eng_quiz_20261122_011",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'finance'의 뜻으로 가장 적절한 것은?\nThe agency decided to finance the policy after reviewing the available evidence.",
-      "choices": [
-        "자금을 조달하다",
-        "제외하다",
-        "정보",
-        "잠재적인"
-      ],
-      "answer": 0,
-      "explanation": "'finance'는 '자금을 조달하다'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261122_011"
-    },
-    {
-      "id": "eng_quiz_20261122_012",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'concern'의 뜻으로 가장 적절한 것은?\nThe passage suggests that we should consider the concern aspect of the issue.",
-      "choices": [
-        "해결하다",
-        "제외하다",
-        "구별하다",
-        "우려, 관련되다"
-      ],
-      "answer": 3,
-      "explanation": "'concern'는 '우려, 관련되다'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261122_012"
-    },
-    {
-      "id": "eng_quiz_20261122_013",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'equal'의 뜻으로 가장 적절한 것은?\nThe committee considered the measure equal under the current circumstances.",
-      "choices": [
-        "보류하다",
-        "국가의",
-        "동등한",
-        "설득하다"
-      ],
-      "answer": 2,
-      "explanation": "'equal'는 '동등한'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261122_013"
-    },
-    {
-      "id": "eng_quiz_20261122_014",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'solve'의 뜻으로 가장 적절한 것은?\nStudents should solve the meaning of the word through a simple example.",
-      "choices": [
-        "동등한",
-        "정보",
-        "해결하다",
-        "우려, 관련되다"
-      ],
-      "answer": 2,
-      "explanation": "'solve'는 '해결하다'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261122_014"
-    },
-    {
-      "id": "eng_quiz_20261122_015",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'national'의 뜻으로 가장 적절한 것은?\nThe committee considered the measure national under the current circumstances.",
-      "choices": [
-        "동등한",
-        "기록하다",
-        "제외하다",
-        "국가의"
-      ],
-      "answer": 3,
-      "explanation": "'national'는 '국가의'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261122_015"
-    },
-    {
-      "id": "eng_quiz_20261122_016",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'potential'의 뜻으로 가장 적절한 것은?\nThe passage suggests that we should consider the potential aspect of the issue.",
-      "choices": [
-        "보류하다",
-        "정보",
-        "해결하다",
-        "잠재적인"
-      ],
-      "answer": 3,
-      "explanation": "'potential'는 '잠재적인'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261122_016"
-    },
-    {
-      "id": "eng_quiz_20261122_017",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'record'의 뜻으로 가장 적절한 것은?\nThe agency decided to record the policy after reviewing the available evidence.",
-      "choices": [
-        "기록하다",
-        "제외하다",
-        "제공하다",
-        "확인하다"
-      ],
-      "answer": 0,
-      "explanation": "'record'는 '기록하다'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261122_017"
-    },
-    {
-      "id": "eng_quiz_20261122_018",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'resume'의 뜻으로 가장 적절한 것은?\nThe agency decided to resume the policy after reviewing the available evidence.",
-      "choices": [
-        "확인하다",
-        "자금을 조달하다",
-        "재개하다",
-        "국가의"
-      ],
-      "answer": 2,
-      "explanation": "'resume'는 '재개하다'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261122_018"
-    },
-    {
-      "id": "eng_quiz_20261122_019",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'wait'의 뜻으로 가장 적절한 것은?\nStudents should wait the meaning of the word through a simple example.",
-      "choices": [
-        "접근 가능한",
-        "조사하다",
-        "기다리다",
-        "제공하다"
-      ],
-      "answer": 2,
-      "explanation": "'wait'는 '기다리다'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261122_019"
-    },
-    {
-      "id": "eng_quiz_20261122_020",
-      "type": "vocabulary",
-      "prompt": "다음 문장에서 'exclude'의 뜻으로 가장 적절한 것은?\nThe agency decided to exclude the policy after reviewing the available evidence.",
-      "choices": [
-        "제외하다",
-        "구별하다",
-        "우려, 관련되다",
-        "확인하다"
-      ],
-      "answer": 0,
-      "explanation": "'exclude'는 '제외하다'라는 뜻이다.",
-      "relatedItemId": "eng_vocab_20261122_020"
-    },
-    {
-      "id": "eng_quiz_20261122_021",
-      "type": "sentence",
-      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nCould you confirm whether my reservation was changed?",
-      "choices": [
-        "제 예약이 변경되었는지 확인해 주시겠어요?",
-        "이 메시지를 시설 관리자에게 전달해 주시겠어요?",
-        "요청이 처리될 때까지 영수증을 보관해 주세요.",
-        "기한을 놓친 신청자는 새 양식을 제출해야 합니다."
-      ],
-      "answer": 0,
-      "explanation": "제 예약이 변경되었는지 확인해 주시겠어요?",
-      "relatedItemId": "eng_sentence_20261122_001"
-    },
-    {
-      "id": "eng_quiz_20261122_022",
-      "type": "sentence",
-      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nPlease attach a copy of your identification to the application.",
-      "choices": [
-        "제 예약이 변경되었는지 확인해 주시겠어요?",
-        "요청이 처리될 때까지 영수증을 보관해 주세요.",
-        "환불금은 영업일 기준 5일 이내에 입금됩니다.",
-        "신청서에 신분증 사본을 첨부해 주세요."
-      ],
-      "answer": 3,
-      "explanation": "신청서에 신분증 사본을 첨부해 주세요.",
-      "relatedItemId": "eng_sentence_20261122_002"
-    },
-    {
-      "id": "eng_quiz_20261122_023",
-      "type": "sentence",
-      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nThe refund will be deposited within five business days.",
-      "choices": [
-        "제 예약이 변경되었는지 확인해 주시겠어요?",
-        "민원 창구는 금요일마다 30분 일찍 닫습니다.",
-        "환불금은 영업일 기준 5일 이내에 입금됩니다.",
-        "신청서에 신분증 사본을 첨부해 주세요."
-      ],
-      "answer": 2,
-      "explanation": "환불금은 영업일 기준 5일 이내에 입금됩니다.",
-      "relatedItemId": "eng_sentence_20261122_003"
-    },
-    {
-      "id": "eng_quiz_20261122_024",
-      "type": "sentence",
-      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nApplicants who miss the deadline must submit a new form.",
-      "choices": [
-        "제 예약이 변경되었는지 확인해 주시겠어요?",
-        "점검이 완료되는 즉시 알려 드리겠습니다.",
-        "신청서에 신분증 사본을 첨부해 주세요.",
-        "기한을 놓친 신청자는 새 양식을 제출해야 합니다."
-      ],
-      "answer": 3,
-      "explanation": "기한을 놓친 신청자는 새 양식을 제출해야 합니다.",
-      "relatedItemId": "eng_sentence_20261122_004"
-    },
-    {
-      "id": "eng_quiz_20261122_025",
-      "type": "sentence",
-      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nThe service counter closes thirty minutes earlier on Fridays.",
-      "choices": [
-        "민원 창구는 금요일마다 30분 일찍 닫습니다.",
-        "안전 검사가 진행되는 동안 엘리베이터를 이용할 수 없습니다.",
-        "점검이 완료되는 즉시 알려 드리겠습니다.",
-        "요청이 처리될 때까지 영수증을 보관해 주세요."
-      ],
-      "answer": 0,
-      "explanation": "민원 창구는 금요일마다 30분 일찍 닫습니다.",
-      "relatedItemId": "eng_sentence_20261122_005"
-    },
-    {
-      "id": "eng_quiz_20261122_026",
-      "type": "sentence",
-      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nPlease keep the receipt until your request has been processed.",
-      "choices": [
-        "기한을 놓친 신청자는 새 양식을 제출해야 합니다.",
-        "요청이 처리될 때까지 영수증을 보관해 주세요.",
-        "민원 창구는 금요일마다 30분 일찍 닫습니다.",
-        "제 예약이 변경되었는지 확인해 주시겠어요?"
+        "중요한",
+        "규제하다",
+        "거부하다",
+        "결정"
       ],
       "answer": 1,
-      "explanation": "요청이 처리될 때까지 영수증을 보관해 주세요.",
-      "relatedItemId": "eng_sentence_20261122_006"
+      "explanation": "'regulate'는 '규제하다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261123_005"
     },
     {
-      "id": "eng_quiz_20261122_027",
-      "type": "sentence",
-      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nEmployees must report lost access cards without delay.",
+      "id": "eng_quiz_20261123_006",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'qualify'의 뜻으로 가장 적절한 것은?\nThe agency decided to qualify the policy after reviewing the available evidence.",
       "choices": [
-        "직원들은 출입 카드를 분실하면 지체 없이 신고해야 합니다.",
-        "신청서에 신분증 사본을 첨부해 주세요.",
-        "이 메시지를 시설 관리자에게 전달해 주시겠어요?",
-        "환불금은 영업일 기준 5일 이내에 입금됩니다."
+        "완료하다",
+        "일시적인",
+        "측정하다",
+        "자격을 갖추다"
+      ],
+      "answer": 3,
+      "explanation": "'qualify'는 '자격을 갖추다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261123_006"
+    },
+    {
+      "id": "eng_quiz_20261123_007",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'significant'의 뜻으로 가장 적절한 것은?\nThe committee considered the measure significant under the current circumstances.",
+      "choices": [
+        "자격을 갖추다",
+        "유명한",
+        "구조",
+        "중요한"
+      ],
+      "answer": 3,
+      "explanation": "'significant'는 '중요한'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261123_007"
+    },
+    {
+      "id": "eng_quiz_20261123_008",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'famous'의 뜻으로 가장 적절한 것은?\nStudents should famous the meaning of the word through a simple example.",
+      "choices": [
+        "유명한",
+        "완료하다",
+        "설명하다",
+        "일시적인"
       ],
       "answer": 0,
-      "explanation": "직원들은 출입 카드를 분실하면 지체 없이 신고해야 합니다.",
-      "relatedItemId": "eng_sentence_20261122_007"
+      "explanation": "'famous'는 '유명한'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261123_008"
     },
     {
-      "id": "eng_quiz_20261122_028",
-      "type": "sentence",
-      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nWould you mind forwarding this message to the facilities manager?",
+      "id": "eng_quiz_20261123_009",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'public'의 뜻으로 가장 적절한 것은?\nThe committee considered the measure public under the current circumstances.",
       "choices": [
-        "제 예약이 변경되었는지 확인해 주시겠어요?",
-        "직원들은 출입 카드를 분실하면 지체 없이 신고해야 합니다.",
-        "기한을 놓친 신청자는 새 양식을 제출해야 합니다.",
-        "이 메시지를 시설 관리자에게 전달해 주시겠어요?"
+        "공공의",
+        "교육하다",
+        "구조",
+        "제한하다"
       ],
-      "answer": 3,
-      "explanation": "이 메시지를 시설 관리자에게 전달해 주시겠어요?",
-      "relatedItemId": "eng_sentence_20261122_008"
+      "answer": 0,
+      "explanation": "'public'는 '공공의'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261123_009"
     },
     {
-      "id": "eng_quiz_20261122_029",
-      "type": "sentence",
-      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nWe will notify you as soon as the inspection is complete.",
+      "id": "eng_quiz_20261123_010",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'complete'의 뜻으로 가장 적절한 것은?\nThe agency decided to complete the policy after reviewing the available evidence.",
       "choices": [
-        "이 메시지를 시설 관리자에게 전달해 주시겠어요?",
-        "요청이 처리될 때까지 영수증을 보관해 주세요.",
-        "직원들은 출입 카드를 분실하면 지체 없이 신고해야 합니다.",
-        "점검이 완료되는 즉시 알려 드리겠습니다."
+        "측정하다",
+        "자격을 갖추다",
+        "완료하다",
+        "동기를 부여하다"
       ],
-      "answer": 3,
-      "explanation": "점검이 완료되는 즉시 알려 드리겠습니다.",
-      "relatedItemId": "eng_sentence_20261122_009"
+      "answer": 2,
+      "explanation": "'complete'는 '완료하다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261123_010"
     },
     {
-      "id": "eng_quiz_20261122_030",
-      "type": "sentence",
-      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nThe elevator is unavailable while the safety test is in progress.",
+      "id": "eng_quiz_20261123_011",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'educate'의 뜻으로 가장 적절한 것은?\nThe agency decided to educate the policy after reviewing the available evidence.",
       "choices": [
-        "기한을 놓친 신청자는 새 양식을 제출해야 합니다.",
-        "직원들은 출입 카드를 분실하면 지체 없이 신고해야 합니다.",
-        "요청이 처리될 때까지 영수증을 보관해 주세요.",
-        "안전 검사가 진행되는 동안 엘리베이터를 이용할 수 없습니다."
+        "중단하다",
+        "중요한",
+        "완료하다",
+        "교육하다"
       ],
       "answer": 3,
-      "explanation": "안전 검사가 진행되는 동안 엘리베이터를 이용할 수 없습니다.",
-      "relatedItemId": "eng_sentence_20261122_010"
+      "explanation": "'educate'는 '교육하다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261123_011"
+    },
+    {
+      "id": "eng_quiz_20261123_012",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'state'의 뜻으로 가장 적절한 것은?\nThe agency decided to state the policy after reviewing the available evidence.",
+      "choices": [
+        "구체적인",
+        "설명하다",
+        "제한하다",
+        "진술하다"
+      ],
+      "answer": 3,
+      "explanation": "'state'는 '진술하다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261123_012"
+    },
+    {
+      "id": "eng_quiz_20261123_013",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'temporary'의 뜻으로 가장 적절한 것은?\nThe committee considered the measure temporary under the current circumstances.",
+      "choices": [
+        "유명한",
+        "완료하다",
+        "일시적인",
+        "가능한"
+      ],
+      "answer": 2,
+      "explanation": "'temporary'는 '일시적인'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261123_013"
+    },
+    {
+      "id": "eng_quiz_20261123_014",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'restrict'의 뜻으로 가장 적절한 것은?\nThe agency decided to restrict the policy after reviewing the available evidence.",
+      "choices": [
+        "거부하다",
+        "일시적인",
+        "진술하다",
+        "제한하다"
+      ],
+      "answer": 3,
+      "explanation": "'restrict'는 '제한하다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261123_014"
+    },
+    {
+      "id": "eng_quiz_20261123_015",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'reject'의 뜻으로 가장 적절한 것은?\nThe agency decided to reject the policy after reviewing the available evidence.",
+      "choices": [
+        "진술하다",
+        "유명한",
+        "거부하다",
+        "측정하다"
+      ],
+      "answer": 2,
+      "explanation": "'reject'는 '거부하다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261123_015"
+    },
+    {
+      "id": "eng_quiz_20261123_016",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'cease'의 뜻으로 가장 적절한 것은?\nThe agency decided to cease the policy after reviewing the available evidence.",
+      "choices": [
+        "공공의",
+        "제한하다",
+        "중단하다",
+        "측정하다"
+      ],
+      "answer": 2,
+      "explanation": "'cease'는 '중단하다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261123_016"
+    },
+    {
+      "id": "eng_quiz_20261123_017",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'explain'의 뜻으로 가장 적절한 것은?\nStudents should explain the meaning of the word through a simple example.",
+      "choices": [
+        "공공의",
+        "규제하다",
+        "설명하다",
+        "제한하다"
+      ],
+      "answer": 2,
+      "explanation": "'explain'는 '설명하다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261123_017"
+    },
+    {
+      "id": "eng_quiz_20261123_018",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'specific'의 뜻으로 가장 적절한 것은?\nThe committee considered the measure specific under the current circumstances.",
+      "choices": [
+        "규제하다",
+        "동기를 부여하다",
+        "구체적인",
+        "중단하다"
+      ],
+      "answer": 2,
+      "explanation": "'specific'는 '구체적인'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261123_018"
+    },
+    {
+      "id": "eng_quiz_20261123_019",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'measure'의 뜻으로 가장 적절한 것은?\nThe agency decided to measure the policy after reviewing the available evidence.",
+      "choices": [
+        "거부하다",
+        "측정하다",
+        "우선시하다",
+        "규제하다"
+      ],
+      "answer": 1,
+      "explanation": "'measure'는 '측정하다'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261123_019"
+    },
+    {
+      "id": "eng_quiz_20261123_020",
+      "type": "vocabulary",
+      "prompt": "다음 문장에서 'decision'의 뜻으로 가장 적절한 것은?\nStudents should decision the meaning of the word through a simple example.",
+      "choices": [
+        "설명하다",
+        "결정",
+        "진술하다",
+        "구조"
+      ],
+      "answer": 1,
+      "explanation": "'decision'는 '결정'라는 뜻이다.",
+      "relatedItemId": "eng_vocab_20261123_020"
+    },
+    {
+      "id": "eng_quiz_20261123_021",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nCould you resend the attachment in a format that I can open?",
+      "choices": [
+        "자격 요건을 충족하면 수수료가 면제됩니다.",
+        "제가 열 수 있는 형식으로 첨부파일을 다시 보내 주시겠어요?",
+        "신청서가 접수되었으며 현재 검토 중입니다.",
+        "회의실이 3층으로 변경되었습니다."
+      ],
+      "answer": 1,
+      "explanation": "제가 열 수 있는 형식으로 첨부파일을 다시 보내 주시겠어요?",
+      "relatedItemId": "eng_sentence_20261123_001"
+    },
+    {
+      "id": "eng_quiz_20261123_022",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nVisitors must leave a photo ID at the security desk.",
+      "choices": [
+        "방문객은 보안 데스크에 사진이 있는 신분증을 맡겨야 합니다.",
+        "유지보수 작업으로 서비스가 잠시 중단될 수 있습니다.",
+        "예약 시 통역이 필요하면 알려 주세요.",
+        "신청서가 접수되었으며 현재 검토 중입니다."
+      ],
+      "answer": 0,
+      "explanation": "방문객은 보안 데스크에 사진이 있는 신분증을 맡겨야 합니다.",
+      "relatedItemId": "eng_sentence_20261123_002"
+    },
+    {
+      "id": "eng_quiz_20261123_023",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nI would like to confirm the deadline for submitting additional evidence.",
+      "choices": [
+        "회의실이 3층으로 변경되었습니다.",
+        "자격 요건을 충족하면 수수료가 면제됩니다.",
+        "방문객은 보안 데스크에 사진이 있는 신분증을 맡겨야 합니다.",
+        "추가 증거 제출 기한을 확인하고 싶습니다."
+      ],
+      "answer": 3,
+      "explanation": "추가 증거 제출 기한을 확인하고 싶습니다.",
+      "relatedItemId": "eng_sentence_20261123_003"
+    },
+    {
+      "id": "eng_quiz_20261123_024",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nPlease let us know if you need an interpreter for the appointment.",
+      "choices": [
+        "자격 요건을 충족하면 수수료가 면제됩니다.",
+        "요청을 제출하기 전에 문서 번호를 확인해 주세요.",
+        "예약 시 통역이 필요하면 알려 주세요.",
+        "방문객은 보안 데스크에 사진이 있는 신분증을 맡겨야 합니다."
+      ],
+      "answer": 2,
+      "explanation": "예약 시 통역이 필요하면 알려 주세요.",
+      "relatedItemId": "eng_sentence_20261123_004"
+    },
+    {
+      "id": "eng_quiz_20261123_025",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nPlease verify the document number before submitting the request.",
+      "choices": [
+        "안내 데스크는 오늘 저녁 6시까지 운영됩니다.",
+        "추가 증거 제출 기한을 확인하고 싶습니다.",
+        "요청을 제출하기 전에 문서 번호를 확인해 주세요.",
+        "회의실이 3층으로 변경되었습니다."
+      ],
+      "answer": 2,
+      "explanation": "요청을 제출하기 전에 문서 번호를 확인해 주세요.",
+      "relatedItemId": "eng_sentence_20261123_005"
+    },
+    {
+      "id": "eng_quiz_20261123_026",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nThe fee will be waived if you meet the eligibility requirements.",
+      "choices": [
+        "자격 요건을 충족하면 수수료가 면제됩니다.",
+        "신청서가 접수되었으며 현재 검토 중입니다.",
+        "제가 열 수 있는 형식으로 첨부파일을 다시 보내 주시겠어요?",
+        "방문객은 보안 데스크에 사진이 있는 신분증을 맡겨야 합니다."
+      ],
+      "answer": 0,
+      "explanation": "자격 요건을 충족하면 수수료가 면제됩니다.",
+      "relatedItemId": "eng_sentence_20261123_006"
+    },
+    {
+      "id": "eng_quiz_20261123_027",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nThe maintenance work may cause brief interruptions to the service.",
+      "choices": [
+        "회의실이 3층으로 변경되었습니다.",
+        "추가 증거 제출 기한을 확인하고 싶습니다.",
+        "유지보수 작업으로 서비스가 잠시 중단될 수 있습니다.",
+        "제가 열 수 있는 형식으로 첨부파일을 다시 보내 주시겠어요?"
+      ],
+      "answer": 2,
+      "explanation": "유지보수 작업으로 서비스가 잠시 중단될 수 있습니다.",
+      "relatedItemId": "eng_sentence_20261123_007"
+    },
+    {
+      "id": "eng_quiz_20261123_028",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nYour application has been received and is now under review.",
+      "choices": [
+        "자격 요건을 충족하면 수수료가 면제됩니다.",
+        "추가 증거 제출 기한을 확인하고 싶습니다.",
+        "방문객은 보안 데스크에 사진이 있는 신분증을 맡겨야 합니다.",
+        "신청서가 접수되었으며 현재 검토 중입니다."
+      ],
+      "answer": 3,
+      "explanation": "신청서가 접수되었으며 현재 검토 중입니다.",
+      "relatedItemId": "eng_sentence_20261123_008"
+    },
+    {
+      "id": "eng_quiz_20261123_029",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nThe help desk will remain open until six o’clock this evening.",
+      "choices": [
+        "안내 데스크는 오늘 저녁 6시까지 운영됩니다.",
+        "유지보수 작업으로 서비스가 잠시 중단될 수 있습니다.",
+        "요청을 제출하기 전에 문서 번호를 확인해 주세요.",
+        "자격 요건을 충족하면 수수료가 면제됩니다."
+      ],
+      "answer": 0,
+      "explanation": "안내 데스크는 오늘 저녁 6시까지 운영됩니다.",
+      "relatedItemId": "eng_sentence_20261123_009"
+    },
+    {
+      "id": "eng_quiz_20261123_030",
+      "type": "sentence",
+      "prompt": "다음 문장의 우리말 뜻으로 가장 적절한 것은?\nThe meeting room has been moved to the third floor.",
+      "choices": [
+        "요청을 제출하기 전에 문서 번호를 확인해 주세요.",
+        "회의실이 3층으로 변경되었습니다.",
+        "제가 열 수 있는 형식으로 첨부파일을 다시 보내 주시겠어요?",
+        "방문객은 보안 데스크에 사진이 있는 신분증을 맡겨야 합니다."
+      ],
+      "answer": 1,
+      "explanation": "회의실이 3층으로 변경되었습니다.",
+      "relatedItemId": "eng_sentence_20261123_010"
     }
   ]
 }
